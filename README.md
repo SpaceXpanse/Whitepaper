@@ -1,1 +1,1 @@
-# Whitepaper
+# SpaceXpanse Manifesto
