@@ -8,7 +8,7 @@ Long story short: We want to make a self-sustained virtual environment by using 
 ### Blockchain - ROD
 Open source
 
-- Main urrency /creation of tokens/
+- Main currency /creation of tokens/
 - Storage of Digital IDs and other information
 - Decentralized DNS or dDNS /from Namecoin code/
 - Storage of files by implementation of IPFS
@@ -24,7 +24,7 @@ Open source
 - Real-time realistic solar system with major celestial bodies, terrains and environment
 - Gravitational and other forces, affecting all objects accordingly /physics/
 - Fast rendering with realistic level of detail
-- Creation and editiong of multi-part objects
+- Creation and editing of multi-part objects
 - Python API
 - Node-based programming logic /like UE5/
 - Multiple seats in one object
@@ -40,11 +40,11 @@ Closed source Real-time Massive Multiplayer Open World Sandbox game with realist
 - Communication in real time / though deSoNet by invention of FTL communication principle/
 - Voice-operated
 - NFTs for ownership of land, objects and goods
-- Massive Open market economy
+- Massive near-real economy
 - Decentralized AI for automatization of mining, defence and communication 
 - Creation and customization of avatars
 - VR by mobile phone
-- Admin panel for real-time monitoring and editing /scenario injection/
+- Possibility for real-time monitoring and editing of the gamepay /scenario injection/
  
 #### The Voyagers Chapter
 Where users can explore the solar system and have access to limited missions /sandbox for the next chapter/ 
