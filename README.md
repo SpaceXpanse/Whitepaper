@@ -15,6 +15,7 @@ Open source
 
 deSoNet /dSN/
 Open source
+
 - Full-blown Decentralized Social Network
 
 Research: Sol Project
@@ -45,16 +46,16 @@ Closed source Real-time Massive Open World Sandbox game with realistic look, phy
 - VR by mobile phone
 - Admin panel for real-time monitoring and editing /scenario injection/
  
-= The Voyagers Chapter
+### The Voyagers Chapter
 Where users can explore the solar system and have access to limited missions /sandbox for the next chapter/ 
 
-= The Prospectors Chapter
+### The Prospectors Chapter
 Where users can also claim land, dig its resources, build multi-part objects and do limited trade of them /sandbox for the next chapter/
 
-= The Merchants Chapter
+### The Merchants Chapter
 Where users can buy, lend and sell in near-real economy 
 
-= Infinity Chapter
+### Infinity Chapter
 - Warp drive invention to explore the Milky Way galaxy and beyond. 
 
 
