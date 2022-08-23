@@ -25,7 +25,7 @@ Open source
 - Gravitational and other forces, affecting all objects accordingly /physics/
 - Fast rendering with realistic level of detail
 - Creation and editing of multi-part objects
-- Python API
+- Python API for modeling of scientific inquiries 
 - Node-based programming logic /like UE5/
 - Multiple seats in one object
 - Scenario programing /lua/
