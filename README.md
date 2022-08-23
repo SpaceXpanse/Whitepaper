@@ -37,7 +37,7 @@ Closed source Real-time Massive Multiplayer Open World Sandbox game with realist
 - Developed on top of Sol Project
 - Partly closed source /GSP and game logic/
 - Made in Unreal engine 5 and Vulkan
-- Communication in real time / though deSoNet by invention of FTL communication principle/
+- Communication in real time / through deSoNet by invention of FTL communication principle/
 - Voice-operated
 - NFTs for ownership of land, objects and goods
 - Massive near-real economy
