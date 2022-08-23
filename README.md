@@ -8,7 +8,7 @@ Long story short: We want to make a self-sustained virtual environment by using 
 ### Blockchain - ROD
 Open source
 
-- Currency
+- Currency ad creation of tokens
 - Storage of Digital IDs and other information
 - Decentralized DNS or dDNS /from Namecoin code/
 - Storage of files by implementation of IPFS
@@ -23,25 +23,25 @@ Open source
 
 - Real-time realistic solar system with major celestial bodies, terrains and environment
 - Gravitational and other forces, affecting all objects accordingly /physics/
-- Realistic rendering with different level of detail
-- Creation of multi-part objects
+- Fast rendering with realistic level of detail
+- Creation and editiong of multi-part objects
 - Python API
 - Node-based programming logic /like UE5/
-- Multiple seats in one ship
+- Multiple seats in one object
 - Scenario programing /lua/
-- Adding of new solar systems, planets and satellites, using general principles, by users
+- Adding of new solar systems, planets and satellites by users
 
 ### Entertainment - SpaceXpanse Wanderers game
-Closed source Real-time Massive Open World Sandbox game with realistic look, physics and economics 
+Closed source Real-time Massive Multiplayer Open World Sandbox game with realistic look, physics and economics 
 
-- developed on top of Sol Project
-- partly closed source /GSP and game logic/
-- made in Unreal engine 5
-- deSoNet in real time /invention of FTL communication principle/
-- voice-operated
+- Developed on top of Sol Project
+- Partly closed source /GSP and game logic/
+- Made in Unreal engine 5 and Vulkan
+- Communication in real time / though deSoNet by invention of FTL communication principle/
+- Voice-operated
 - NFTs for ownership of land, objects and goods
-- multi-part economics with creation of tokens for different purposes
-- decentralized AI for automatization of mining, defence and communication 
+- Massive Open market economy
+- Decentralized AI for automatization of mining, defence and communication 
 - Creation and customization of avatars
 - VR by mobile phone
 - Admin panel for real-time monitoring and editing /scenario injection/
