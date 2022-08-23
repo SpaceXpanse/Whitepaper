@@ -24,10 +24,9 @@ Open source
 - Real-time realistic solar system with major celestial bodies, terrains and environment
 - Gravitational and other forces, affecting all objects accordingly /physics/
 - Fast rendering with realistic level of detail
-- Creation and editing of multi-part objects
+- Creation and editing of multi-part and multi-seat objects
 - Python API for modeling of scientific inquiries 
 - Node-based programming logic /like UE5/
-- Multiple seats in one object
 - Scenario programing /lua/
 - Adding of new solar systems, planets and satellites by users
 
