@@ -25,9 +25,9 @@ Open source
 - Gravitational and other forces, affecting all objects accordingly /physics/
 - Fast rendering with realistic level of detail
 - Creation and editing of multi-part and multi-seat objects
-- Python API for modeling of scientific inquiries 
+- Python API for modeling of scientific inquiries
+- Scenario programing /Lua/ 
 - Node-based programming logic /like UE5/
-- Scenario programing /lua/
 - Adding of new solar systems, planets and satellites by users
 
 ### Entertainment - SpaceXpanse Wanderers game
