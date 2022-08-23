@@ -7,6 +7,7 @@
 
 ### Blockchain - ROD
 Open source
+Foundation operated
 
 - Main currency /creation of tokens/
 - Storage of Digital IDs and other information
@@ -15,11 +16,13 @@ Open source
 
 ### Community - deSoNet /dSN/
 Open source
+Foundation operated
 
 - Full-blown Decentralized Social Network
 
 ### Research - Sol Project
 Open source
+Foundation operated
 
 - Real-time realistic solar system with major celestial bodies, terrains and environment
 - Gravitational and other forces, affecting all objects accordingly /physics/
@@ -31,7 +34,8 @@ Open source
 - Adding of new solar systems, planets and satellites by users
 
 ### Entertainment - SpaceXpanse: Wanderers game
-Closed source Real-time Massive Multiplayer Open World Sandbox game with realistic look, physics and economics 
+Closed source Real-time Massive Multiplayer Open World Sandbox game with realistic look, physics and economics
+Legal entity operated
 
 - Developed on top of Sol Project
 - Partly closed source /GSP and game logic/
