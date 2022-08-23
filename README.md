@@ -8,7 +8,7 @@ Long story short: We want to make a self-sustained virtual environment by using 
 ### Blockchain - ROD
 Open source
 
-- Currency ad creation of tokens
+- Main urrency /creation of tokens/
 - Storage of Digital IDs and other information
 - Decentralized DNS or dDNS /from Namecoin code/
 - Storage of files by implementation of IPFS
