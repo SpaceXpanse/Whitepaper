@@ -6,7 +6,7 @@
 ## SpaceXpanse /SpeX/ Environment: 
 
 ### Blockchain - ROD
-Open source
+Open source  
 Foundation operated
 
 - Main currency /creation of tokens/
@@ -15,13 +15,13 @@ Foundation operated
 - Storage of files by implementation of IPFS
 
 ### Community - deSoNet /dSN/
-Open source
+Open source  
 Foundation operated
 
 - Full-blown Decentralized Social Network
 
 ### Research - Sol Project
-Open source
+Open source  
 Foundation operated
 
 - Real-time realistic solar system with major celestial bodies, terrains and environment
@@ -34,7 +34,7 @@ Foundation operated
 - Adding of new solar systems, planets and satellites by users
 
 ### Entertainment - SpaceXpanse: Wanderers game
-Closed source Real-time Massive Multiplayer Open World Sandbox game with realistic look, physics and economics
+Closed source Real-time Massive Multiplayer Open World Sandbox game with realistic look, physics and economics  
 Legal entity operated
 
 - Developed on top of Sol Project
