@@ -30,7 +30,7 @@ Open source
 - Node-based programming logic /like UE5/
 - Adding of new solar systems, planets and satellites by users
 
-### Entertainment - SpaceXpanse Wanderers game
+### Entertainment - SpaceXpanse: Wanderers game
 Closed source Real-time Massive Multiplayer Open World Sandbox game with realistic look, physics and economics 
 
 - Developed on top of Sol Project
