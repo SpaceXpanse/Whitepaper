@@ -61,5 +61,5 @@ Where users can also buy, lend and sell what they want in near-real economy
 #### Infinity Chapter
 Warp drive invention to explore the Milky Way galaxy and beyond. 
 
-
+----
 *Further sophistication of the subject will be covered in the Whitepaper*.
