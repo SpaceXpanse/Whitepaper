@@ -52,7 +52,7 @@ Where users can explore the solar system and have access to limited missions /sa
 Where users can also claim land, dig its resources, build multi-part objects and do limited trade of them /sandbox for the next chapter/
 
 #### The Merchants Chapter
-Where users can buy, lend and sell what they want in near-real economy 
+Where users can also buy, lend and sell what they want in near-real economy 
 
 #### Infinity Chapter
 - Warp drive invention to explore the Milky Way galaxy and beyond. 
