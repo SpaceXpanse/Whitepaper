@@ -46,16 +46,16 @@ Closed source Real-time Massive Multiplayer Open World Sandbox game with realist
 - VR by mobile phones
 - Possibility for real-time monitoring and editing of the gameplay /scenario injection/
  
-#### I Chapter: The Voyagers
+#### The Voyagers Chapter
 Where users can explore the solar system and have access to limited missions /sandbox for the next chapter/ 
 
-#### II Chapter: The Prospectors
+#### The Prospectors Chapter
 Where users can also claim land, dig its resources, build multi-part objects and do limited trade of them /sandbox for the next chapter/
 
-#### III Chapter:The Merchants
+#### The Merchants Chapter
 Where users can buy, lend and sell what they want in near-real economy 
 
-#### IV Chapter: Infinity
+#### Infinity Chapter
 - Warp drive invention to explore the Milky Way galaxy and beyond. 
 
 
