@@ -1,11 +1,11 @@
 # SpaceXpanse /SpeX/ Manifesto
-A set of intentions    
+### A set of intentions    
 
 Long story short: We want to make a self-sustained virtual environment by using cutting-edge technologies, which can be easily accessed by everyone from everywhere 
 
-SpaceXpanse Environment: 
+## Environment: 
 
-ROD blockchain
+### Blockchain - ROD
 Open source
 
 - Currency
@@ -13,12 +13,12 @@ Open source
 - Decentralized DNS or dDNS /from Namecoin code/
 - Storage of files by implementation of IPFS
 
-deSoNet /dSN/
+### Community - deSoNet /dSN/
 Open source
 
 - Full-blown Decentralized Social Network
 
-Research: Sol Project
+### Research - Sol Project
 Open source
 
 - Real-time realistic solar system with major celestial bodies, terrains and environment
@@ -31,7 +31,7 @@ Open source
 - Scenario programing /lua/
 - Adding of new solar systems, planets and satellites, using general principles, by users
 
-Entertainment: SpaceXpanse Wanderers
+### Entertainment - SpaceXpanse Wanderers game
 Closed source Real-time Massive Open World Sandbox game with realistic look, physics and economics 
 
 - developed on top of Sol Project
@@ -46,16 +46,16 @@ Closed source Real-time Massive Open World Sandbox game with realistic look, phy
 - VR by mobile phone
 - Admin panel for real-time monitoring and editing /scenario injection/
  
-### The Voyagers Chapter
+#### The Voyagers Chapter
 Where users can explore the solar system and have access to limited missions /sandbox for the next chapter/ 
 
-### The Prospectors Chapter
+#### The Prospectors Chapter
 Where users can also claim land, dig its resources, build multi-part objects and do limited trade of them /sandbox for the next chapter/
 
-### The Merchants Chapter
+#### The Merchants Chapter
 Where users can buy, lend and sell in near-real economy 
 
-### Infinity Chapter
+#### Infinity Chapter
 - Warp drive invention to explore the Milky Way galaxy and beyond. 
 
 
