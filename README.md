@@ -1,7 +1,7 @@
 # Manifesto
 ### To set the intentions    
 
-**Long story short**: By using some cutting-edge technologies, we want to make a self-sustained virtual environment where everyone with interests in Space Exploration can communicate, develop and relax and which can be easily accessed from everywhere. 
+**Long story short**: By using some cutting-edge technologies, we want to make a self-sustained virtual environment where everyone with interests in Space Xploration can communicate, develop and relax and which can be easily accessed from everywhere. 
 
 ## SpaceXpanse /SpeX/ Environment: 
 
