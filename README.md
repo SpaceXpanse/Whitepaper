@@ -1,19 +1,19 @@
 # Manifesto
 ### To set the intentions    
 
-**Long story short**: We want to make a self-sustained virtual environment by using some cutting-edge technologies, where everyone with interests in Space Exploration can develop, communicate and relax and which can be easily accessed from everywhere. 
+**Long story short**: We want to make a self-sustained virtual environment by using some cutting-edge technologies, where everyone with interests in Space Exploration can communicate, develop and relax and which can be easily accessed from everywhere. 
 
 ## SpaceXpanse /SpeX/ Environment: 
 
-### Blockchain - ROD
+### Technology - ROD Blockchain  
 Open source  
 Foundation operated
 
-- Main currency /creation of tokens/
+- Currency and creation of tokens
 - Storage of Digital IDs and other information
-- Decentralized DNS or dDNS /from Namecoin code/
-- 
+- Decentralized DNS aka dDNS /from Namecoin code/
 - Storage of files by implementation of IPFS
+- Interconnection between the blockchain and third-party applications
 
 ### Community - deSoNet /dSN/
 Open source  
@@ -21,7 +21,7 @@ Foundation operated
 
 - Full-blown Decentralized Social Network
 
-### Research - Sol Project
+### Devepolment - SpaceXpanse: Sol platform
 Open source  
 Foundation operated
 
