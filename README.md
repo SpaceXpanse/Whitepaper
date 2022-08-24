@@ -45,7 +45,7 @@ Legal entity operated
 - Voice-operated gameplay
 - NFTs for ownership of land, objects and goods
 - Massive near-real economy
-- Decentralized AI for automatization of mining, defence and communication 
+- Decentralized AIs for automatization of mining, defence and communication 
 - Creation and customization of avatars
 - VR gameplay by mobile phones
 - Possibility for real-time monitoring and customization of the gameplay /scenario injection/
@@ -54,10 +54,10 @@ Legal entity operated
 Where users can explore the solar system and have access to limited missions /sandbox for the next chapter/ 
 
 #### The Prospectors Chapter
-Where users can also claim land, dig its resources, build multi-part objects and do limited trade of them /sandbox for the next chapter/
+Where users can also claim land, dig its resources, build multi-part objects and do limited trade with them /sandbox for the next chapter/
 
 #### The Merchants Chapter
-Where users can also create, buy, lend and sell what they want in near-real economy 
+Where users can also buy, lend and sell what they want in near-real economy 
 
 #### Infinity Chapter
 Warp drive invention to explore the Milky Way galaxy and beyond. 
