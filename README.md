@@ -12,7 +12,7 @@ Foundation operated
 - Currency, fungible and nonfungible tokens
 - Digital IDs and other information
 - Decentralized DNS aka dDNS /from Namecoin code/
-- Decentralized file system /implementation of IPFS/
+- Blockchain-enabled file system /implementation of IPFS/
 - Interconnection between the blockchain and third-party applications
 
 ### Community - deSoNet /dSN/
