@@ -10,9 +10,9 @@ Open source
 Foundation operated
 
 - Currency, fungible and nonfungible tokens
-- Storage of Digital IDs and other information
+- Digital IDs and other information
 - Decentralized DNS aka dDNS /from Namecoin code/
-- Storage of files by implementation of IPFS
+- Decentralized file system /implementation of IPFS/
 - Interconnection between the blockchain and third-party applications
 
 ### Community - deSoNet /dSN/
