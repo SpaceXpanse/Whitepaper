@@ -41,7 +41,7 @@ Legal entity operated
 - Developed on top of SpaceXpanse: Sol platform
 - Partly closed source /GSP and game logic/
 - Made in Unreal Engine 5
-- In-game communication in real time /through deSoNet by invention of so-called FTL communication principle/
+- In-game communication in real time /through deSoNet/
 - Voice-operated gameplay
 - NFTs for ownership of land, objects and goods
 - Massive near-real economy
