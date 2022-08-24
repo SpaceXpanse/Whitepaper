@@ -38,7 +38,7 @@ Foundation operated
 Closed source Real-time Massive Multiplayer Open World Sandbox game with realistic look, physics and economics  
 Legal entity operated
 
-- Developed on top of Sol Project
+- Developed on top of SpaceXpanse: Sol platform
 - Partly closed source /GSP and game logic/
 - Made in Unreal engine 5 and Vulkan
 - Communication in real time / through deSoNet by invention of FTL communication principle/
