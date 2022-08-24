@@ -42,7 +42,7 @@ Legal entity operated
 - Partly closed source /GSP and game logic/
 - Made in Unreal Engine 5
 - In-game communication in real time /through deSoNet/
-- Voice-operated gameplay
+- Voice-operated commands
 - NFTs for ownership of land, objects and goods
 - Massive near-real economy
 - Decentralized AIs for automatization of mining, defence and communication 
