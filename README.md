@@ -1,7 +1,7 @@
 # Manifesto
 ### To set the intentions    
 
-**Long story short**: We want to make a self-sustained virtual environment by using some cutting-edge technologies, where everyone with interests in Space Exploration can communicate, develop and relax and which can be easily accessed from everywhere. 
+**Long story short**: By using some cutting-edge technologies, we want to make a self-sustained virtual environment where everyone with interests in Space Exploration can communicate, develop and relax and which can be easily accessed from everywhere. 
 
 ## SpaceXpanse /SpeX/ Environment: 
 
@@ -21,7 +21,7 @@ Foundation operated
 
 - Full-blown Decentralized Social Network
 
-### Devepolment - SpaceXpanse: Sol platform
+### Development - SpaceXpanse: Sol platform
 Open source  
 Foundation operated
 
@@ -32,7 +32,7 @@ Foundation operated
 - Python API for modeling of scientific inquiries
 - Scenario programing /Lua/ 
 - Node-based programming logic /like UE5/
-- Adding of new solar systems, planets and satellites by users
+- Easy adding of new solar systems, planets and satellites
 
 ### Entertainment - SpaceXpanse: Wanderers game
 Closed source Real-time Massive Multiplayer Open World Sandbox game with realistic look, physics and economics  
@@ -40,15 +40,15 @@ Legal entity operated
 
 - Developed on top of SpaceXpanse: Sol platform
 - Partly closed source /GSP and game logic/
-- Made in Unreal engine 5 and Vulkan
-- Communication in real time / through deSoNet by invention of FTL communication principle/
-- Voice-operated
+- Made in Unreal Engine 5
+- In-game communication in real time /through deSoNet by invention of so-called FTL communication principle/
+- Voice-operated gameplay
 - NFTs for ownership of land, objects and goods
 - Massive near-real economy
 - Decentralized AI for automatization of mining, defence and communication 
 - Creation and customization of avatars
-- VR by mobile phones
-- Possibility for real-time monitoring and editing of the gameplay /scenario injection/
+- VR gameplay by mobile phones
+- Possibility for real-time monitoring and customization of the gameplay /scenario injection/
  
 #### The Voyagers Chapter
 Where users can explore the solar system and have access to limited missions /sandbox for the next chapter/ 
@@ -57,7 +57,7 @@ Where users can explore the solar system and have access to limited missions /sa
 Where users can also claim land, dig its resources, build multi-part objects and do limited trade of them /sandbox for the next chapter/
 
 #### The Merchants Chapter
-Where users can also buy, lend and sell what they want in near-real economy 
+Where users can also create, buy, lend and sell what they want in near-real economy 
 
 #### Infinity Chapter
 Warp drive invention to explore the Milky Way galaxy and beyond. 
