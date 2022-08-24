@@ -60,7 +60,7 @@ Where users can also claim land, dig its resources, build multi-part objects and
 Where users can also buy, lend and sell what they want in near-real economy 
 
 #### Infinity Chapter
-Warp drive invention to explore the Milky Way galaxy and beyond. 
+Warp drive invention to explore Milky Way galaxy and beyond. 
 
 ----
 *Further sophistication of the subject will be covered in the Whitepaper*.
