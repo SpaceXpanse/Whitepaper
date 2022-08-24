@@ -47,7 +47,7 @@ Legal entity operated
 - Massive near-real economy
 - Decentralized AIs for automatization of mining, defence and communication /TBD/
 - Creation and customization of avatars
-- VR gameplay by mobile phones
+- VR gameplay for mobile phones
 - Possibility for real-time monitoring and customization of story arcs /scenario injection/
  
 #### The Voyagers Chapter
