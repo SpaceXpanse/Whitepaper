@@ -9,7 +9,7 @@
 Open source  
 Foundation operated
 
-- Currency and creation of tokens
+- Currency, fungible and nonfungible tokens
 - Storage of Digital IDs and other information
 - Decentralized DNS aka dDNS /from Namecoin code/
 - Storage of files by implementation of IPFS
