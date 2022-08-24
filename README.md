@@ -45,7 +45,7 @@ Legal entity operated
 - Voice-operated commands
 - NFTs for ownership of land, objects and goods
 - Massive near-real economy
-- Decentralized AIs for automatization of mining, defence and communication 
+- Decentralized AIs for automatization of mining, defence and communication /TBD/
 - Creation and customization of avatars
 - VR gameplay by mobile phones
 - Possibility for real-time monitoring and customization of story arcs /scenario injection/
