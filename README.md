@@ -1,7 +1,7 @@
 # Manifesto
-### A set of intentions    
+### To set the intentions    
 
-**Long story short**: We want to make a self-sustained Space-related virtual environment by using cutting-edge technologies, where everyone can work, play and communicate and which can be easily accessed from everywhere. 
+**Long story short**: We want to make a self-sustained virtual environment by using some cutting-edge technologies, where everyone with interests in Space Exploration can develop, communicate and relax and which can be easily accessed from everywhere. 
 
 ## SpaceXpanse /SpeX/ Environment: 
 
@@ -12,6 +12,7 @@ Foundation operated
 - Main currency /creation of tokens/
 - Storage of Digital IDs and other information
 - Decentralized DNS or dDNS /from Namecoin code/
+- 
 - Storage of files by implementation of IPFS
 
 ### Community - deSoNet /dSN/
