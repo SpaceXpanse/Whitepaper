@@ -7,7 +7,7 @@
 
 ### Technology - ROD Blockchain  
 Open source  
-Foundation operated
+Non-profit - Foundation operated
 
 - Currency, fungible and nonfungible tokens
 - Digital IDs and other information
@@ -17,13 +17,13 @@ Foundation operated
 
 ### Community - deSoNet /dSN/
 Open source  
-Foundation operated
+Non-profit - Foundation operated
 
 - Full-blown Decentralized Social Network
 
 ### Development - SpaceXpanse: Sol platform
 Open source  
-Foundation operated
+Non-profit - Foundation operated
 
 - Real-time realistic solar system with major celestial bodies, terrains and environment
 - Gravitational and other forces, affecting all objects accordingly /physics/
@@ -36,9 +36,9 @@ Foundation operated
 
 ### Entertainment - SpaceXpanse: Wanderers game
 Closed source Real-time Massive Multiplayer Open World Sandbox game with realistic look, physics and economics  
-Legal entity operated
+For-profit - Legal entity operated
 
-- Developed on top of SpaceXpanse: Sol platform
+- Developed on top of SpaceXpanse: Sol platform. 
 - Partly closed source /GSP and game logic/
 - Made in Unreal Engine 5
 - In-game communication in real time /through deSoNet/
