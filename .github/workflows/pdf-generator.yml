@@ -54,7 +54,7 @@ jobs:
           paper_dir: wiki
 
           # The paper pdf to save
-          paper_outfile: SpaceXpance-Whitepaper.pdf
+          # paper_outfile: SpaceXpance-Whitepaper.pdf
 
           # Bibliography file, if existing
           # bibtex: wiki/wiki.bib
