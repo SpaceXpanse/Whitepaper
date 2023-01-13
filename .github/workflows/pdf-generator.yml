@@ -1,0 +1,17 @@
+ - name: Generate Minimal PDF
+ 
+   # Important! Update to release https://github.com/rseng/rse-action/releases
+   uses: ./
+   with:        
+
+     # The markdown file to render,path is relative to repository
+     paper_markdown: wiki/*.md
+
+     # The paper pdf to save
+     paper_outfile: minimal.pdf
+
+     # Bibliography file, if existing
+     # bibtex: paper/paper.bib
+
+     # One of "minimal" or "pdf" for the template with image, etc.
+     pdf_type: minimal
