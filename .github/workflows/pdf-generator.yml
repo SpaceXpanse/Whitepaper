@@ -49,10 +49,10 @@ jobs:
 
           # The markdown file to render,path is relative to repository
           # paper_markdown: wiki/Home.md
-          paper_dir: wiki
+          paper_dir: wiki/
 
           # The paper pdf to save
-          paper_outfile: minimal.pdf
+          paper_outfile: SpaceXpance-Whitepaper.pdf
 
           # Bibliography file, if existing
           # bibtex: wiki/wiki.bib
@@ -65,8 +65,8 @@ jobs:
 
         # Path is relative to GITHUB_WORKSPACE
         with:
-          name: minimal-pdf
-          path: minimal.pdf
+          name: SpaceXpance-Whitepaper
+          path: SpaceXpance-Whitepaper.pdf
 
 #      - name: Upload full templated pdf as artifact
 #        uses: actions/upload-artifact@v2-preview
