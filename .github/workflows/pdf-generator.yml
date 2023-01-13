@@ -12,34 +12,34 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v2
-      - name: Generate Full PDF Template      
-        uses: ./
-        with:        
+ #     - name: Generate Full PDF Template      
+ #       uses: ./
+ #       with:        
 
           # The latex template to use (defaults to one here)
-          latex_template: templates/latex.template.joss
+ #         latex_template: templates/latex.template.joss
 
           # The markdown file to render,path is relative to repository
           # make sure that images are also relative to the root in the file
-          paper_markdown: wiki/*.md
+ #         paper_markdown: wiki/*.md
 
           # The paper pdf to save
-          paper_outfile: paper.pdf
+ #         paper_outfile: paper.pdf
 
           # Bibliography file, if existing
           # bibtex: wiki/wiki.bib
 
           # A path to a png logo file
-          png_logo: wiki/logo.png
+ #         png_logo: wiki/logo.png
 
           # One of "minimal" or "pdf" for the template with image, etc.
-          pdf_type: pdf
+ #         pdf_type: pdf
 
           # A variables file to use
-          variables_file: templates/joss-variables.txt
+ #         variables_file: templates/joss-variables.txt
  
           # A mapping file to use
-          mapping_file: templates/joss-mapping.txt
+ #         mapping_file: templates/joss-mapping.txt
 
       - name: Generate Minimal PDF
  
@@ -67,8 +67,8 @@ jobs:
           name: minimal-pdf
           path: minimal.pdf
 
-      - name: Upload full templated pdf as artifact
-        uses: actions/upload-artifact@v2-preview
-        with:
-          name: full-pdf
-          path: paper.pdf
+#      - name: Upload full templated pdf as artifact
+#        uses: actions/upload-artifact@v2-preview
+#        with:
+#          name: full-pdf
+#          path: paper.pdf
