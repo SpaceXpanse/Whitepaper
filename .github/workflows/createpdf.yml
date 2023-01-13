@@ -14,8 +14,8 @@ jobs:
       if: github.ref == 'refs/heads/master'
       with:
         markdown_dir: wiki
-        output_dir: tmp
+        output_dir: out
     - uses: actions/upload-artifact@v1
       with:
         name: platform-architecture-docs
-        path: tmp
+        path: out
