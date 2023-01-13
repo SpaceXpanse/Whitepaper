@@ -1,4 +1,4 @@
-# SpaceXpanse Multiverse Whitepaper
+# SpaceXpanse Multiverse Whitepaper  
 ## DISCLAIMER  
 The [**SpaceXpanse Multiverse**](https://github.com/SpaceXpanse/) platform code is fully open source and maintained by it's contributors (the public, bitcoin core and other developers).  
 The given information in this **SpaceXpanse Multiverse** whitepaper may not be exhaustive and does not imply any contractual relationship. This paper is for information purposes only and does not constitute and is not intended to be an offer of securities or any other financial or investment instrument in any jurisdiction. Any reader should be advised that the purchase of SpaceXpanse ROD coins may involve high risks.  
