@@ -48,7 +48,7 @@ jobs:
         with:        
 
           # The markdown file to render,path is relative to repository
-          paper_markdown: wiki/*.md
+          paper_markdown: wiki/**
 
           # The paper pdf to save
           paper_outfile: minimal.pdf
