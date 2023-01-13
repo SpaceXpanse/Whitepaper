@@ -2,13 +2,15 @@ name: generate-pdf-artifacts
 
 on:
   push:
-    branches:
-     - main
+#    branches:
+#     - main
+   paths:
+    - 'wiki/**'
 
 jobs:
   GeneratePdfArtifacts:
     name: Generate PDFs
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latest 
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v2
@@ -48,8 +50,8 @@ jobs:
         with:        
 
           # The markdown file to render,path is relative to repository
-          paper_markdown: wiki/Home.md
-          # paper_dir: wiki
+          #paper_markdown: wiki/Home.md
+          paper_dir: wiki
 
           # The paper pdf to save
           paper_outfile: SpaceXpance-Whitepaper.pdf
