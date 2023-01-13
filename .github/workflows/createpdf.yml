@@ -4,7 +4,7 @@ on:
       - 'wiki/**'
 
 name: CreatePDFs
-
+ 
 jobs:
   makepdfs:
     runs-on: ubuntu-latest
