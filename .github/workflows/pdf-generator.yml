@@ -1,17 +1,74 @@
- - name: Generate Minimal PDF
+name: generate-pdf-artifacts
+
+on:
+  push:
+    branches:
+     - main
+
+jobs:
+  GeneratePdfArtifacts:
+    name: Generate PDFs
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+      - name: Generate Full PDF Template      
+        uses: ./
+        with:        
+
+          # The latex template to use (defaults to one here)
+          latex_template: templates/latex.template.joss
+
+          # The markdown file to render,path is relative to repository
+          # make sure that images are also relative to the root in the file
+          paper_markdown: wiki/*.md
+
+          # The paper pdf to save
+          paper_outfile: paper.pdf
+
+          # Bibliography file, if existing
+          # bibtex: wiki/wiki.bib
+
+          # A path to a png logo file
+          png_logo: wiki/logo.png
+
+          # One of "minimal" or "pdf" for the template with image, etc.
+          pdf_type: pdf
+
+          # A variables file to use
+          variables_file: templates/joss-variables.txt
  
-   # Important! Update to release https://github.com/rseng/rse-action/releases
-   uses: ./
-   with:        
+          # A mapping file to use
+          mapping_file: templates/joss-mapping.txt
 
-     # The markdown file to render,path is relative to repository
-     paper_markdown: wiki/*.md
+      - name: Generate Minimal PDF
+ 
+        # Important! Update to release https://github.com/rseng/rse-action/releases
+        uses: ./
+        with:        
 
-     # The paper pdf to save
-     paper_outfile: minimal.pdf
+          # The markdown file to render,path is relative to repository
+          paper_markdown: wiki/*.md
 
-     # Bibliography file, if existing
-     # bibtex: paper/paper.bib
+          # The paper pdf to save
+          paper_outfile: minimal.pdf
 
-     # One of "minimal" or "pdf" for the template with image, etc.
-     pdf_type: minimal
+          # Bibliography file, if existing
+          # bibtex: wiki/wiki.bib
+
+          # One of "minimal" or "pdf" for the template with image, etc.
+          pdf_type: minimal
+
+      - name: Upload minimal pdf as artifact
+        uses: actions/upload-artifact@v2-preview
+
+        # Path is relative to GITHUB_WORKSPACE
+        with:
+          name: minimal-pdf
+          path: minimal.pdf
+
+      - name: Upload full templated pdf as artifact
+        uses: actions/upload-artifact@v2-preview
+        with:
+          name: full-pdf
+          path: paper.pdf
