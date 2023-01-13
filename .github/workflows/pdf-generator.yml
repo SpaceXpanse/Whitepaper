@@ -49,7 +49,7 @@ jobs:
 
           # The markdown file to render,path is relative to repository
           # paper_markdown: wiki/Home.md
-          paper_dir: wiki/
+          paper_dir: wiki/*.md
 
           # The paper pdf to save
           paper_outfile: SpaceXpance-Whitepaper.pdf
