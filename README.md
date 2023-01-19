@@ -3,25 +3,19 @@
 
 **Long story short**: By using some cutting-edge technologies, we want to make a self-sustained virtual environment where everyone with interests in Space eXploration can communicate, develop and relax and which can be easily accessed from everywhere. 
 
-## SpaceXpanse /SpeX/ Environment: 
+## SpaceXpanse Multiverse /SpeX/ Platform Environment: 
 
 ### Technology - ROD Blockchain  
 Open source  
 Non-profit - Foundation operated
-
 - Currency, fungible and nonfungible tokens
 - Digital IDs and other information
-- Decentralized DNS aka dDNS /from Namecoin code/
-- Blockchain-enabled file system /implementation of IPFS/
+- Atomic trading
+- Decentralized DNS aka dDNS /from Namecoin/
+- Decentralized blockchain database through Decentralized Proof of Stake aka DPoS masternodes and peer-to-peers data miners
 - Interconnection between the blockchain and third-party applications
 
-### Community - deSoNet /dSN/
-Open source  
-Non-profit - Foundation operated
-
-- Full-blown Decentralized Social Network
-
-### Development - SpaceXpanse: Sol platform
+### Development - SpaceXpanse Metaverse Simulator
 Open source  
 Non-profit - Foundation operated
 
@@ -34,10 +28,20 @@ Non-profit - Foundation operated
 - Node-based programming logic /like UE5/
 - Easy adding of new solar systems, planets and satellites
 
+### Community  
+**Metalog Social Network**
+Open source  
+Non-profit - Foundation operated
+- Full-blown Decentralized Social Network usable within every platform's metaverse and/or DApp
+
+**MetaDAO **
+Open source  
+Non-profit - Foundation operated
+- Full-blown Decentralized Autonomous Organisation application to serve as crowdfunding hub for user's projects within the platform
+
 ### Entertainment - SpaceXpanse: Wanderers game
 Closed source Real-time Massive Multiplayer Open World Sandbox game with realistic look, physics and economics  
 For-profit - Legal entity operated
-
 - Developed on top of SpaceXpanse: Sol platform. 
 - Partly closed source /GSP and game logic/
 - Made in Unreal Engine 5
