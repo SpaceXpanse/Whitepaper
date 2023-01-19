@@ -30,7 +30,18 @@ Non-profit - Foundation operated
 - Node-based programming logic /like UE5/
 - Easy adding of new solar systems, planets and satellites
 
-### Community  
+**Different develoment tools**
+Open source
+Non-profit - Foundation operated
+- To help developers have useful environment for effortless creation of metaverses and/or DApps in the platform
+
+### Community
+
+**SpeXID**
+Open source
+Non-profit - Foundation operated
+- An application built on the platform, that turns each reserved name into a secure digital identity similar to NameID
+
 **Metalog Social Network**  
 Open source  
 Non-profit - Foundation operated
