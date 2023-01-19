@@ -1,7 +1,7 @@
 # Manifesto
 ### To set the intentions    
 
-**Long story short**: By regaining some cutting-edge technologies' true purpose, we want to make a self-sustained virtual environment a.k.a. SpaceXpanse Multiverse where everyone can communicate, develop and entertain himself and which can be easily accessed from everywhere.
+**Long story short**: By regaining some cutting-edge technologies' true purpose, we want to make a self-sustained virtual environment aka **SpaceXpanse Multiverse** where everyone can communicate, develop and entertain himself and which can be easily accessed from everywhere.
 
 ## SpaceXpanse Multiverse aka SpeX platform environment: 
 
