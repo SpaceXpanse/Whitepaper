@@ -5,7 +5,8 @@
 
 ## SpaceXpanse Multiverse /SpeX/ Platform Environment: 
 
-### Technology - ROD Blockchain  
+### Technology  
+**ROD Blockchain**  
 Open source  
 Non-profit - Foundation operated
 - Currency, fungible and nonfungible tokens
@@ -15,7 +16,8 @@ Non-profit - Foundation operated
 - Decentralized blockchain database through Decentralized Proof of Stake aka DPoS masternodes and peer-to-peers data miners
 - Interconnection between the blockchain and third-party applications
 
-### Development - SpaceXpanse Metaverse Simulator
+### Development  
+**SpaceXpanse Metaverse Simulator**
 Open source  
 Non-profit - Foundation operated
 
@@ -39,7 +41,8 @@ Open source
 Non-profit - Foundation operated
 - Full-blown Decentralized Autonomous Organisation application to serve as crowdfunding hub for user's projects within the platform
 
-### Entertainment - SpaceXpanse: Wanderers game
+### Entertainment  
+**SpaceXpanse: Wanderers** metaverse
 Closed source Real-time Massive Multiplayer Open World Sandbox game with realistic look, physics and economics  
 For-profit - Legal entity operated
 - Developed on top of SpaceXpanse: Sol platform. 
