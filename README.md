@@ -5,7 +5,7 @@
 
 ## SpaceXpanse Multiverse aka SpeX platform environment: 
 
-### Technology  
+### Technologies 
 **ROD Blockchain**  
 Open source  
 Non-profit - Foundation operated
