@@ -68,16 +68,16 @@ For-profit - Legal entity operated
 - VR gameplay for mobile phones
 - Possibility for real-time monitoring and customization of story arcs /scenario injection/
  
-#### The Voyagers Chapter
+***The Voyagers Chapter***  
 Where users can explore the solar system and have access to limited missions /sandbox for the next chapter/ 
 
-#### The Prospectors Chapter
+***The Prospectors Chapter***  
 Where users can also claim land, dig its resources, build multi-part objects and do limited trade with them /sandbox for the next chapter/
 
-#### The Merchants Chapter
+***The Merchants Chapter***  
 Where users can also buy, lend and sell what they want in near-real economy 
 
-#### Infinity Chapter
+***Infinity Chapter***
 Warp drive invention to explore Milky Way galaxy and beyond. 
 
 ----
