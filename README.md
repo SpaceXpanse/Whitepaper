@@ -31,12 +31,12 @@ Non-profit - Foundation operated
 - Easy adding of new solar systems, planets and satellites
 
 ### Community  
-**Metalog Social Network**
+**Metalog Social Network**  
 Open source  
 Non-profit - Foundation operated
 - Full-blown Decentralized Social Network usable within every platform's metaverse and/or DApp
 
-**MetaDAO**
+**MetaDAO**  
 Open source  
 Non-profit - Foundation operated
 - Full-blown Decentralized Autonomous Organisation application to serve as crowdfunding hub for user's projects within the platform
