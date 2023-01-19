@@ -56,10 +56,10 @@ Non-profit - Foundation operated
 **SpaceXpanse: Wanderers** metaverse  
 Closed-source Real-time Massive Multiplayer Open World Sandbox game with realistic look, physics and economics  
 For-profit - Legal entity operated
-- Developed on top of SpaceXpanse Metaverse Simulator with the help from various development tools /TBA/. 
+- Developed on top of **SpaceXpanse Metaverse Simulator** with the help from various development tools /TBA/. 
 - Partly closed source /GSP and game logic/
-- Made in Unreal Engine 5
-- In-game communication in real time /through MetaLog/
+- Made in **Unreal Engine 5**
+- In-game communication in real time /through **MetaLog**/
 - Voice-activated commands
 - NFTs for ownership of land, objects and goods
 - Massive near-real economy
