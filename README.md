@@ -45,7 +45,7 @@ Non-profit - Foundation operated
 **MetaLog Social Network**  
 Open source  
 Non-profit - Foundation operated
-- Full-blown Decentralized Social Network usable within every platform's metaverse and/or DApp
+- Full-blown Decentralized Social Network, usable within every platform's metaverse and/or DApp
 
 **MetaDAO**  
 Open source  
