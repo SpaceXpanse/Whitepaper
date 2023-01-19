@@ -24,7 +24,7 @@ Non-profit - Foundation operated
 - Real-time realistic solar system with major celestial bodies, terrains and environment
 - Gravitational and other forces, affecting all objects accordingly /physics/
 - Fast rendering with realistic level of detail
-- Creation and editing of multi-part and multi-seat objects
+- Creation and editing of multi-part and multi-seat usable objects
 - Python API for modeling of scientific inquiries
 - Scenario programing /Lua/ 
 - Node-based programming logic /like UE5/
