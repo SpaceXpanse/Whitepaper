@@ -40,7 +40,7 @@ Non-profit - Foundation operated
 **SpeXID**  
 Open source  
 Non-profit - Foundation operated  
-- An application built on the platform, that turns each reserved name into a secure digital identity similar to NameID  
+- An application built on the blockchain, that turns each reserved name into a secure digital identity similar to NameID  
 
 **Metalog Social Network**  
 Open source  
