@@ -54,7 +54,7 @@ Non-profit - Foundation operated
 
 ### Entertainment  
 **SpaceXpanse: Wanderers** metaverse  
-Closed source Real-time Massive Multiplayer Open World Sandbox game with realistic look, physics and economics  
+Closed-source Real-time Massive Multiplayer Open World Sandbox game with realistic look, physics and economics  
 For-profit - Legal entity operated
 - Developed on top of SpaceXpanse: Sol platform. 
 - Partly closed source /GSP and game logic/
