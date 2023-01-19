@@ -14,7 +14,7 @@ Non-profit - Foundation operated
 - Atomic trading
 - Decentralized DNS aka dDNS /from Namecoin/
 - Decentralized blockchain database through Decentralized Proof of Stake aka DPoS masternodes and peer-to-peers data miners
-- Interconnection between the blockchain and third-party applications
+- Programable interconnection between the blockchain and third-party applications
 
 ### Development  
 **SpaceXpanse Metaverse Simulator**
