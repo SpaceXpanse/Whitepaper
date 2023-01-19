@@ -42,7 +42,7 @@ Open source
 Non-profit - Foundation operated  
 - An application built on the blockchain, that turns each reserved name into a secure digital identity similar to NameID  
 
-**Metalog Social Network**  
+**MetaLog Social Network**  
 Open source  
 Non-profit - Foundation operated
 - Full-blown Decentralized Social Network usable within every platform's metaverse and/or DApp
@@ -59,7 +59,7 @@ For-profit - Legal entity operated
 - Developed on top of SpaceXpanse Metaverse Simulator with the help from various development tools /TBA/. 
 - Partly closed source /GSP and game logic/
 - Made in Unreal Engine 5
-- In-game communication in real time /through deSoNet/
+- In-game communication in real time /through MetaLog/
 - Voice-activated commands
 - NFTs for ownership of land, objects and goods
 - Massive near-real economy
