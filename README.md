@@ -30,10 +30,10 @@ Non-profit - Foundation operated
 - Node-based programming logic /like UE5/
 - Easy adding of new solar systems, planets and satellites
 
-**Different develoment tools**
-Open source
-Non-profit - Foundation operated
-- To help developers have useful environment for effortless creation of metaverses and/or DApps in the platform
+**Different develoment tools**  
+Open source  
+Non-profit - Foundation operated  
+- To help developers have useful environment for effortless creation of metaverses and/or DApps in the platform  
 
 ### Community
 
