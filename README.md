@@ -17,7 +17,7 @@ Non-profit - Foundation operated
 - Programable interconnection between the blockchain and third-party applications
 
 ### Development  
-**SpaceXpanse Metaverse Simulator**
+**SpaceXpanse Metaverse Simulator**  
 Open source  
 Non-profit - Foundation operated
 
