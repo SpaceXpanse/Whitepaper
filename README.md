@@ -30,7 +30,7 @@ Non-profit - Foundation operated
 - Node-based programming logic /like UE5/
 - Easy adding of new solar systems, planets and satellites
 
-**Different develoment tools**  
+**Different develoment tools /TBA/**  
 Open source  
 Non-profit - Foundation operated  
 - To help developers have useful environment for effortless creation of metaverses and/or DApps in the platform  
@@ -56,7 +56,7 @@ Non-profit - Foundation operated
 **SpaceXpanse: Wanderers** metaverse  
 Closed-source Real-time Massive Multiplayer Open World Sandbox game with realistic look, physics and economics  
 For-profit - Legal entity operated
-- Developed on top of SpaceXpanse: Sol platform. 
+- Developed on top of SpaceXpanse Metaverse Simulator with the help from various development tools /TBA/. 
 - Partly closed source /GSP and game logic/
 - Made in Unreal Engine 5
 - In-game communication in real time /through deSoNet/
