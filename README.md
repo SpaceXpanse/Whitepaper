@@ -10,7 +10,7 @@
 Open source  
 Non-profit - Foundation operated
 - Currency, fungible and nonfungible tokens
-- Digital IDs and other information
+- Digital IDs and other information, stored in the blockchain
 - Atomic trading
 - Decentralized DNS aka dDNS /from Namecoin/
 - Decentralized blockchain database through Decentralized Proof of Stake aka DPoS masternodes and peer-to-peers data miners
