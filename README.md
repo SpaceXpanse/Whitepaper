@@ -61,12 +61,12 @@ Open source
 **MetaLog** - Decentarized Social Network  
 Open source  
 *Non-profit - Foundation operated*
-- Full-blown social network in the blockchain, usable within every platform's metaverse and/or DApp, using **SpeXQL** to store user's private data and **ROD bockchain** for user's public data.
+- Full-blownn platform-wide social network in the blockchain, usable within every platform's metaverse and/or DApp, using **SpeXQL** to store user's private data and **ROD bockchain** for user's public data.
 
 **MetaDAO** - Decentralized Autonomous Organisation  
 Open source    
 *Non-profit - Foundation operated*
-- Full-blown application to serve as crowdfunding hub for user's projects within the platform and more
+- Full-blown platform-wide decentralized application to serve as crowdfunding hub for user's projects within the platform and more
 
 ### Entertainment  
 **SpaceXpanse: Wanderers** - A space exploration game in its own metaverse  
