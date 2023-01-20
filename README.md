@@ -81,8 +81,8 @@ Real-time Massive Multiplayer Open World Sandbox game with realistic look, physi
 - Voice-activated commands
 - NFTs for ownership of land, objects and goods
 - Massive near-real economy
-- Decentralized AIs for automatization of the game play <!-- : NPCs, mining, defence, navigation and communication --> /TBD/
-- VR gameplay <!-- for mobile phones -->
+- Decentralized AIs for automatization of the gameplay <!-- : NPCs, mining, defence, navigation and communication --> /TBD/
+- Possibility for VR gameplay <!-- for mobile phones. XR too -->
 <!-- - A possibility for real-time monitoring and customization of story arcs /scenario injection/
 - Enable users to fund projects like custom-made objects through **MetaDAO** 
  
