@@ -21,15 +21,11 @@ Non-profit - Foundation operated
 Open source  
 Non-profit - Foundation operated  
 - Decentralized blockchain database through Decentralized Proof of Stake aka DPoS masternodes and peer-to-peers data miners which can store both platform's data and files /public and private/
-
+  
 **Side Channels**  
 Open source   
 Non-profit - Foundation operated  
 - Programable trustless interconnection **inside** the blockchain between two or more parties through temporarily made sidechains
-**Democrit - Atomic trading**  
-Open source   
-Non-profit - Foundation operated  
-- A protocol and system for executing atomic trades on the **SpaceXpanse Multiverse** platform. This allows players to trade their game assets for cryptocurrency (rOD) in a fully trustless manner.
 
 ### Development  
 **SpaceXpanse Metaverse Simulator**  
@@ -45,17 +41,22 @@ Non-profit - Foundation operated
 - Node-based programming logic /like UE5/
 - Easy adding of new solar systems, planets and satellites
 
+**SpeXID**  
+Open source  
+Non-profit - Foundation operated  
+- An application built on top of the blockchain, that turns each reserved name into a secure digital identity similar to NameID  
+
+**Democrit - Atomic trading**  
+Open source   
+Non-profit - Foundation operated  
+- A protocol and system for executing atomic trades on the **SpaceXpanse Multiverse** platform. This allows players to trade their game assets for cryptocurrency (rOD) in a fully trustless manner.
+
 **Different develoment tools /TBA/**  
 Open source  
 Non-profit - Foundation operated  
 - To help developers have useful environment for effortless creation of metaverses and/or DApps in the platform  
 
 ### Community
-
-**SpeXID**  
-Open source  
-Non-profit - Foundation operated  
-- An application built on top of the blockchain, that turns each reserved name into a secure digital identity similar to NameID  
 
 **MetaLog Social Network**  
 Open source  
