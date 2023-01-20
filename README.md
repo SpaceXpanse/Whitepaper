@@ -60,7 +60,7 @@ Open source
 **MetaLog** - Decentarized Social Network  
 Open source  
 *Non-profit - Foundation operated*
-- Full-blown social network in the blockchain, usable within every platform's metaverse and/or DApp
+- Full-blown social network in the blockchain, usable within every platform's metaverse and/or DApp on top of **SpeXQL**
 
 **MetaDAO** - Decentralized Autonomous Organisation 
 Open source  
