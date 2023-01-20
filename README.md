@@ -13,8 +13,8 @@ By regaining some cutting-edge technologies' true purpose, we are making a self-
 Open source  
 *Non-profit - Foundation operated*
 - Creation, storage and transaction of the main currency /**ROD**/, fungible and nonfungible tokens /NFTs/
-- Digital IDs and other information, stored in the blockchain
-- Decentralized DNS /derived from Namecoin/ which can serve **.rod** and/or other domains /TBD/
+- Decentralized DNS aka **dDNS** /derived from Namecoin/ which can serve **.rod** and/or other domains /TBD/
+- Digital IDs on top of the **dDNS** and other information, stored in the blockchain
 - Human mining aka **PlayToEarn** model which allows parts of the mined block rewards to be "placed" inside an application, game or other, where users can pick/win them up and bank them to their on-chain address.
 
 **SpeXQL** -  Decentralized blockchain database  
