@@ -15,8 +15,7 @@ Non-profit - Foundation operated
 - Creation, storage and transaction of the main currency /**ROD**/, fungible and nonfungible tokens /NFTs/
 - Digital IDs and other information, stored in the blockchain
 - Decentralized DNS /derived from Namecoin/ which can serve **.rod** and/or other domains /TBD/
-- Programable trustless interconnection **between** the blockchain and third-party applications
-  
+
 **SpeXQL**  
 Open source  
 Non-profit - Foundation operated  
@@ -54,7 +53,7 @@ Non-profit - Foundation operated
 **Different develoment tools /TBA/**  
 Open source  
 Non-profit - Foundation operated  
-- To help developers have useful environment for effortless creation of metaverses and/or DApps in the platform  
+- Programable trustless interconnection **between** the blockchain and third-party applications to help developers have useful environment for effortless creation of metaverses and/or DApps in the platform  
 
 ### Community
 
