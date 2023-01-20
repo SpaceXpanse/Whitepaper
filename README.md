@@ -45,7 +45,7 @@ Open source
 *Non-profit - Foundation operated*  
 - An application built on top of the blockchain, that turns each reserved name into a secure digital identity similar to NameID  
 
-**Democrit - Atomic trading**  
+**Democrit** - Atomic trading  
 Open source   
 *Non-profit - Foundation operated*  
 - A protocol and system for executing atomic trades on the **SpaceXpanse Multiverse** platform. This allows players to trade their game assets for cryptocurrency (rOD) in a fully trustless manner.
