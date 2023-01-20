@@ -66,7 +66,7 @@ Open source
 **MetaDAO** - Decentralized Autonomous Organisation  
 Open source    
 *Non-profit - Foundation operated*
-- Full-blown platform-wide decentralized application to serve as crowdfunding hub for user's projects within the platform and more
+- Full-blown platform-wide applicationk in the blockchain to serve as crowdfunding hub for user's projects within the platform and more
 
 ### Entertainment  
 **SpaceXpanse: Wanderers** - A space exploration game in its own metaverse  
