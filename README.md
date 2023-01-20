@@ -72,15 +72,15 @@ Non-profit - Foundation operated
 Closed-source Real-time Massive Multiplayer Open World Sandbox game with realistic look, physics and economics  
 For-profit - Legal entity operated
 - Developed on top of **SpaceXpanse Metaverse Simulator** with the help from various development tools /TBA/. 
-- Partly closed source /GSP and game logic/
-- Made in **Unreal Engine 5**
+- Partly closed source /for GSP and game logic/
+- Made with **Unreal Engine 5** <!-- and Vulcan -->
 - In-game communication in real time /through **MetaLog**/
 - Voice-activated commands
 - NFTs for ownership of land, objects and goods
 - Massive near-real economy
-- Decentralized AIs for automatization of mining, defence, navigation and communication /TBD/
+- Decentralized AIs for automatization of the game play <!-- : NPCs, mining, defence, navigation and communication --> /TBD/
 - Creation and customization of avatars
-- VR gameplay for mobile phones
+- VR gameplay <!-- for mobile phones -->
 <!-- - Possibility for real-time monitoring and customization of story arcs /scenario injection/
  
 ***The Voyagers Chapter***  
