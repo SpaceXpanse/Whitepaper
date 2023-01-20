@@ -14,7 +14,7 @@ Non-profit - Foundation operated
 - Digital IDs and other information, stored in the blockchain
 - Atomic trading
 - Decentralized DNS /derived from Namecoin/ which can serve **.rod** and/or other domains /TBD/
-- Decentralized blockchain database through Decentralized Proof of Stake aka DPoS masternodes and peer-to-peers data miners
+- Decentralized blockchain database through Decentralized Proof of Stake aka DPoS masternodes and peer-to-peers data miners which can store both user's data and files /public and private/
 - Programable interconnection between the blockchain and third-party applications
 
 ### Development  
