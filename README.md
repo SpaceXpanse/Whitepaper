@@ -42,7 +42,7 @@ Open source
 
 **SpeXID** - Digital Identification 
 Open source  
-Non-profit - Foundation operated  
+*Non-profit - Foundation operated*  
 - An application built on top of the blockchain, that turns each reserved name into a secure digital identity similar to NameID  
 
 **Democrit - Atomic trading**  
