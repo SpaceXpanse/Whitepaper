@@ -94,3 +94,4 @@ Warp drive invention to explore Milky Way galaxy and beyond.
  -->
 ----
 *Further sophistication of the subject will be covered in the [Whitepaper](https://github.com/SpaceXpanse/Whitepaper/wiki)*.
+*To get a notion of time table of before-mentioned intentions, visit [Roadmap](https://github.com/SpaceXpanse/Roadmap)*.
