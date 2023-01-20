@@ -1,4 +1,4 @@
-# Manifesto
+# Manifesto /WIP/
 ### To set the intentions    
 
 **Long story short**:  
