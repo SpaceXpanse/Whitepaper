@@ -73,7 +73,7 @@ Closed-source
 *For-profit - Legal entity operated*  
 Real-time Massive Multiplayer Open World Sandbox game with realistic look, physics and economics  
 - Developed on top of **SpaceXpanse Metaverse Simulator** with the help from various development tools /TBA/. 
-- Partly closed source /for GSP and game logic/
+- Partly closed source /for GSP and game logic only/
 - Made with **Unreal Engine 5** <!-- and Vulcan -->
 - In-game communication in real time /through **MetaLog**/
 - Creation and customization of avatars
