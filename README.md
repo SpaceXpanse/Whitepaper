@@ -15,7 +15,8 @@ Non-profit - Foundation operated
 - Creation, storage and transaction of the main currency /**ROD**/, fungible and nonfungible tokens
 - Digital IDs and other information, stored in the blockchain
 - Decentralized DNS /derived from Namecoin/ which can serve **.rod** and/or other domains /TBD/
-- Programable interconnection between the blockchain and third-party applications
+- Programable trustless interconnection **inside** the blockchain between two or more parties through temporarily made sidechains
+- Programable trustless interconnection **between** the blockchain and third-party applications
   
 **SpeXQL**  
 Open source  
