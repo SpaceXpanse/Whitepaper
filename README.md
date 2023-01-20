@@ -21,7 +21,7 @@ Non-profit - Foundation operated
 **SpeXQL**  
 Open source  
 Non-profit - Foundation operated  
-- Decentralized blockchain database through Decentralized Proof of Stake aka DPoS masternodes and peer-to-peers data miners which can store both user's data and files /public and private/
+- Decentralized blockchain database through Decentralized Proof of Stake aka DPoS masternodes and peer-to-peers data miners which can store both platform's data and files /public and private/
 
 **Atomic trading**  
 Open source   
