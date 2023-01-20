@@ -26,7 +26,7 @@ Non-profit - Foundation operated
 **Atomic trading**  
 Open source   
 Non-profit - Foundation operated  
-- A protocol and system for executing atomic trades on the **SpaceXpamnse Multiverse** platform. This allows players to trade their game assets for cryptocurrency (rOD) in a fully trustless manner.
+- A protocol and system for executing atomic trades on the **SpaceXpanse Multiverse** platform. This allows players to trade their game assets for cryptocurrency (rOD) in a fully trustless manner.
 
 ### Development  
 **SpaceXpanse Metaverse Simulator**  
