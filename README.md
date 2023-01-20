@@ -1,7 +1,7 @@
 # Manifesto
 ### To set the intentions    
 
-**Long story short**: By regaining some cutting-edge technologies' true purpose, we want to make a self-sustained virtual environment, where everyone can communicate, develop and entertain himself and which can be easily accessed from everywhere aka **SpaceXpanse Multiverse**. It is a next-gen trustless blockchain platform, made for quick creation of metaverses, immersive user experience and convenient development of complex decentralized applications.
+**Long story short**: By regaining some cutting-edge technologies' true purpose, we want to make a self-sustained virtual environment where everyone can communicate, develop and entertain himself and which can be easily accessed from everywhere aka **SpaceXpanse Multiverse**. It is a next-gen trustless blockchain platform, made for quick creation of metaverses, immersive user experience and convenient development of complex decentralized applications.
 
 ## SpaceXpanse Multiverse aka SpeX platform environment: 
 
