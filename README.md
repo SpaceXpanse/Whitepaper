@@ -23,7 +23,7 @@ Non-profit - Foundation operated
 - Decentralized blockchain database through Decentralized Proof of Stake aka DPoS masternodes and peer-to-peers data miners which can store both user's data and files /public and private/
 
 **Atomic trading**
-Open source  
+Open source   
 Non-profit - Foundation operated  
 - A protocol and system for executing atomic trades on the XAYA platform. This allows players to trade their game assets for cryptocurrency (CHI) in a fully trustless manner.
 
