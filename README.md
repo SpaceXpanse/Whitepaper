@@ -68,7 +68,7 @@ Open source
 - Full-blown application to serve as crowdfunding hub for user's projects within the platform and more
 
 ### Entertainment  
-**SpaceXpanse: Wanderers** - A space exploration game in it's own metaverse  
+**SpaceXpanse: Wanderers** - A space exploration game in its own metaverse  
 Closed-source  
 *For-profit - Legal entity operated*  
 Real-time Massive Multiplayer Open World Sandbox game with realistic look, physics and economics  
