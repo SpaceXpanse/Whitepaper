@@ -16,10 +16,10 @@ Non-profit - Foundation operated
 - Digital IDs and other information, stored in the blockchain
 - Decentralized DNS /derived from Namecoin/ which can serve **.rod** and/or other domains /TBD/
 
-**SpeXQL**  
+**SpeXQL** -  Decentralized blockchain database  
 Open source  
 Non-profit - Foundation operated  
-- Decentralized blockchain database through Decentralized Proof of Stake aka DPoS masternodes and peer-to-peers data miners which can store both platform's data and files /public and private/
+- Implemented through Decentralized Proof of Stake aka DPoS masternodes and peer-to-peers data miners which can store both platform's data and files /public and private/
   
 **Side Channels**  
 Open source   
@@ -27,7 +27,7 @@ Non-profit - Foundation operated
 - Programable trustless interconnection **inside** the blockchain between two or more parties through temporarily made sidechains
 
 ### Development  
-**SpaceXpanse Metaverse Simulator**  
+**SpaceXpanse Metaverse Simulator** - A playground for testing different environments, tools and objects in the platform  
 Open source  
 Non-profit - Foundation operated
 
@@ -40,7 +40,7 @@ Non-profit - Foundation operated
 - Node-based programming logic /like UE5/
 - Easy adding of new solar systems, planets and satellites
 
-**SpeXID**  
+**SpeXID** - Digital Identification 
 Open source  
 Non-profit - Foundation operated  
 - An application built on top of the blockchain, that turns each reserved name into a secure digital identity similar to NameID  
@@ -57,18 +57,18 @@ Non-profit - Foundation operated
 
 ### Community
 
-**MetaLog Social Network**  
+**MetaLog** - Decentarized Social Network
 Open source  
 Non-profit - Foundation operated
-- Full-blown Decentralized Social Network in the blockchain, usable within every platform's metaverse and/or DApp
+- Full-blown social network in the blockchain, usable within every platform's metaverse and/or DApp
 
-**MetaDAO**  
+**MetaDAO** - Decentralized Autonomous Organisation 
 Open source  
 Non-profit - Foundation operated
-- Full-blown Decentralized Autonomous Organisation application to serve as crowdfunding hub for user's projects within the platform and more
+- Full-blown application to serve as crowdfunding hub for user's projects within the platform and more
 
 ### Entertainment  
-**SpaceXpanse: Wanderers** metaverse  
+**SpaceXpanse: Wanderers** - A space exploration game in it's own metaverse  
 Closed-source Real-time Massive Multiplayer Open World Sandbox game with realistic look, physics and economics  
 For-profit - Legal entity operated
 - Developed on top of **SpaceXpanse Metaverse Simulator** with the help from various development tools /TBA/. 
