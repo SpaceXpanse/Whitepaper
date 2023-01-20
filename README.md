@@ -57,7 +57,7 @@ Non-profit - Foundation operated
 
 ### Community
 
-**MetaLog** - Decentarized Social Network
+**MetaLog** - Decentarized Social Network  
 Open source  
 Non-profit - Foundation operated
 - Full-blown social network in the blockchain, usable within every platform's metaverse and/or DApp
