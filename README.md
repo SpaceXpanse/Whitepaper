@@ -15,7 +15,6 @@ Non-profit - Foundation operated
 - Creation, storage and transaction of the main currency /**ROD**/, fungible and nonfungible tokens /NFTs/
 - Digital IDs and other information, stored in the blockchain
 - Decentralized DNS /derived from Namecoin/ which can serve **.rod** and/or other domains /TBD/
-- Programable trustless interconnection **inside** the blockchain between two or more parties through temporarily made sidechains
 - Programable trustless interconnection **between** the blockchain and third-party applications
   
 **SpeXQL**  
@@ -23,7 +22,11 @@ Open source
 Non-profit - Foundation operated  
 - Decentralized blockchain database through Decentralized Proof of Stake aka DPoS masternodes and peer-to-peers data miners which can store both platform's data and files /public and private/
 
-**Atomic trading**  
+**Side Channels**  
+Open source   
+Non-profit - Foundation operated  
+- Programable trustless interconnection **inside** the blockchain between two or more parties through temporarily made sidechains
+**Democrit - Atomic trading**  
 Open source   
 Non-profit - Foundation operated  
 - A protocol and system for executing atomic trades on the **SpaceXpanse Multiverse** platform. This allows players to trade their game assets for cryptocurrency (rOD) in a fully trustless manner.
