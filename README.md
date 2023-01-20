@@ -66,7 +66,7 @@ Open source
 **MetaDAO** - Decentralized Autonomous Organisation  
 Open source    
 *Non-profit - Foundation operated*
-- Full-blown platform-wide applicationk in the blockchain to serve as crowdfunding hub for user's projects within the platform and more
+- Full-blown platform-wide application in the blockchain to serve as crowdfunding hub for user's projects within the platform and more
 
 ### Entertainment  
 **SpaceXpanse: Wanderers** - A space exploration game in its own metaverse  
@@ -83,7 +83,8 @@ Real-time Massive Multiplayer Open World Sandbox game with realistic look, physi
 - Massive near-real economy
 - Decentralized AIs for automatization of the game play <!-- : NPCs, mining, defence, navigation and communication --> /TBD/
 - VR gameplay <!-- for mobile phones -->
-<!-- - Possibility for real-time monitoring and customization of story arcs /scenario injection/
+<!-- - A possibility for real-time monitoring and customization of story arcs /scenario injection/
+- Enable users to fund projects like custom-made objects through **MetaDAO** 
  
 ***The Voyagers Chapter***  
 Where users can explore the solar system and have access to limited missions /sandbox for the next chapter/ 
