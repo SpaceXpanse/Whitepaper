@@ -12,7 +12,7 @@ By regaining some cutting-edge technologies' true purpose, we are making a self-
 **ROD Blockchain**  
 Open source  
 Non-profit - Foundation operated
-- Creation, storage and transaction of the main currency /**ROD**/, fungible and nonfungible tokens
+- Creation, storage and transaction of the main currency /**ROD**/, fungible and nonfungible tokens /NFTs/
 - Digital IDs and other information, stored in the blockchain
 - Decentralized DNS /derived from Namecoin/ which can serve **.rod** and/or other domains /TBD/
 - Programable trustless interconnection **inside** the blockchain between two or more parties through temporarily made sidechains
