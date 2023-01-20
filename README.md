@@ -81,8 +81,8 @@ For-profit - Legal entity operated
 - Decentralized AIs for automatization of mining, defence, navigation and communication /TBD/
 - Creation and customization of avatars
 - VR gameplay for mobile phones
-- Possibility for real-time monitoring and customization of story arcs /scenario injection/
-<!-- 
+<!-- - Possibility for real-time monitoring and customization of story arcs /scenario injection/
+ 
 ***The Voyagers Chapter***  
 Where users can explore the solar system and have access to limited missions /sandbox for the next chapter/ 
 
