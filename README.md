@@ -50,7 +50,7 @@ Non-profit - Foundation operated
 **MetaDAO**  
 Open source  
 Non-profit - Foundation operated
-- Full-blown Decentralized Autonomous Organisation application to serve as crowdfunding hub for user's projects within the platform
+- Full-blown Decentralized Autonomous Organisation application to serve as crowdfunding hub for user's projects within the platform and more
 
 ### Entertainment  
 **SpaceXpanse: Wanderers** metaverse  
