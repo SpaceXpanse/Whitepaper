@@ -11,25 +11,25 @@ By regaining some cutting-edge technologies' true purpose, we are making a self-
 ### Technologies 
 **ROD Blockchain**  
 Open source  
-Non-profit - Foundation operated
+*Non-profit - Foundation operated*
 - Creation, storage and transaction of the main currency /**ROD**/, fungible and nonfungible tokens /NFTs/
 - Digital IDs and other information, stored in the blockchain
 - Decentralized DNS /derived from Namecoin/ which can serve **.rod** and/or other domains /TBD/
 
 **SpeXQL** -  Decentralized blockchain database  
 Open source  
-Non-profit - Foundation operated  
+*Non-profit - Foundation operated*  
 - Implemented through Decentralized Proof of Stake aka DPoS masternodes and peer-to-peers data miners which can store both platform's data and files /public and private/
   
 **Side Channels**  
 Open source   
-Non-profit - Foundation operated  
+*Non-profit - Foundation operated*  
 - Programable trustless interconnection **inside** the blockchain between two or more parties through temporarily made sidechains
 
 ### Development  
 **SpaceXpanse Metaverse Simulator** - A playground for testing different environments, tools and objects in the platform  
 Open source  
-Non-profit - Foundation operated
+*Non-profit - Foundation operated*
 
 - Real-time realistic solar system with major celestial bodies, terrains and environment
 - Gravitational and other forces, affecting all objects accordingly /physics/
@@ -47,30 +47,30 @@ Non-profit - Foundation operated
 
 **Democrit - Atomic trading**  
 Open source   
-Non-profit - Foundation operated  
+*Non-profit - Foundation operated*  
 - A protocol and system for executing atomic trades on the **SpaceXpanse Multiverse** platform. This allows players to trade their game assets for cryptocurrency (rOD) in a fully trustless manner.
 
 **Different develoment tools /TBA/**  
 Open source  
-Non-profit - Foundation operated  
+*Non-profit - Foundation operated*  
 - Programable trustless interconnection **between** the blockchain and third-party applications to help developers have useful environment for effortless creation of metaverses and/or DApps in the platform  
 
 ### Community
 
 **MetaLog** - Decentarized Social Network  
 Open source  
-Non-profit - Foundation operated
+*Non-profit - Foundation operated*
 - Full-blown social network in the blockchain, usable within every platform's metaverse and/or DApp
 
 **MetaDAO** - Decentralized Autonomous Organisation 
 Open source  
-Non-profit - Foundation operated
+*Non-profit - Foundation operated*
 - Full-blown application to serve as crowdfunding hub for user's projects within the platform and more
 
 ### Entertainment  
 **SpaceXpanse: Wanderers** - A space exploration game in it's own metaverse  
 Closed-source Real-time Massive Multiplayer Open World Sandbox game with realistic look, physics and economics  
-For-profit - Legal entity operated
+*For-profit - Legal entity operated*
 - Developed on top of **SpaceXpanse Metaverse Simulator** with the help from various development tools /TBA/. 
 - Partly closed source /for GSP and game logic/
 - Made with **Unreal Engine 5** <!-- and Vulcan -->
