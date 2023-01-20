@@ -75,11 +75,11 @@ For-profit - Legal entity operated
 - Partly closed source /for GSP and game logic/
 - Made with **Unreal Engine 5** <!-- and Vulcan -->
 - In-game communication in real time /through **MetaLog**/
+- Creation and customization of avatars
 - Voice-activated commands
 - NFTs for ownership of land, objects and goods
 - Massive near-real economy
 - Decentralized AIs for automatization of the game play <!-- : NPCs, mining, defence, navigation and communication --> /TBD/
-- Creation and customization of avatars
 - VR gameplay <!-- for mobile phones -->
 <!-- - Possibility for real-time monitoring and customization of story arcs /scenario injection/
  
