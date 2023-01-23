@@ -15,6 +15,7 @@ Open source
 - Creation, storage and transaction of the main currency /**ROD**/, fungible and nonfungible tokens /NFTs/
 - Decentralized DNS aka **dDNS** /derived from Namecoin/ which can serve **.rod** and/or other domains /TBD/
 - Digital IDs, created on top of **dDNS** and other information can be stored in the blockchain
+- Atomic Trading to trade in-game assets (fungible game currencies as well as non-fungible items) in a trustless manner.
 - Human mining aka **PlayToEarn** model which allows parts of the mined block rewards to be "placed" inside an application, game or other, where users can pick/win them up and bank them to their on-chain address.
 
 **SpeXQL** -  Decentralized blockchain database  
