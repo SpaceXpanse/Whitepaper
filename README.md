@@ -63,7 +63,7 @@ Open source
 *Non-profit - Foundation operated*
 - Full-blown platform-wide social network in the blockchain, usable within every platform's metaverse and/or DApp, using **SpeXQL** to store user's private data and **ROD bockchain** for user's public data.
 
-**MetaDAO** - Decentralized Autonomous Organisation  
+**SpeXDAO** - Decentralized Autonomous Organisation  
 Open source    
 *Non-profit - Foundation operated*
 - Full-blown platform-wide application in the blockchain to serve as crowdfunding hub for user's projects within the platform and more
