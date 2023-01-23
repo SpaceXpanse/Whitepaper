@@ -41,7 +41,7 @@ Open source
 - Support for Universal Scene Description /USD/ for collaboratively building animated 3D sceneries, intended for large-scale film and visual effects production. /TBC/
 - Scenario programing /Lua/ 
 - Node-based programming logic /like UE5/ /TBD/
-- Easy adding of new solar systems, planets and satellites
+- Easy adding and editing of new solar systems, planets and satellites
 
 **SpeXID** - Digital Identification  
 Open source  
