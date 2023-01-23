@@ -20,7 +20,7 @@ Open source
 **SpeXQL** -  Decentralized blockchain database  
 Open source  
 *Non-profit - Foundation operated*  
-- Implemented through Decentralized Proof of Stake aka DPoS masternodes and peer-to-peer data miners which can store both platform's data and files /public and private/
+- Implemented through Decentralized Proof of Stake aka **DPoS** masternodes and peer-to-peer data miners which can store both platform's data and files /public and private/
   
 **Side Channels**  
 Open source   
