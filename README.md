@@ -78,10 +78,10 @@ Real-time Massive Multiplayer Open World Sandbox game with realistic look, physi
 - Made with **Unreal Engine 5** <!-- and Vulcan -->
 - In-game communication in real time /through **MetaLog**/
 - Creation and customization of avatars
-<!- - Voice-activated commands -->
+<!-- - Voice-activated commands -->
 - NFTs for ownership of land, objects and goods
 - Massive near-real economy
-- Decentralized AIs for automatization of the gameplay <!-- : NPCs, mining, defence, navigation and communication --> /TBD/
+-<!-- Decentralized --> AIs for automatization of the gameplay <!-- : NPCs, mining, defence, navigation and communication --> /TBD/
 - A possibility for VR gameplay <!-- for mobile phones. XR too -->
 <!-- - A possibility for real-time monitoring and customization of story arcs /scenario injection/ -->
 <!-- - Enable users to fund projects like custom-made objects through **MetaDAO** -->
