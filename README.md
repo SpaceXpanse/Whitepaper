@@ -41,7 +41,7 @@ Open source
 - Node-based programming logic /like UE5/
 - Easy adding of new solar systems, planets and satellites
 
-**SpeXID** - Digital Identification 
+**SpeXID** - Digital Identification  
 Open source  
 *Non-profit - Foundation operated*  
 - An application built on top of the blockchain, that turns each reserved name into a secure digital identity similar to NameID  
