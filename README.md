@@ -37,7 +37,8 @@ Open source
 - Gravitational and other forces, affecting all objects accordingly /physics/
 - Fast rendering with realistic level of detail
 - Creation and editing of multi-part and multi-seated usable objects
-- Python API for modeling of scientific inquiries
+- Python API for modeling of mathematical and other scientific inquiries
+- Support for Universal Scene Description /USD/ for collaboratively building animated 3D sceneries, intended for large-scale film and visual effects production.
 - Scenario programing /Lua/ 
 - Node-based programming logic /like UE5/
 - Easy adding of new solar systems, planets and satellites
