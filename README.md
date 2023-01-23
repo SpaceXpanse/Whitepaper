@@ -37,10 +37,10 @@ Open source
 - Gravitational and other forces, affecting all objects accordingly /physics/
 - Fast rendering with realistic level of detail
 - Creation and editing of multi-part and multi-seated usable objects
-- Python API for modeling of mathematical and other scientific inquiries
-- Support for Universal Scene Description /USD/ for collaboratively building animated 3D sceneries, intended for large-scale film and visual effects production.
+- Python API for modeling of mathematical and other scientific inquiries /TBD/
+- Support for Universal Scene Description /USD/ for collaboratively building animated 3D sceneries, intended for large-scale film and visual effects production. /TBC/
 - Scenario programing /Lua/ 
-- Node-based programming logic /like UE5/
+- Node-based programming logic /like UE5/ /TBD/
 - Easy adding of new solar systems, planets and satellites
 
 **SpeXID** - Digital Identification  
