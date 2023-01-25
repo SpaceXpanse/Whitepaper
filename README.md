@@ -2,7 +2,7 @@
 ### To set the intentions    
 
 >I think that the crypto industry will have to take a more focused approach, shifting from hype cycles toward building real utility.”  
-Ripple’s APAC policy lead Rahul Advani 
+ Rahul Advani  - Ripple’s APAC policy director
 
 **Long story short**:  
 *We want to **turn the [crypto] game around** /pun intended/* <!-- First we wanted to create a great game, now we want to change the world-->
