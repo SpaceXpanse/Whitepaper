@@ -12,7 +12,7 @@ By regaining some cutting-edge technologies' true purpose, we are making a self-
 ## SpaceXpanse Multiverse /SpeX/ platform environment: 
 
 ### Technologies 
-**ROD Blockchain**  
+[**ROD Blockchain**](https://github.com/SpaceXpanse/rod-core-wallet/tree/0.6.8/doc/spacexpanse)  
 Open source  
 *Non-profit - Foundation operated*
 - Main cryptocurrency /**ROD**/, fungible and nonfungible tokens /NFTs/ - creation, storage and transaction
