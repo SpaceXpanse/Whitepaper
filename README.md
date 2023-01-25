@@ -72,7 +72,7 @@ Open source
 **SpeXDAO** - Decentralized Autonomous Organisation  
 Open source    
 *Non-profit - Foundation operated*
-- Full-blown platform-wide application in the blockchain to serve as crowdfunding hub for user's projects within the platform and more
+- Full-blown platform-wide application in the blockchain to serve as crowdfunding hub for user's projects within the platform and more /TBD/
 
 ### Entertainment  
 **SpaceXpanse: Wanderers** - A space exploration game in its own metaverse  
