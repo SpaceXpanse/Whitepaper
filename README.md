@@ -22,7 +22,7 @@ Open source
 - Human mining aka **PlayToEarn** model which allows parts of the mined block rewards to be "placed" inside an application, game or other, where users can pick/win them up and bank them to their on-chain address.
 - Decentralized Proof of Stake aka **DPoS** masternodes and peer-to-peer storage nodes /TBD/
 
-**SpeXQL** -  Decentralized database, using the ROD blockchain as medium for data transfer, interconnection and operations
+**SpeXQL** -  Decentralized database, using ROD blockchain as medium for data transfer, interconnection and operations  
 Open source  
 *Non-profit - Foundation operated*  
 - Implemented using both DPoS masternodes as Block Producers and peer-to-peer storage nodes as Data Miners and which can store platform's data and files /public and private/
