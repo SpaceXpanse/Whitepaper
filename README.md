@@ -9,7 +9,7 @@
   
 By regaining some cutting-edge technologies' true purpose, we are making a self-sustained virtual environment aka **SpaceXpanse Multiverse** where one can communicate, develop and entertain himself and which can be easily accessed by everyone from everywhere. It is a next-gen trustless blockchain platform, made for quick creation of metaverses, immersive user experience and convenient development of complex decentralized applications.
 
-## SpaceXpanse Multiverse aka SpeX platform environment: 
+## SpaceXpanse Multiverse /SpeX/ platform environment: 
 
 ### Technologies 
 **ROD Blockchain**  
