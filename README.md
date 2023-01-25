@@ -1,7 +1,7 @@
 # Manifesto /WIP/
 ### To set the intentions    
 
->I think that the crypto industry will have to take a more focused approach, shifting from hype cycles toward building real utility.” 
+>I think that the crypto industry will have to take a more focused approach, shifting from hype cycles toward building real utility.”  
 Ripple’s APAC policy lead Rahul Advani 
 
 **Long story short**:  
