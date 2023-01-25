@@ -57,7 +57,7 @@ Open source
 *Non-profit - Foundation operated*  
 - A protocol and system for executing atomic trades on the **SpaceXpanse Multiverse** platform. This allows players to trade their game assets for the main cryptocurrency /**ROD**/ and/or tokens in a fully trustless manner.
 
-**Different develoment tools /TBA/**  
+**SpeX Library**  
 Open source  
 *Non-profit - Foundation operated*  
 - Programable trustless interconnection **between** the blockchain and third-party applications to help developers have useful environment for effortless creation of metaverses and/or DApps in the platform  
@@ -69,13 +69,13 @@ Open source
 *Non-profit - Foundation operated*
 - Full-blown platform-wide social network in the blockchain, usable within every platform's metaverse and/or DApp, using **SpeXQL** to store user's private data and **ROD bockchain** for user's public data.
 
-**SpeXDAO** - Decentralized Autonomous Organisation  
+**SpeXDAO** - Decentralized Autonomous Organisation /TBD/   
 Open source    
 *Non-profit - Foundation operated*
-- Full-blown platform-wide application in the blockchain to serve as crowdfunding hub for user's projects within the platform and more /TBD/
+- Full-blown platform-wide application in the blockchain to serve as crowdfunding hub for user's projects within the platform and more
 
 ### Entertainment  
-**SpaceXpanse: Wanderers** - A space exploration game in its own metaverse  
+**SpaceXpanse: Wanderers** - A space exploration game in its own metaverse /TBD/    
 Closed-source  
 *For-profit - Legal entity operated*  
 Real-time Massive Multiplayer Open World Sandbox game with realistic look, physics and economics  
