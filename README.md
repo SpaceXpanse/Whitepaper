@@ -15,16 +15,17 @@ By regaining some cutting-edge technologies' true purpose, we are making a self-
 **ROD Blockchain**  
 Open source  
 *Non-profit - Foundation operated*
-- Creation, storage and transaction of the main currency /**ROD**/, fungible and nonfungible tokens /NFTs/
+- Main utility currency /**ROD**/, fungible and nonfungible tokens /NFTs/ - creation, storage and transaction
 - Decentralized DNS aka **dDNS** /derived from Namecoin/ which can serve **.rod** and/or other domains /TBD/
 - Digital IDs, created on top of **dDNS** and other information can be stored in the blockchain
 - Atomic Trading to trade in-game assets (fungible game currencies as well as non-fungible items) in a trustless manner.
 - Human mining aka **PlayToEarn** model which allows parts of the mined block rewards to be "placed" inside an application, game or other, where users can pick/win them up and bank them to their on-chain address.
+- Decentralized Proof of Stake aka **DPoS** masternodes and peer-to-peer storage nodes /TBD/
 
-**SpeXQL** -  Decentralized blockchain database  
+**SpeXQL** -  Decentralized database, using the ROD blockchain as medium for data transfer, interconnection and operations
 Open source  
 *Non-profit - Foundation operated*  
-- Implemented through Decentralized Proof of Stake aka **DPoS** masternodes and peer-to-peer data miners which can store both platform's data and files /public and private/
+- Implemented using both DPoS masternodes as Block Producers and peer-to-peer storage nodes as Data Miners and which can store platform's data and files /public and private/
   
 **Side Channels**  
 Open source   
