@@ -40,7 +40,7 @@ Open source
 
 - Real-time realistic solar system with major celestial bodies, terrains and environment
 - Gravitational and other forces, affecting all objects accordingly /physics/
-- Fast rendering with realistic level of detail
+- Fast rendering with realistic level of detail /TBD/
 - Creation and editing of multi-part and multi-seated usable objects
 - Python API for modeling of mathematical and other scientific inquiries /TBD/
 - Scenario and other programing through Lua - lightweight, embeddable programming language designed for scripting and extensibility
@@ -110,7 +110,7 @@ Warp drive invention to explore Milky Way galaxy and beyond.
 
 ---- 
 #### Legend
-WIP - Work in progress
-TBA - To be announced
-TBC - To be confirmed
-TBD - To be determined
+WIP - Work in progress  
+TBA - To be announced  
+TBC - To be confirmed  
+TBD - To be determined  
