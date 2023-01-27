@@ -28,7 +28,7 @@ Open source
 *Non-profit - Foundation operated*  
 - Implemented using both DPoS masternodes as Block Producers and peer-to-peer data storage nodes as Data Miners and which can store platform's data and files /public and private/
   
-[**Side Channels**](https://www.ledgerjournal.org/ojs/index.php/ledger/article/view/15)  
+[**Side Channels**](https://github.com/SpaceXpanse/libspex/tree/dev/sidechannel)  
 Open source   
 *Non-profit - Foundation operated*  
 - Programable trustless interconnection **inside** the blockchain between two or more parties through temporarily made sidechains
