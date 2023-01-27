@@ -81,12 +81,12 @@ Closed-source
 Real-time Massive Multiplayer Open World Sandbox game with realistic look, physics and economics  
 - Developed on top of **SpaceXpanse Metaverse Simulator** with the help from various development tools /TBA/. <!-- - Partly closed source /for the game engine and game logic/ -->
 - Made with **Unreal Engine 5** <!-- and Vulcan -->
+- Sophisticated gameplay: Player versus Environment aka PvE /possible addition of PvP/, massive near-real economy, tactical combat and strategic skills development
 - In-game communication in real time /through **Metalog**/
 - Creation and customization of avatars <!-- - Voice-activated commands -->
 - NFTs for ownership of land, objects and goods
-- Sophisticated gameplay: Player versus Environment aka PvE /possible PvP/, massive near-real economy, tactical combat and strategic skills
 - <!-- Decentralized --> Artificial inteligence <!-- and machine learning -->for automation of the gameplay <!-- : NPCs, mining, defence, navigation and communication --> /TBD/
-- VR gameplay <!-- for mobile phones. XR too -->
+- VR gaming <!-- for mobile phones. XR too -->
 <!-- - A possibility for real-time monitoring and customization of story arcs /scenario injection/ -->
 <!-- - Enable users to fund projects like custom-made objects through **MetaDAO** -->
 <!-- 
