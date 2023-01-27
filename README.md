@@ -15,10 +15,10 @@ By regaining some cutting-edge technologies' true purpose, we are making a self-
 [**ROD Blockchain**](https://github.com/SpaceXpanse/rod-core-wallet/tree/0.6.8/doc/spacexpanse)  
 Open source  
 *Non-profit - Foundation operated*
-- Main cryptocurrency /**ROD**/, fungible and [nonfungible](https://github.com/SpaceXpanse/libspex/tree/dev/nonfungible) tokens /NFTs/ - creation, storage and transaction
+- Main cryptocurrency /**ROD**/, [fungible](https://github.com/SpaceXpanse/rod-core-wallet/blob/0.6.8/doc/spacexpanse/currencies.md) and [nonfungible](https://github.com/SpaceXpanse/libspex/tree/dev/nonfungible) tokens /NFTs/ - creation, storage and transaction
 - Decentralized DNS aka **dDNS** /derived from Namecoin/ which can serve **.rod** and/or other domains /TBD/
 - Digital IDs, created on top of **dDNS** and other information can be stored in the blockchain
-- Secure storage of data in the blockchain - [Link](https://github.com/SpaceXpanse/rod-core-wallet/blob/0.6.8/doc/spacexpanse/blockchain.md#spacexpanse-is-based-on-namecoin-).
+- Secure [storage of data](https://github.com/SpaceXpanse/rod-core-wallet/blob/0.6.8/doc/spacexpanse/blockchain.md#spacexpanse-is-based-on-namecoin-) in the blockchain
 - Atomic Trading to trade in-game assets (fungible game currencies as well as non-fungible items) in a trustless manner.
 - Human mining aka **PlayToEarn** model which allows parts of the mined block rewards to be "placed" inside an application, game or other, where users can pick/win them up and bank them to their on-chain address.
 - Decentralized Proof of Stake aka **DPoS** masternodes and peer-to-peer storage nodes /TBD/
