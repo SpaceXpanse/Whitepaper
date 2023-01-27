@@ -46,7 +46,7 @@ Open source
 - Support for Universal Scene Description /USD/ for collaboratively building animated 3D sceneries, intended for large-scale film and visual effects production. /TBC/ 
 - Node-based programming logic /like UE5/ /TBD/
 - Easy adding and editing of new solar systems, planets and satellites and other objects
-- Simplistic interconnection with other elements within the platform environment through dedicated API
+- Simplistic interconnection with any other elements of the platform environment through dedicated API
 
 [**SpeXID**](https://github.com/SpaceXpanse/SpeXID) - Digital Identification for SpaceXpanse Multiverse platform   
 Open source  
