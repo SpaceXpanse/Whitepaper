@@ -44,8 +44,7 @@ Open source
 - Scenario and other programing through Lua - lightweight, embeddable programming language designed for scripting and extensibility
 - Python support for modeling of mathematical and other scientific inquiries /TBD/
 - Support for Universal Scene Description /USD/ for collaboratively building animated 3D sceneries, intended for large-scale film and visual effects production. /TBC/ 
-- Creation and editing of multi-part and multi-seated usable objects
-- Easy adding and editing of new solar systems, planets and satellites and other objects
+- Easy creation and editing of new solar systems, planets and satellites and other multi-part and multi-seated usable objects
 - Simplistic interconnection with any other elements of the platform environment through dedicated API
 
 [**SpeXID**](https://github.com/SpaceXpanse/SpeXID) - Digital Identification application for SpaceXpanse Multiverse platform   
