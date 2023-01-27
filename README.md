@@ -48,7 +48,7 @@ Open source
 - Node-based programming logic /like UE5/ /TBD/
 - Easy adding and editing of new solar systems, planets and satellites and other objects
 
-[**SpeXID**(https://github.com/SpaceXpanse/SpeXID) - Digital Identification for SpaceXpanse Multiverse platform   
+[**SpeXID**](https://github.com/SpaceXpanse/SpeXID) - Digital Identification for SpaceXpanse Multiverse platform   
 Open source  
 *Non-profit - Foundation operated*  
 - An application built on top of the blockchain, that turns each reserved name into a secure digital identity similar to NameID  
