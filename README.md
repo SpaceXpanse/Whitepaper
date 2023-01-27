@@ -23,18 +23,18 @@ Open source
 - [Atomic trading](https://github.com/SpaceXpanse/rod-core-wallet/blob/0.6.8/doc/spacexpanse/trading.md) to exchange in-game assets (fungible game currencies as well as non-fungible items) in a trustless manner.
 - [Human mining](https://github.com/SpaceXpanse/rod-core-wallet/blob/0.6.8/doc/spacexpanse/games.md#moves-) aka **PlayToEarn** model which allows parts of the mined block rewards to be "placed" inside an application, game or other, where users can pick/win them up and bank them to their on-chain address. /TBD/  
 
-**SpeXQL** -  Decentralized database management system using ROD blockchain as medium for data transfer, interconnection and operations  
+[**SpeXQL**](https://github.com/SpaceXpanse/SpeXQL) -  Decentralized database management system using ROD blockchain as medium for data transfer, interconnection and operations  
 Open source  
 *Non-profit - Foundation operated*  
 - Implemented using both DPoS masternodes as Block Producers and peer-to-peer data storage nodes as Data Miners and which can store platform's data and files /public and private/
   
-**Side Channels**  
+[**Side Channels**](https://www.ledgerjournal.org/ojs/index.php/ledger/article/view/15)  
 Open source   
 *Non-profit - Foundation operated*  
 - Programable trustless interconnection **inside** the blockchain between two or more parties through temporarily made sidechains
 
 ### Development  
-**SpaceXpanse Metaverse Simulator** - A playground for testing different environments, tools and objects in the platform  
+[**SpaceXpanse Metaverse Simulator**](https://github.com/SpaceXpanse/Metaverse) - A playground for testing different environments, tools and objects in the platform  
 Open source  
 *Non-profit - Foundation operated*
 
@@ -48,16 +48,16 @@ Open source
 - Node-based programming logic /like UE5/ /TBD/
 - Easy adding and editing of new solar systems, planets and satellites and other objects
 
-**SpeXID** - Digital Identification for SpaceXpanse Multiverse platform   
+[**SpeXID**(https://github.com/SpaceXpanse/SpeXID) - Digital Identification for SpaceXpanse Multiverse platform   
 Open source  
 *Non-profit - Foundation operated*  
 - An application built on top of the blockchain, that turns each reserved name into a secure digital identity similar to NameID  
 
-**Democrit** - Atomic trading  
+<!-- **Democrit** - Atomic trading  
 Open source   
 *Non-profit - Foundation operated*  
 - A protocol and system for executing atomic trades on the **SpaceXpanse Multiverse** platform. This allows players to trade their game assets for the main cryptocurrency /**ROD**/ and/or tokens in a fully trustless manner.
-
+-->
 **SpeX Library**  
 Open source  
 *Non-profit - Foundation operated*  
