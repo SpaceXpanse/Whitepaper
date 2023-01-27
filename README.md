@@ -64,7 +64,7 @@ Open source
 
 ### Community
 
-**MetaLog** - Decentarized Social Network /TBA/   
+**Metalog** - Decentarized Social Network /TBA/   
 Open source  
 *Non-profit - Foundation operated*
 - Full-blown platform-wide social network in the blockchain, usable within every platform's metaverse and/or DApp, using **SpeXQL** to store user's private data and **ROD bockchain** for user's public data.
@@ -82,7 +82,7 @@ Real-time Massive Multiplayer Open World Sandbox game with realistic look, physi
 - Developed on top of **SpaceXpanse Metaverse Simulator** with the help from various development tools /TBA/. 
 - Partly closed source /for GSP and game logic only/
 - Made with **Unreal Engine 5** <!-- and Vulcan -->
-- In-game communication in real time /through **MetaLog**/
+- In-game communication in real time /through **Metalog**/
 - Creation and customization of avatars <!-- - Voice-activated commands -->
 - NFTs for ownership of land, objects and goods
 - Massive near-real economy
