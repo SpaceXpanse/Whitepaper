@@ -7,7 +7,7 @@
 **Long story short**:  
 *We want to **turn the [crypto] game around** /pun intended/* <!-- First we wanted to create a great game, now we want to change the world-->
   
-It is a next-generation trustless blockchain platform designed for the rapid creation of metaverses, immersive user experiences and easy development of complex decentralized applications. By rediscovering the true purpose of some cutting-edge technologies, we are creating a self-sustaining virtual environment known as the **SpaceXpanse Multiverse** where people can communicate, develop, have fun and which can be easily accessed by anyone from anywhere.  
+It is a next-generation trustless blockchain platform designed for the rapid creation of metaverses, immersive user experiences and easy development of complex decentralized applications. By rediscovering the true purpose of some cutting-edge technologies, we are creating a self-sustaining virtual environment now known as the **SpaceXpanse Multiverse** where people can communicate, develop, have fun and which can be easily accessed by anyone from anywhere.  
 
 ## SpaceXpanse Multiverse /SpeX/ platform environment: 
 
