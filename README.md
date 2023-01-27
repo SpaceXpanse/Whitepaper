@@ -17,13 +17,13 @@ Open source
 *Non-profit - Foundation operated*
 - Main cryptocurrency /**ROD**/, [fungible](https://github.com/SpaceXpanse/rod-core-wallet/blob/0.6.8/doc/spacexpanse/currencies.md) and [nonfungible](https://github.com/SpaceXpanse/libspex/tree/dev/nonfungible) tokens /NFTs/ - creation, storage and transaction
 - Decentralized DNS aka **dDNS** /derived from Namecoin/ which can serve **.rod** and/or other domains /TBD/
-- Digital IDs, created on top of **dDNS** which can hold and transfer value in the ROD blockchain
+- [Digital IDs](https://github.com/SpaceXpanse/rod-core-wallet/blob/0.6.8/doc/spacexpanse/blockchain.md#names) which can hold and transfer value in the ROD blockchain
 - Secure [storage of data](https://github.com/SpaceXpanse/rod-core-wallet/blob/0.6.8/doc/spacexpanse/blockchain.md#spacexpanse-is-based-on-namecoin-) in the blockchain **itself**.
 - Decentralized Proof of Stake aka **DPoS** masternodes and peer-to-peer nodes for secure data storage **outside** blockchain by using SQLite /or other/ database engine /TBD/
 - [Atomic trading](https://github.com/SpaceXpanse/rod-core-wallet/blob/0.6.8/doc/spacexpanse/trading.md) to exchange in-game assets (fungible game currencies as well as non-fungible items) in a trustless manner.
 - [Human mining](https://github.com/SpaceXpanse/rod-core-wallet/blob/0.6.8/doc/spacexpanse/interface.md) aka **PlayToEarn** model which allows parts of the mined block rewards to be "placed" inside an application, game or other, where users can pick/win them up and bank them to their on-chain address. /TBD/  
 
-**SpeXQL** -  Decentralized database, using ROD blockchain as medium for data transfer, interconnection and operations  
+**SpeXQL** -  Decentralized database management system using ROD blockchain as medium for data transfer, interconnection and operations  
 Open source  
 *Non-profit - Foundation operated*  
 - Implemented using both DPoS masternodes as Block Producers and peer-to-peer data storage nodes as Data Miners and which can store platform's data and files /public and private/
