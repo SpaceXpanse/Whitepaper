@@ -58,7 +58,7 @@ Open source
 *Non-profit - Foundation operated*  
 - A protocol and system for executing atomic trades on the **SpaceXpanse Multiverse** platform. This allows players to trade their game assets for the main cryptocurrency /**ROD**/ and/or tokens in a fully trustless manner.
 -->
-**SpeX Library**  
+[**SpeX Library**](https://github.com/SpaceXpanse/libspex)  
 Open source  
 *Non-profit - Foundation operated*  
 - Programable trustless interconnection **between** the blockchain and third-party applications to help developers have useful environment for effortless creation of metaverses and/or DApps in the platform  
