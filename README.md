@@ -60,7 +60,7 @@ Open source
 [**SpeX Library**](https://github.com/SpaceXpanse/libspex)  
 Open source  
 *Non-profit - Foundation operated*  
-- Programable trustless interconnection **between** the blockchain and third-party applications to help developers have useful environment for effortless creation of metaverses and/or DApps in the platform  
+- Programable trustless interconnection **between** the blockchain and third-party applications to help developers have useful environment for effortless development of DApps in the platform  
 
 ### Community
 
