@@ -44,7 +44,7 @@ Open source
 - Python support for modeling of mathematical and other scientific inquiries /TBD/
 - Scenario and other programing through Lua - lightweight, embeddable programming language designed for scripting and extensibility
 - Support for Universal Scene Description /USD/ for collaboratively building animated 3D sceneries, intended for large-scale film and visual effects production. /TBC/ 
-- Node-based programming logic /like UE5/ /TBD/
+- Node-based programming logic /TBD/
 - Easy adding and editing of new solar systems, planets and satellites and other objects
 - Simplistic interconnection with any other elements of the platform environment through dedicated API
 
