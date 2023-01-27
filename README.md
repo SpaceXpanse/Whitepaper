@@ -20,7 +20,7 @@ Open source
 - Digital IDs, created on top of **dDNS** which can hold and transfer value in the ROD blockchain
 - Secure [storage of data](https://github.com/SpaceXpanse/rod-core-wallet/blob/0.6.8/doc/spacexpanse/blockchain.md#spacexpanse-is-based-on-namecoin-) in the blockchain
 - [Atomic trading](https://github.com/SpaceXpanse/rod-core-wallet/blob/0.6.8/doc/spacexpanse/trading.md) to exchange in-game assets (fungible game currencies as well as non-fungible items) in a trustless manner.
-- Human mining aka **PlayToEarn** model which allows parts of the mined block rewards to be "placed" inside an application, game or other, where users can pick/win them up and bank them to their on-chain address.
+- Human mining aka **PlayToEarn** model which allows parts of the mined block rewards to be "placed" inside an application, game or other, where users can pick/win them up and bank them to their on-chain address. /TBD/  
 - Decentralized Proof of Stake aka **DPoS** masternodes and peer-to-peer storage nodes /TBD/
 
 **SpeXQL** -  Decentralized database, using ROD blockchain as medium for data transfer, interconnection and operations  
