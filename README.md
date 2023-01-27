@@ -31,8 +31,7 @@ Open source
 [**Side Channels**](https://github.com/SpaceXpanse/libspex/tree/dev/sidechannel)  
 Open source   
 *Non-profit - Foundation operated*  
-- Programable trustless interconnection **inside** the blockchain between two or more parties through temporarily made sidechains
-
+- Programable trustless interconnection **inside** the blockchain which allows two or more parties to interact through temporarily made sidechains in a very scalable, off-chain and almost real-time fashion.
 ### Development  
 [**SpaceXpanse Metaverse Simulator**](https://github.com/SpaceXpanse/Metaverse) - A playground for testing different environments, tools and objects in the platform  
 Open source  
