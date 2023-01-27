@@ -1,4 +1,4 @@
-# Manifesto /WIP/
+# Manifesto /WIP/*
 ### To set the intentions    
 
 >I think that the crypto industry will have to take a more focused approach, shifting from hype cycles toward building real utility.  
@@ -65,7 +65,7 @@ Open source
 
 ### Community
 
-**MetaLog** - Decentarized Social Network  
+**MetaLog** - Decentarized Social Network /TBA/   
 Open source  
 *Non-profit - Foundation operated*
 - Full-blown platform-wide social network in the blockchain, usable within every platform's metaverse and/or DApp, using **SpeXQL** to store user's private data and **ROD bockchain** for user's public data.
@@ -107,3 +107,10 @@ Warp drive invention to explore Milky Way galaxy and beyond.
 ----
 *Further sophistication of the subject will be covered in the [Whitepaper](https://github.com/SpaceXpanse/Whitepaper/wiki)*.  
 *To get a notion of the time table and completeness of these intentions, visit [Roadmap](https://github.com/SpaceXpanse/Roadmap)*.
+
+---- 
+#### Legend
+WIP - Work in progress
+TBA - To be announced
+TBC - To be confirmed
+TBD - To be determined
