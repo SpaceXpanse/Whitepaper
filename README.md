@@ -51,7 +51,7 @@ Open source
 [**SpeXID**](https://github.com/SpaceXpanse/SpeXID) - Digital Identification application for SpaceXpanse Multiverse platform   
 Open source  
 *Non-profit - Foundation operated*  
-- An application built on top of the ROD blockchain, that turns each reserved name into a secure digital identity similar to NameID  
+- An application built on top of the ROD blockchain, that turns each reserved name into a secure digital identity similar to [NameID](https://nameid.org)  
 
 <!-- **Democrit** - Atomic trading  
 Open source   
