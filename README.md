@@ -7,7 +7,7 @@
 **Long story short**:  
 We want to ***turn the [crypto] game around*** /pun intended/ <!-- First we wanted to create a great game, now we want to change the world-->
   
-By *putting the crypto technology back on track*, we are making a next-generation trustless blockchain platform, designed for rapid creation of metaverses, immersive user experience and easy development of complex decentralized applications which we called **SpaceXpanse Multiverse**, where people can communicate, create, have fun and which can be easily accessed by anyone from anywhere.  
+By *putting the crypto technology back on track*, we are making a next-generation trustless blockchain platform, designed for rapid creation of metaverses, immersive user experience and easy development of complex decentralized applications, which we called **SpaceXpanse Multiverse**, where people can communicate, create, have fun, and which can be easily accessed by anyone from anywhere.  
 
 ## SpaceXpanse Multiverse /SpeX/ platform environment: 
 
