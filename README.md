@@ -26,7 +26,7 @@ Open source
 [**SpeXQL**](https://github.com/SpaceXpanse/SpeXQL) -  Decentralized database management system using ROD blockchain as medium for data transfer, interconnection and operations /WIP/  
 Open source  
 *Non-profit - Foundation operated*  
-- Implemented using both DPoS masternodes as Block Producers and peer-to-peer data storage nodes as Data Miners and which can store platform's data and files /public and private/
+- Implemented using both DPoS masternodes as Block Producers and peer-to-peer data storage nodes as Data Miners, which can store platform's data and files /public and private/
   
 [**Side Channels**](https://github.com/SpaceXpanse/libspex/tree/dev/sidechannel) /WIP/    
 Open source   
