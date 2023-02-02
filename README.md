@@ -23,17 +23,17 @@ Open source
 - [Atomic trading](https://github.com/SpaceXpanse/rod-core-wallet/blob/0.6.8/doc/spacexpanse/trading.md) to exchange in-game assets (fungible game currencies as well as non-fungible items) in a trustless manner.
 - [Human mining](https://github.com/SpaceXpanse/rod-core-wallet/blob/0.6.8/doc/spacexpanse/games.md) aka **Play To Earn** model which allows parts of the mined block rewards to be "placed" inside an application, game or other, where users can pick/win them up and bank them to their on-chain address. /TBD/  
 
-[**SpeXQL**](https://github.com/SpaceXpanse/SpeXQL) -  Decentralized database management system using ROD blockchain as medium for data transfer, interconnection and operations /TBD/  
+[**SpeXQL**](https://github.com/SpaceXpanse/SpeXQL) -  Decentralized database management system using ROD blockchain as medium for data transfer, interconnection and operations /WIP/  
 Open source  
 *Non-profit - Foundation operated*  
 - Implemented using both DPoS masternodes as Block Producers and peer-to-peer data storage nodes as Data Miners and which can store platform's data and files /public and private/
   
-[**Side Channels**](https://github.com/SpaceXpanse/libspex/tree/dev/sidechannel)  
+[**Side Channels**](https://github.com/SpaceXpanse/libspex/tree/dev/sidechannel) /WIP/    
 Open source   
 *Non-profit - Foundation operated*  
 - Programable trustless interconnection **inside** the blockchain which allows two or more parties to interact through temporarily made [sidechains](https://www.coindesk.com/learn/an-introduction-to-sidechains/) in a very scalable, off-chain and almost real-time fashion.
 ### Development  
-[**SpaceXpanse Metaverse Simulator**](https://github.com/SpaceXpanse/Metaverse) - A playground for testing different environments, tools and objects in the platform  
+[**SpaceXpanse Metaverse Simulator**](https://github.com/SpaceXpanse/Metaverse) - A playground for testing different environments, tools and objects in the platform /WIP/    
 Open source  
 *Non-profit - Foundation operated*
 
@@ -47,7 +47,7 @@ Open source
 - Easy creation and editing of new solar systems, planets and satellites, vehicles and other multi-part and multi-seated usable objects
 - Simplistic interconnection with any other elements of the platform environment through dedicated API
 
-[**SpeXID**](https://github.com/SpaceXpanse/SpeXID) - Digital Identification application for SpaceXpanse Multiverse platform   
+[**SpeXID**](https://github.com/SpaceXpanse/SpeXID) - Digital Identification application for SpaceXpanse Multiverse platform /WIP/    
 Open source  
 *Non-profit - Foundation operated*  
 - An application built on top of the ROD blockchain, that turns each reserved name into a secure digital identity similar to [NameID](https://nameid.org)  
@@ -57,7 +57,7 @@ Open source
 *Non-profit - Foundation operated*  
 - A protocol and system for executing atomic trades on the **SpaceXpanse Multiverse** platform. This allows players to trade their game assets for the main cryptocurrency /**ROD**/ and/or tokens in a fully trustless manner.
 -->
-[**SpeX Library**](https://github.com/SpaceXpanse/libspex)  
+[**SpeX Library**](https://github.com/SpaceXpanse/libspex) /WIP/      
 Open source  
 *Non-profit - Foundation operated*  
 - Programable trustless interconnection **between** the blockchain and third-party applications to help developers have useful environment for effortless development of DApps in the platform  
