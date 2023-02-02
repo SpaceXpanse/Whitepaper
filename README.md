@@ -41,7 +41,7 @@ Open source
 - Gravitational and other forces, affecting all objects accordingly /physics/
 - Fast rendering with realistic level of detail /TBD/
 - Node-based programming logic /TBD/
-- Scenario and other programing through Lua - lightweight, embeddable programming language designed for scripting and extensibility
+- Scenario programing through Lua - lightweight, embeddable programming language designed for scripting and extensibility
 - Python support for modeling of mathematical and other scientific inquiries /TBD/
 - Support for Universal Scene Description /USD/ for collaboratively building animated 3D sceneries, intended for large-scale film and visual effects production. /TBC/ 
 - Easy creation and editing of new solar systems, planets and satellites, vehicles and other multi-part and multi-seated usable objects
