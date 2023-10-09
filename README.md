@@ -42,7 +42,7 @@ Open source
 - It allows you to use variables to store and manipulate data during gameplay. /WIP/
 - It provides a powerful feature called "Events Function" or simply Function. /WIP/
 - It includes a variety of pre-made objects such as buttons, switches, sliders, and more. /WIP/
-- Its features are provided through extensions, allowing you to embed only the features you need in your game. /WIP/
+- Its features are provided through extensions, allowing you to embed only the features you need. /WIP/
 - It's a cross-platform development software. You will be able to build games and other apps for mobile, desktop, and the web. /WIP/
 - It's an open-source, no-code game development software licensed under the MIT license.  
   
