@@ -32,7 +32,20 @@ Open source
 Open source   
 *Non-profit - Foundation operated*  
 - Programable trustless interconnection **inside** the blockchain which allows two or more parties to interact through temporarily made [sidechains](https://www.coindesk.com/learn/an-introduction-to-sidechains/) in a very scalable, off-chain and almost real-time fashion.
-### Development  
+### Development
+[**SpaceXpanse DappEngine**](https://github.com/SpaceXpanse/DappEngine) - A versatile tool for creating 2D and simple 3D games and other dapps with ease /WIP/    
+Open source  
+*Non-profit - Foundation operated*
+
+- In DappEngine, everything on the screen is an object. This includes the playable character, enemies, and parts of the environment. /WIP/
+- It uses events to define the logic of your game. You can create conditions and actions to control how objects interact and behave. /WIP/
+- It allows you to use variables to store and manipulate data during gameplay. This gives you flexibility in creating dynamic and interactive experiences. /WIP/
+- It provides a powerful feature called "Events Function" or simply Function. Functions allow you to create your own actions, conditions, or expressions, making it easier to organize and reuse your game's events. /WIP/
+- It includes a variety of pre-made objects such as buttons, switches, sliders, and more. This saves you time and effort by providing ready-to-use interface elements for your game. /WIP/
+- Its features are provided through extensions, allowing you to embed only the features you need in your game. This modular approach gives you flexibility in customizing your game development process. /WIP/
+- It's a cross-platform development software. You can build games and other apps for mobile, desktop, and the web, making it easier to reach a wider audience. /WIP/
+- It's an open-source, no-code game development software licensed under the MIT license. It provides a user-friendly interface that doesn't require coding knowledge, making it accessible to beginners and experienced developers alike.
+  
 [**SpaceXpanse Metaverse Simulator**](https://github.com/SpaceXpanse/Metaverse) - A playground for testing different environments, tools and objects in the platform /WIP/    
 Open source  
 *Non-profit - Foundation operated*
