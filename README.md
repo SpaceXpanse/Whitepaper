@@ -28,7 +28,7 @@ Open source
 Open source  
 *Non-profit - Foundation operated*  
 Implementation follows [a set of rules](https://github.com/SpaceXpanse/nips) by using:
-- [Relay:](https://github.com/SpaceXpanse/Metalog) Anyone can run a relay /after locking some amount of ROD in a wallet - TBD/, and they are responsible for storing the data by using one or more PosgreSQL instances for example and then forwarding it to other relays eventually. They can set them public or private, collect a fee for using it, etc.
+- [Relay:](https://github.com/SpaceXpanse/Metalog) Anyone can run a relay /possibly after locking some amount of ROD in a wallet - TBD/, and they are responsible for storing the data by using one or more PosgreSQL instances, for example, and then forwarding it to other relays eventually. They can set them public or private, collect a fee for using it, etc.
 - [Client](https://github.com/SpaceXpanse/Metalog): Users run clients on their own computers to connect to these relays to send and receive data.  
 
 Both can use ROD blockchain's storage capabilities to transfer data e.g. relay domain adresses, user presence between them.
@@ -74,7 +74,7 @@ Open source
 - SegWit support
 - Share your instance with friends /multi-tenant/
 - Invoice management and Payment requests
-- Apps: **Marketplace** for your digital IDs, .rod domains, etc.; **Crowdfunding** for supporting your projrcts; Buttons for **Donation** receiving
+- Apps: **Marketplace** for your digital IDs, .rod domains, etc.; **Crowdfunding** for supporting your projects; Buttons for **Donation** receiving
 
 [**SpaceXpanse DappEngine**](https://github.com/SpaceXpanse/DappEngine) - A versatile tool for creating 2D and simple 3D games and other dapps with ease /WIP/    
 Open source  
