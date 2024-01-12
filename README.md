@@ -31,7 +31,7 @@ Implementation follows [a set of rules](https://github.com/SpaceXpanse/nips) by 
 - [Relay:](https://github.com/SpaceXpanse/Metalog) Anyone can run a relay, set a fee for using it if they want, and are responsible for storing and forwarding data to other relays.
 - [Client](https://github.com/SpaceXpanse/Metalog): Users run clients on their own computers to connect to these relays to send and receive data.  
 
-Both can use ROD blockchain's storage capabilities to transfer data e.g. rod domain adresses, user presence between them.
+Both can use ROD blockchain's storage capabilities to transfer data e.g. relay domain adresses, user presence between them.
 
 <!--
 [**SpeXQL**](https://github.com/SpaceXpanse/SpeXQL) -  Decentralized database management system using ROD blockchain as medium for data transfer, interconnection and operations /Deferred/  
