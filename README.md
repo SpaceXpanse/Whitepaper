@@ -45,6 +45,23 @@ Open source
 - Programable trustless interconnection **inside** the blockchain which allows two or more parties to interact through temporarily made [sidechains](https://www.coindesk.com/learn/an-introduction-to-sidechains/) in a very scalable, off-chain and almost real-time fashion.
 
 ### Development
+
+[**SpeX Library**](https://github.com/SpaceXpanse/libspex)      
+Open source  
+*Non-profit - Foundation operated*  
+- Programable trustless interconnection **between** the blockchain and third-party applications to help developers have useful environment for effortless development of DApps in the platform  
+
+[**SpeXID**](https://github.com/SpaceXpanse/SpeXID) - Digital Identification application for SpaceXpanse Multiverse platform /WIP/    
+Open source  
+*Non-profit - Foundation operated*  
+- An application built on top of the ROD blockchain, that turns each reserved name into a secure digital identity similar to [NameID](https://nameid.org)  
+
+<!-- **Democrit** - Atomic trading  
+Open source   
+*Non-profit - Foundation operated*  
+- A protocol and system for executing atomic trades on the **SpaceXpanse Multiverse** platform. This allows players to trade their game assets for the main cryptocurrency /**ROD**/ and/or tokens in a fully trustless manner.
+-->
+
 [**SpaceXpanse DappEngine**](https://github.com/SpaceXpanse/DappEngine) - A versatile tool for creating 2D and simple 3D games and other dapps with ease /WIP/    
 Open source  
 *Non-profit - Foundation operated*
@@ -72,20 +89,19 @@ Open source
 - Easy creation and editing of new solar systems, planets and satellites, vehicles and other multi-part and multi-seated usable objects
 - Simplistic interconnection with any other elements of the platform environment through dedicated API
 
-[**SpeXID**](https://github.com/SpaceXpanse/SpeXID) - Digital Identification application for SpaceXpanse Multiverse platform /WIP/    
-Open source  
-*Non-profit - Foundation operated*  
-- An application built on top of the ROD blockchain, that turns each reserved name into a secure digital identity similar to [NameID](https://nameid.org)  
-
-<!-- **Democrit** - Atomic trading  
-Open source   
-*Non-profit - Foundation operated*  
-- A protocol and system for executing atomic trades on the **SpaceXpanse Multiverse** platform. This allows players to trade their game assets for the main cryptocurrency /**ROD**/ and/or tokens in a fully trustless manner.
--->
-[**SpeX Library**](https://github.com/SpaceXpanse/libspex) /WIP/      
-Open source  
-*Non-profit - Foundation operated*  
-- Programable trustless interconnection **between** the blockchain and third-party applications to help developers have useful environment for effortless development of DApps in the platform  
+[**RODPay Server**](https://github.com/SpaceXpanse/rodpayserver) - a free and open-source payment processor which allows you to accept payments without fees or intermediaries. /WIP/   
+Open source    
+*Non-profit - Foundation operated*
+- Direct, peer-to-peer payments
+- No transaction fees (other than the network fee)
+- No fees, middleman or KYC
+- Non-custodial (complete control over the private key)
+- Enhanced privacy & security
+- Self-hosted
+- SegWit support
+- Share your instance with friends (multi-tenant)
+- Invoice management and Payment requests
+- Apps: Marketplace, Crowdfunding, Donations
 
 ### Community
 
@@ -94,12 +110,25 @@ Open source
 *Non-profit - Foundation operated*
 - Full-blown platform-wide social network in the blockchain, accessible within every platform's metaverse and/or DApp, using **Nostr** protocol to store user's private data and **ROD bockchain** for user's public data.
 
-**SpeXDAO** - Decentralized Autonomous Organisation /TBD/   
+**SpeXDAO** - Decentralized Autonomous Organisation /Deferred/   
 Open source    
 *Non-profit - Foundation operated*
 - Full-blown platform-wide application in the blockchain to serve as crowdfunding hub for user's projects within the platform and more
 
 ### Entertainment  
+
+[**SpaceXpanse: Battleships** /Prototype/](https://github.com/SpaceXpanse/Battleships) - The classic game of Battleship, but with a twist /WIP/  
+Open-source  
+Non-profit - Foundation operated  
+Simple multiplayer online game in the ROD blockchain  
+
+- Developed on top of libspex's headless Ships game with the help from various development tools.
+- Made with Unity
+- Simplistic gameplay: Two players can choose to compete with each other's tactical combat, strategic skills and shear luck
+- Ability to compare players' scores through Leaderboard
+- Owning NFTs to straighten spaceship's attack and defense capabilities /TBA/
+- In-game communication in real time through Metalog /TBD/
+
 **SpaceXpanse: Wanderers** - A space exploration game in its own metaverse /TBD/    
 Closed-source  
 *For-profit - Legal entity operated*  
