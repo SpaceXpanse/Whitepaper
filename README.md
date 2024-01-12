@@ -21,17 +21,28 @@ Open source
 - Secure [storage of data](https://github.com/SpaceXpanse/rod-core-wallet/blob/0.6.8/doc/spacexpanse/blockchain.md#spacexpanse-is-based-on-namecoin-) in the blockchain **itself**.
 - Decentralized Proof of Stake aka **DPoS** masternodes and peer-to-peer nodes for secure data storage **outside** blockchain by using SQLite /or other/ database engine /TBD/
 - [Atomic trading](https://github.com/SpaceXpanse/rod-core-wallet/blob/0.6.8/doc/spacexpanse/trading.md) to exchange in-game assets (fungible game currencies as well as non-fungible items) in a trustless manner.   
-- [Human mining](https://github.com/SpaceXpanse/rod-core-wallet/blob/0.6.8/doc/spacexpanse/games.md) aka **Play To Earn** model which allows parts of the mined block rewards to be "placed" inside an application, game or other, where users can pick/win them up and bank them to their on-chain address. /WIP/    
+- [Human mining](https://github.com/SpaceXpanse/rod-core-wallet/blob/0.6.8/doc/spacexpanse/games.md) aka **Play To Earn** model which allows parts of the mined block rewards to be "placed" inside an application, game or other, where users can pick/win them up and bank them to their on-chain address. /WIP/
 
-[**SpeXQL**](https://github.com/SpaceXpanse/SpeXQL) -  Decentralized database management system using ROD blockchain as medium for data transfer, interconnection and operations /WIP/  
+[**Nostr** protocol](https://github.com/SpaceXpanse/nostr) -  an open-source, censorship-resistant protocolthat aims to provide a more decentralized, privacy-centered and user-empowered alternative to traditional centralized ways to store and retrieve huge amounts of data. /WIP/  
 Open source  
 *Non-profit - Foundation operated*  
-- Implemented using both DPoS masternodes as Block Producers and peer-to-peer data storage nodes as Data Miners, which can store platform's data and files /public and private/
+Implementation follows [a set of rules](https://github.com/SpaceXpanse/nips) by using:
+- [Relay:](https://github.com/SpaceXpanse/Metalog) Anyone can run a relay, set a fee for using it if they want, and are responsible for storing and forwarding data to other relays.
+- [Client](https://github.com/SpaceXpanse/Metalog): Users run clients on their own computers to connect to these relays to send and receive data.  
+
+Both can use ROD blockchain's storage capabilities to transfer data e.g. rod domain adresses and user presence between them.
+
+<!--
+[**SpeXQL**](https://github.com/SpaceXpanse/SpeXQL) -  Decentralized database management system using ROD blockchain as medium for data transfer, interconnection and operations /Deferred/  
+Open source  
+*Non-profit - Foundation operated*  
+- Implemented using both DPoS masternodes as Block Producers and peer-to-peer data storage nodes as Data Miners, which can store platform's data and files /public and private/ -->
   
 [**Side Channels**](https://github.com/SpaceXpanse/libspex/tree/dev/sidechannel) /WIP/    
 Open source   
 *Non-profit - Foundation operated*  
 - Programable trustless interconnection **inside** the blockchain which allows two or more parties to interact through temporarily made [sidechains](https://www.coindesk.com/learn/an-introduction-to-sidechains/) in a very scalable, off-chain and almost real-time fashion.
+
 ### Development
 [**SpaceXpanse DappEngine**](https://github.com/SpaceXpanse/DappEngine) - A versatile tool for creating 2D and simple 3D games and other dapps with ease /WIP/    
 Open source  
@@ -77,10 +88,10 @@ Open source
 
 ### Community
 
-**Metalog** - Decentarized Social Network /TBA/   
+[**Metalog**](https://github.com/SpaceXpanse/Metalog) - Decentarized Social Network /WIP/   
 Open source  
 *Non-profit - Foundation operated*
-- Full-blown platform-wide social network in the blockchain, usable within every platform's metaverse and/or DApp, using **SpeXQL** to store user's private data and **ROD bockchain** for user's public data.
+- Full-blown platform-wide social network in the blockchain, accessible within every platform's metaverse and/or DApp, using **Nostr** protocol to store user's private data and **ROD bockchain** for user's public data.
 
 **SpeXDAO** - Decentralized Autonomous Organisation /TBD/   
 Open source    
