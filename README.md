@@ -28,7 +28,7 @@ Open source
 Open source  
 *Non-profit - Foundation operated*  
 Implementation follows [a set of rules](https://github.com/SpaceXpanse/nips) by using:
-- [Relay:](https://github.com/SpaceXpanse/Metalog) Anyone can run a relay, set a fee for using it if they want, and are responsible for storing and forwarding data to other relays.
+- [Relay:](https://github.com/SpaceXpanse/Metalog) Anyone can run a relay /after locking some amount of ROD in a wallet - TBD/, and they are responsible for storing the data by using one or more PosgreSQL instances for example and then forwarding it to other relays eventually. They can set them public or private, collect a fee for using it, etc.
 - [Client](https://github.com/SpaceXpanse/Metalog): Users run clients on their own computers to connect to these relays to send and receive data.  
 
 Both can use ROD blockchain's storage capabilities to transfer data e.g. relay domain adresses, user presence between them.
