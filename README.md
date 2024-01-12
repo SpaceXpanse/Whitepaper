@@ -74,7 +74,7 @@ Open source
 - SegWit support
 - Share your instance with friends /multi-tenant/
 - Invoice management and Payment requests
-- Apps: Marketplace, Crowdfunding, Donations
+- Apps: **Marketplace** for your digital IDs, .rod domains, etc.; **Crowdfunding** for supporting your projrcts; Buttons for **Donation** receiving
 
 [**SpaceXpanse DappEngine**](https://github.com/SpaceXpanse/DappEngine) - A versatile tool for creating 2D and simple 3D games and other dapps with ease /WIP/    
 Open source  
@@ -117,14 +117,14 @@ Open source
 
 ### Entertainment  
 
-[**SpaceXpanse: Battleships** /Prototype/](https://github.com/SpaceXpanse/Battleships) - The classic game of Battleship, but with a twist /WIP/  
+[**SpaceXpanse: Battleships**](https://github.com/SpaceXpanse/Battleships) - The classic game of Battleship, but with a twist /WIP/  
 Open-source  
 Non-profit - Foundation operated  
 Simple multiplayer online game in the ROD blockchain  
 
 - Developed on top of **libspex**'s headless Ships game with the help from various development tools.
 - Made with **Unity**
-- Simplistic gameplay: Two players can choose to compete with each other's tactical combat, strategic skills and shear luck
+- Simplistic gameplay: Two players can choose to compete with each other's tactical combat, strategic skills and shear luck for a prize that they agreed upon in the beginning
 - Ability to compare players' scores through Leaderboard
 - Owning NFTs to straighten spaceship's attack and defense capabilities /TBA/
 - In-game communication in real time through **Metalog** /TBD/
