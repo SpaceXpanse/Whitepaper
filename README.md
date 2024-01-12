@@ -139,7 +139,7 @@ Real-time Massive Multiplayer Open World Sandbox game with realistic look, physi
 - In-game communication in real time /through **Metalog**/
 - Creation and customization of avatars <!-- - Voice-activated commands -->
 - NFTs for ownership of land, objects and goods
-- <!-- Decentralized --> Artificial inteligence <!-- and machine learning -->for automation of the gameplay <!-- : NPCs, mining, defence, navigation and communication --> /TBD/
+- <!-- Decentralized --> Artificial intelligence <!-- and machine learning -->for automation of the gameplay <!-- : NPCs, mining, defence, navigation and communication --> /TBD/
 - VR gaming <!-- for mobile phones. XR too -->
 <!-- - A possibility for real-time monitoring and customization of story arcs /scenario injection/ -->
 <!-- - Enable users to fund projects like custom-made objects through **MetaDAO** -->
