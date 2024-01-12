@@ -122,12 +122,12 @@ Open-source
 Non-profit - Foundation operated  
 Simple multiplayer online game in the ROD blockchain  
 
-- Developed on top of libspex's headless Ships game with the help from various development tools.
-- Made with Unity
+- Developed on top of **libspex**'s headless Ships game with the help from various development tools.
+- Made with **Unity**
 - Simplistic gameplay: Two players can choose to compete with each other's tactical combat, strategic skills and shear luck
 - Ability to compare players' scores through Leaderboard
 - Owning NFTs to straighten spaceship's attack and defense capabilities /TBA/
-- In-game communication in real time through Metalog /TBD/
+- In-game communication in real time through **Metalog** /TBD/
 
 **SpaceXpanse: Wanderers** - A space exploration game in its own metaverse /TBD/    
 Closed-source  
