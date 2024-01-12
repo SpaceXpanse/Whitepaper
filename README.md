@@ -62,6 +62,20 @@ Open source
 - A protocol and system for executing atomic trades on the **SpaceXpanse Multiverse** platform. This allows players to trade their game assets for the main cryptocurrency /**ROD**/ and/or tokens in a fully trustless manner.
 -->
 
+[**RODPay** Server](https://github.com/SpaceXpanse/rodpayserver) - a free and open-source payment processor which allows you to accept payments without fees or intermediaries. /WIP/   
+Open source    
+*Non-profit - Foundation operated*
+- Direct, peer-to-peer payments
+- No additional transaction fees /other than the network fee/
+- No fees, middleman or KYC
+- Non-custodial /complete control over the private key by using a remote wallet/
+- Enhanced privacy & security
+- Self-hosted
+- SegWit support
+- Share your instance with friends /multi-tenant/
+- Invoice management and Payment requests
+- Apps: Marketplace, Crowdfunding, Donations
+
 [**SpaceXpanse DappEngine**](https://github.com/SpaceXpanse/DappEngine) - A versatile tool for creating 2D and simple 3D games and other dapps with ease /WIP/    
 Open source  
 *Non-profit - Foundation operated*
@@ -88,20 +102,6 @@ Open source
 - Support for Universal Scene Description /USD/ for collaboratively building 3D sceneries, intended for large-scale production. /TBC/ 
 - Easy creation and editing of new solar systems, planets and satellites, vehicles and other multi-part and multi-seated usable objects
 - Simplistic interconnection with any other elements of the platform environment through dedicated API
-
-[**RODPay Server**](https://github.com/SpaceXpanse/rodpayserver) - a free and open-source payment processor which allows you to accept payments without fees or intermediaries. /WIP/   
-Open source    
-*Non-profit - Foundation operated*
-- Direct, peer-to-peer payments
-- No transaction fees (other than the network fee)
-- No fees, middleman or KYC
-- Non-custodial (complete control over the private key)
-- Enhanced privacy & security
-- Self-hosted
-- SegWit support
-- Share your instance with friends (multi-tenant)
-- Invoice management and Payment requests
-- Apps: Marketplace, Crowdfunding, Donations
 
 ### Community
 
