@@ -19,11 +19,12 @@ Open source
 - Decentralized DNS aka **dDNS** /derived from Namecoin/ which can serve **.rod** and/or other domains /TBD/
 - [Digital IDs](https://github.com/SpaceXpanse/rod-core-wallet/blob/0.6.8/doc/spacexpanse/blockchain.md#names) for platform-wide trustless user identification which can even hold and transfer value in the ROD blockchain
 - Secure [storage of data](https://github.com/SpaceXpanse/rod-core-wallet/blob/0.6.8/doc/spacexpanse/blockchain.md#spacexpanse-is-based-on-namecoin-) in the blockchain **itself**.
-- Decentralized Proof of Stake aka **DPoS** masternodes and peer-to-peer nodes for secure data storage **outside** blockchain by using SQLite /or other/ database engine /TBD/
+- Local data storage for DApps **outside** blockchain by using SQLite /or LMDB/ database engine 
+<!-- - Decentralized Proof of Stake aka **DPoS** masternodes and peer-to-peer nodes for secure data storage **outside** blockchain by using SQLite /or other/ database engine /TBD/ -->
 - [Atomic trading](https://github.com/SpaceXpanse/rod-core-wallet/blob/0.6.8/doc/spacexpanse/trading.md) to exchange in-game assets (fungible game currencies as well as non-fungible items) in a trustless manner.   
 - [Human mining](https://github.com/SpaceXpanse/rod-core-wallet/blob/0.6.8/doc/spacexpanse/games.md) aka **Play To Earn** model which allows parts of the mined block rewards to be "placed" inside an application, game or other, where users can pick/win them up and bank them to their on-chain address. /WIP/
 
-[**Nostr** protocol](https://github.com/SpaceXpanse/nostr) -  an open-source, censorship-resistant protocolthat aims to provide a more decentralized, privacy-centered and user-empowered alternative to traditional centralized ways to store and retrieve huge amounts of data. /WIP/  
+[**Nostr** protocol](https://github.com/SpaceXpanse/nostr) - a modified version of an open-source, censorship-resistant protocol that aims to provide a more decentralized, privacy-centered and user-empowered alternative to traditional centralized ways to store and retrieve huge amounts of data. /WIP/  
 Open source  
 *Non-profit - Foundation operated*  
 Implementation follows [a set of rules](https://github.com/SpaceXpanse/nips) by using:
@@ -38,7 +39,7 @@ Open source
 *Non-profit - Foundation operated*  
 - Implemented using both DPoS masternodes as Block Producers and peer-to-peer data storage nodes as Data Miners, which can store platform's data and files /public and private/ -->
   
-[**Side Channels**](https://github.com/SpaceXpanse/libspex/tree/dev/sidechannel) /WIP/    
+[**Side Channels**](https://github.com/SpaceXpanse/libspex/tree/dev/sidechannel) 
 Open source   
 *Non-profit - Foundation operated*  
 - Programable trustless interconnection **inside** the blockchain which allows two or more parties to interact through temporarily made [sidechains](https://www.coindesk.com/learn/an-introduction-to-sidechains/) in a very scalable, off-chain and almost real-time fashion.
