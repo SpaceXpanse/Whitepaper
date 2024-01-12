@@ -1,4 +1,4 @@
-# SpaceXpanse Multiverse manifesto /WIP/*
+# SpaceXpanse Multiverse manifesto
 ### To set the intentions    
 
 >I think that the crypto industry will have to take a more focused approach, shifting from hype cycles toward building real utility.  
@@ -16,7 +16,7 @@ By *putting the crypto technology back on track*, we are making a next-generatio
 Open source  
 *Non-profit - Foundation operated*
 - Main cryptocurrency /**ROD**/, [fungible](https://github.com/SpaceXpanse/rod-core-wallet/blob/0.6.8/doc/spacexpanse/currencies.md) and [nonfungible](https://github.com/SpaceXpanse/libspex/tree/dev/nonfungible) tokens /NFTs/ - creation, storage and transaction
-- Decentralized DNS aka **dDNS** /derived from Namecoin/ which can serve **.rod** and/or other domains /WIP/
+- Decentralized DNS aka **dDNS** /derived from Namecoin/ which can serve **.rod** and/or other domains /WIP*/
 - [Digital IDs](https://github.com/SpaceXpanse/rod-core-wallet/blob/0.6.8/doc/spacexpanse/blockchain.md#names) for platform-wide trustless user identification which can even hold and transfer value in the ROD blockchain
 - Secure [storage of data](https://github.com/SpaceXpanse/rod-core-wallet/blob/0.6.8/doc/spacexpanse/blockchain.md#spacexpanse-is-based-on-namecoin-) in the blockchain **itself**.
 - Local data storage for DApps **outside** blockchain by using SQLite /or LMDB/ database engine 
