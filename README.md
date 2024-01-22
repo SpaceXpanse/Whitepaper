@@ -24,12 +24,12 @@ Open source
 - [Atomic trading](https://github.com/SpaceXpanse/rod-core-wallet/blob/0.6.8/doc/spacexpanse/trading.md) to exchange in-game assets (fungible game currencies as well as non-fungible items) in a trustless manner.   
 - [Human mining](https://github.com/SpaceXpanse/rod-core-wallet/blob/0.6.8/doc/spacexpanse/games.md) aka **Play To Earn** model which allows parts of the mined block rewards to be "placed" inside an application, game or other, where users can pick/win them up and bank them to their on-chain address. /WIP/
 
-[**Nostr** protocol](https://github.com/SpaceXpanse/nostr) - a modified version of an open-source, censorship-resistant protocol that aims to provide a more decentralized, privacy-centered and user-empowered alternative to traditional centralized ways to store and retrieve huge amounts of data. /WIP/  
+[**ROD framework**](https://github.com/SpaceXpanse/rod-framework) - a modified version of an open-source, censorship-resistant [**Nostr**](https://github.com/SpaceXpanse/nostr) protocol that aims to provide a more decentralized, privacy-centered and user-empowered alternative to traditional centralized ways to store and retrieve huge amounts of data. /WIP/  
 Open source  
 *Non-profit - Foundation operated*  
 Implementation follows [a set of rules](https://github.com/SpaceXpanse/nips) by using:
-- [Relay:](https://github.com/SpaceXpanse/Metalog) Anyone can run a relay /possibly after locking some amount of ROD in a wallet - TBD/, and they are responsible for storing the data by using one or more PostgreSQL instances, for example, and then forwarding it to other relays eventually. They can set them public or private, collect a fee for using it, etc.
-- [Client](https://github.com/SpaceXpanse/Metalog): Users run clients on their own computers to connect to these relays to send and receive data.  
+- [RODRelay:](https://github.com/SpaceXpanse/rod-framework) Anyone can run a relay /possibly after locking some amount of ROD in a wallet - TBD/, and they are responsible for storing the data by using one or more PostgreSQL instances, for example, and then forwarding it to other relays eventually. They can set them public or private, collect a fee for using it, etc.
+- [RODClient](https://github.com/SpaceXpanse/rod-framework): Users run clients on their own computers to connect to these relays to send and receive data.  
 
 Both can use ROD blockchain's storage capabilities to transfer data e.g. relay domain addresses, user presence between them.
 
@@ -62,7 +62,7 @@ Open source
 - A protocol and system for executing atomic trades on the **SpaceXpanse Multiverse** platform. This allows players to trade their game assets for the main cryptocurrency /**ROD**/ and/or tokens in a fully trustless manner.
 -->
 
-[**RODPay** Server](https://github.com/SpaceXpanse/rodpayserver) - a free and open-source payment processor which allows you to accept payments without fees or intermediaries. /WIP/   
+[**RODPay** Server](https://github.com/SpaceXpanse/RODPay) - a free and open-source payment processor which allows you to accept payments without fees or intermediaries. /WIP/   
 Open source    
 *Non-profit - Foundation operated*
 - Direct, peer-to-peer payments
