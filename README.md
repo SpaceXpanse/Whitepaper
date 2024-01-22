@@ -12,7 +12,7 @@ By *putting the crypto technology back on track*, we are making a next-generatio
 ## SpaceXpanse Multiverse /SpeX/ platform environment: 
 
 ### Technologies 
-[**ROD Blockchain**](https://github.com/SpaceXpanse/rod-core-wallet/tree/0.6.8/doc/spacexpanse)  
+[**ROD blockchain**](https://github.com/SpaceXpanse/rod-core-wallet/tree/0.6.8/doc/spacexpanse)  
 Open source  
 *Non-profit - Foundation operated*
 - Main cryptocurrency /**ROD**/, [fungible](https://github.com/SpaceXpanse/rod-core-wallet/blob/0.6.8/doc/spacexpanse/currencies.md) and [nonfungible](https://github.com/SpaceXpanse/libspex/tree/dev/nonfungible) tokens /NFTs/ - creation, storage and transaction
