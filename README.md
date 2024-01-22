@@ -62,7 +62,7 @@ Open source
 - A protocol and system for executing atomic trades on the **SpaceXpanse Multiverse** platform. This allows players to trade their game assets for the main cryptocurrency /**ROD**/ and/or tokens in a fully trustless manner.
 -->
 
-[**RODPay** Server](https://github.com/SpaceXpanse/RODPay) - a free and open-source payment processor which allows you to accept payments without fees or intermediaries. /WIP/   
+[**RODPay** server](https://github.com/SpaceXpanse/RODPay) - a free and open-source payment processor which allows you to accept payments without fees or intermediaries. /WIP/   
 Open source    
 *Non-profit - Foundation operated*
 - Direct, peer-to-peer payments
