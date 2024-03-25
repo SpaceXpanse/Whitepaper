@@ -19,7 +19,7 @@ Open source
 - Decentralized DNS aka **dDNS** /derived from Namecoin/ which can serve **.rod** and/or other domains /WIP*/
 - [Digital IDs](https://github.com/SpaceXpanse/rod-core-wallet/blob/0.6.8/doc/spacexpanse/blockchain.md#names) for platform-wide trustless user identification which can even hold and transfer value in the ROD blockchain
 - Secure [storage of data](https://github.com/SpaceXpanse/rod-core-wallet/blob/0.6.8/doc/spacexpanse/blockchain.md#spacexpanse-is-based-on-namecoin-) in the blockchain **itself**.
-- Local data storage for DApps **outside** blockchain by using SQLite /or LMDB/ database engine 
+- Local data storage for DApps **outside** blockchain by using [SQLite](https://github.com/SpaceXpanse/Documentation/wiki/Hello-World-with-SQLite) /or LMDB/ database engine 
 <!-- - Decentralized Proof of Stake aka **DPoS** masternodes and peer-to-peer nodes for secure data storage **outside** blockchain by using SQLite /or other/ database engine /TBD/ -->
 - [Atomic trading](https://github.com/SpaceXpanse/rod-core-wallet/blob/0.6.8/doc/spacexpanse/trading.md) to exchange in-game assets (fungible game currencies as well as non-fungible items) in a trustless manner.   
 - [Human mining](https://github.com/SpaceXpanse/rod-core-wallet/blob/0.6.8/doc/spacexpanse/games.md) aka **Play To Earn** model which allows parts of the mined block rewards to be "placed" inside an application, game or other, where users can pick/win them up and bank them to their on-chain address. /WIP/
