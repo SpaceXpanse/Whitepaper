@@ -59,7 +59,7 @@ Open source
 [**Democrit**](https://github.com/SpaceXpanse/democrit-marketplace) - Trustless Marketplace Framework incorporating ROD blockchain /WIP/   
 Open source   
 *Non-profit - Foundation operated*  
-- A protocol and system for executing trustless atomic trades on the **SpaceXpanse Multiverse** platform. This allows players to integrate trading of their game assets for the main cryptocurrency /**ROD**/ and/or tokens in a fully trustless manner.
+- A protocol and system for executing trustless atomic trades on the **SpaceXpanse Multiverse** platform. This allows developers to integrate trading of their game assets for the main cryptocurrency /**ROD**/ and/or tokens in a fully trustless manner.
 
 [**D.A.R.M.A.**](https://www.spacexpanse.org) a.k.a Decentralized Artificial Responsive and Multipurpose Automate  
 Open source   
