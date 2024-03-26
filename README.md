@@ -125,6 +125,11 @@ Open source
 *Non-profit - Foundation operated*
 - Full-blown platform-wide application in the blockchain to serve as crowdfunding hub for user's projects within the platform and more
 
+[**Startup Hub**](https://github.com/SpaceXpanse/Startups) -A comprehensive ecosystem around our SpaceXpanse Multiverse platform to support new and upcoming projects /WIP/   
+Open source    
+*Non-profit - Foundation operated*
+- It will provide news and information but also connect new projects, created using SpaceXpanse Multiverse platform, with investors, advisors, and other resources to help them succeed. 
+
 [**SpaceXpanse: Metaverse**](https://github.com/SpaceXpanse/Metaverse) - An actual, unstoppable, and immutable metaverse, aka autonomous world, dedicated to exploring SpaceXpanse Multiverse features using the SpaceXpanse Metaverse Simulator. /WIP/    
 Open source  
 *Non-profit - Foundation operated*
