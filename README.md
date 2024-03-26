@@ -126,7 +126,7 @@ Open source
 [**Startup Hub**](https://github.com/SpaceXpanse/Startups) -A comprehensive ecosystem around our SpaceXpanse Multiverse platform to support new and upcoming projects /WIP/   
 Open source    
 *Non-profit - Foundation operated*
-- It will not only provides news and information, through [a dedicated news website](https://www.cryptospace.today/p/about-this-website.html) but will include a dedicated section for new projects, where you can showcase your project and connect with potential investors and advisors.
+- It will not only provides news and information, through [a dedicated news website](https://www.cryptospace.today/p/about-this-website.html), but will include a dedicated section for new projects, where you can showcase your project and connect with potential investors and advisors.
 - It will also provide educational resources and tools to help you create and navigate in the complex world of cryptocurrencies.
 - It will provide a forum for discussion, networking, and collaboration. Whether you're a gamer, developer, creator, scientist, investor, visionary, or just a crypto enthusiast, our community will be the perfect place to connect with others who share same interests.
 - And [Hackathons](https://github.com/SpaceXpanse/Hackathons) will play a significant role in the SpaceXpanse Multiverse startup ecosystem by fostering innovation, collaboration, and problem-solving.
