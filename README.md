@@ -61,11 +61,6 @@ Open source
 *Non-profit - Foundation operated*  
 - A protocol and system for executing trustless atomic trades on the **SpaceXpanse Multiverse** platform. This allows developers to integrate trading of their DApp/game assets for the main cryptocurrency /**ROD**/ and/or tokens in a fully trustless manner.
 
-[**D.A.R.M.A.**](https://www.spacexpanse.org) a.k.a Decentralized Artificial Responsive and Multipurpose Automate  
-Open source   
-*Non-profit - Foundation operated*  
-- An OpenAI based artificial intelligence chatbot designed to assist the users becoming familiar with the platform features, programing and troubleshooting, and working across different platforms like the web, Telegram, and Discord.
-
 **Integration tools for interconnecting to other blockchains** /TBD/  
 Open source   
 *Non-profit - Foundation operated*  
@@ -131,7 +126,12 @@ Open source
 - It will not only provides news and information, through [a dedicated news website](https://www.cryptospace.today/p/about-this-website.html) but will include a dedicated section for new projects, where you can showcase your project and connect with potential investors and advisors.
 - It will also provide educational resources and tools to help you create and navigate in the complex world of cryptocurrencies.
 - It will provide a forum for discussion, networking, and collaboration. Whether you're a gamer, developer, creator, scientist, investor, visionary, or just a crypto enthusiast, our community will be the perfect place to connect with others who share same interests.
-- [Hackathons](https://github.com/SpaceXpanse/Hackathons) will play a significant role in the SpaceXpanse Multiverse startup ecosystem by fostering innovation, collaboration, and problem-solving.
+- And [Hackathons](https://github.com/SpaceXpanse/Hackathons) will play a significant role in the SpaceXpanse Multiverse startup ecosystem by fostering innovation, collaboration, and problem-solving.
+
+[**D.A.R.M.A.**](https://www.spacexpanse.org) a.k.a Decentralized Artificial Responsive and Multipurpose Automate  
+Open source   
+*Non-profit - Foundation operated*  
+- An OpenAI based artificial intelligence chatbot designed to assist the users becoming familiar with the platform features, programing and troubleshooting, and working across different platforms like the web, Telegram, and Discord.
 
 [**SpaceXpanse: Metaverse**](https://github.com/SpaceXpanse/Metaverse) - An actual, unstoppable, and immutable metaverse, aka autonomous world, dedicated to exploring SpaceXpanse Multiverse features using the SpaceXpanse Metaverse Simulator. /WIP/    
 Open source  
