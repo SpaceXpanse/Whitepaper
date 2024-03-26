@@ -61,7 +61,7 @@ Open source
 *Non-profit - Foundation operated*  
 - A protocol and system for executing trustless atomic trades on the **SpaceXpanse Multiverse** platform. This allows players to integrate trading of their game assets for the main cryptocurrency /**ROD**/ and/or tokens in a fully trustless manner.
 
-[**D.A.R.M.A.**](https://www.spacexpanse.org) a.k.a Decentralized Artificial Responsive and Multipurpose Automate
+[**D.A.R.M.A.**](https://www.spacexpanse.org) a.k.a Decentralized Artificial Responsive and Multipurpose Automate  
 Open source   
 *Non-profit - Foundation operated*  
 - An OpenAI based artificial intelligence chatbot designed to assist the users becoming familiar with the platform features, programing and troubleshooting, and working across different platforms like the web, Telegram, and Discord.
