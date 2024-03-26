@@ -66,7 +66,7 @@ Open source
 *Non-profit - Foundation operated*  
 - An OpenAI based artificial intelligence chatbot designed to assist the users becoming familiar with the platform features, programing and troubleshooting, and working across different platforms like the web, Telegram, and Discord.
 
-**Integration tools for interconnecting to other blockchains** /TBD/
+**Integration tools for interconnecting to other blockchains** /TBD/  
 Open source   
 *Non-profit - Foundation operated*  
 - It will provide the tools to run an interface layer based on another blockchain, but which exposes a [ROD core wallet](https://github.com/SpaceXpanse/rod-core-wallet/tree/0.6.8/doc/spacexpanse) RPC interface so that logics built with [libspex](https://github.com/SpaceXpanse/libspex) can run out-of-the-box on that other blockchain.
