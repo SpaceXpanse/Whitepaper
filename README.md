@@ -56,7 +56,7 @@ Open source
 *Non-profit - Foundation operated*  
 - An application built on top of the ROD blockchain, that turns each reserved name into a secure digital identity similar to [NameID](https://nameid.org)  
 
-[**Democrit**](https://github.com/SpaceXpanse/democrit-marketplace) - Atomic trading /WIP/   
+[**Democrit**](https://github.com/SpaceXpanse/democrit-marketplace) - Trustless Marketplace Framework for ROD blockchain /WIP/   
 Open source   
 *Non-profit - Foundation operated*  
 - A protocol and system for executing trustless atomic trades on the **SpaceXpanse Multiverse** platform. This allows players to integrate trading of their game assets for the main cryptocurrency /**ROD**/ and/or tokens in a fully trustless manner.
