@@ -56,20 +56,20 @@ Open source
 *Non-profit - Foundation operated*  
 - An application built on top of the ROD blockchain, that turns each reserved name into a secure digital identity similar to [NameID](https://nameid.org)  
 
-[**Democrit**](https://github.com/SpaceXpanse/democrit-marketplace) - Atomic trading /WIP/ 
+[**Democrit**](https://github.com/SpaceXpanse/democrit-marketplace) - Atomic trading /WIP/   
 Open source   
 *Non-profit - Foundation operated*  
 - A protocol and system for executing trustless atomic trades on the **SpaceXpanse Multiverse** platform. This allows players to integrate trading of their game assets for the main cryptocurrency /**ROD**/ and/or tokens in a fully trustless manner.
 
-**D.A.R.M.A.** - Atomic trading  
+**D.A.R.M.A.** a.k.a Decentralized Artificial Responsive and Multipurpose Automate
 Open source   
 *Non-profit - Foundation operated*  
-- A protocol and system for executing atomic trades on the **SpaceXpanse Multiverse** platform. This allows players to trade their game assets for the main cryptocurrency /**ROD**/ and/or tokens in a fully trustless manner.
+- An OpenAI based artificial intelligence chatbot designed to assist the users becoming familiar with the platform features, programing and troubleshooting, and working across different platforms like the web, Telegram, and Discord.
 
-**Integration tools for interconnecting to other blockchains** - /TBD/
+**Integration tools for interconnecting to other blockchains** /TBD/
 Open source   
 *Non-profit - Foundation operated*  
-- It provides the tools to run an interface layer based on another blockchain, but which exposes a [ROD core wallet](https://github.com/SpaceXpanse/rod-core-wallet/tree/0.6.8/doc/spacexpanse) RPC interface so that logics built with [libspex](https://github.com/SpaceXpanse/libspex) can run out-of-the-box on that other blockchain.
+- It will provide the tools to run an interface layer based on another blockchain, but which exposes a [ROD core wallet](https://github.com/SpaceXpanse/rod-core-wallet/tree/0.6.8/doc/spacexpanse) RPC interface so that logics built with [libspex](https://github.com/SpaceXpanse/libspex) can run out-of-the-box on that other blockchain.
 
 [**RODPay** server](https://github.com/SpaceXpanse/RODPay) - a free and open-source payment processor which allows you to accept payments without fees or intermediaries. /WIP/   
 Open source    
