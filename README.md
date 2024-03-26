@@ -56,11 +56,20 @@ Open source
 *Non-profit - Foundation operated*  
 - An application built on top of the ROD blockchain, that turns each reserved name into a secure digital identity similar to [NameID](https://nameid.org)  
 
-<!-- **Democrit** - Atomic trading  
+[**Democrit**](https://github.com/SpaceXpanse/democrit-marketplace) - Atomic trading /WIP/ 
+Open source   
+*Non-profit - Foundation operated*  
+- A protocol and system for executing trustless atomic trades on the **SpaceXpanse Multiverse** platform. This allows players to integrate trading of their game assets for the main cryptocurrency /**ROD**/ and/or tokens in a fully trustless manner.
+
+**D.A.R.M.A.** - Atomic trading  
 Open source   
 *Non-profit - Foundation operated*  
 - A protocol and system for executing atomic trades on the **SpaceXpanse Multiverse** platform. This allows players to trade their game assets for the main cryptocurrency /**ROD**/ and/or tokens in a fully trustless manner.
--->
+
+**Integration tools for interconnecting to other blockchains** - /TBD/
+Open source   
+*Non-profit - Foundation operated*  
+- It provides the tools to run an interface layer based on another blockchain, but which exposes a [ROD core wallet](https://github.com/SpaceXpanse/rod-core-wallet/tree/0.6.8/doc/spacexpanse) RPC interface so that logics built with [libspex](https://github.com/SpaceXpanse/libspex) can run out-of-the-box on that other blockchain.
 
 [**RODPay** server](https://github.com/SpaceXpanse/RODPay) - a free and open-source payment processor which allows you to accept payments without fees or intermediaries. /WIP/   
 Open source    
@@ -101,7 +110,7 @@ Open source
 - Python support for modeling of mathematical and other scientific inquiries /TBD/
 - Support for Universal Scene Description /USD/ for collaboratively building 3D sceneries, intended for large-scale production. /TBC/ 
 - Easy creation and editing of new solar systems, planets and satellites, vehicles and other multi-part and multi-seated usable objects
-- Seamless integration with ROD blockchain and Nostr for enabling features like secure logins, messaging, easy payments, creation and management of NFTs and tokens, etc.
+- Seamless integration with ROD blockchain by using [**libspex**](https://github.com/SpaceXpanse/libspex) library and Nostr for enabling features like secure logins, messaging, easy payments, creation and management of NFTs and tokens, etc.
 - Simplistic interconnection with any other elements of the platform environment through dedicated API
 
 ### Community
@@ -125,7 +134,7 @@ Open source
 - Fast rendering with near realistic level of detail /TBD/
 - Scenario programing through Lua - lightweight, embeddable programming language designed for scripting and extensibility
 - Easy creation and editing of multi-part and multi-seated usable objects
-- Seamless integration with ROD blockchain and Nostr for enabling features like secure logins, messaging, easy payments, creation and management of NFTs and tokens, etc.
+- Seamless integration with ROD blockchain by using [**libspex**](https://github.com/SpaceXpanse/libspex) library and Nostr for enabling features like secure logins, messaging, easy payments, creation and management of NFTs and tokens, etc.
 - Simplistic interconnection with any other elements of the platform environment through dedicated API
 
 ### Entertainment  
