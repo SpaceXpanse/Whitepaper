@@ -101,7 +101,7 @@ Open source
 - Python support for modeling of mathematical and other scientific inquiries /TBD/
 - Support for Universal Scene Description /USD/ for collaboratively building 3D sceneries, intended for large-scale production. /TBC/ 
 - Easy creation and editing of new solar systems, planets and satellites, vehicles and other multi-part and multi-seated usable objects
-- Seamless integration with ROD blockchain and Nostr for enabling features like messaging, easy payments, creation and management of NFTs and tokens, etc.
+- Seamless integration with ROD blockchain and Nostr for enabling features like secure logins, messaging, easy payments, creation and management of NFTs and tokens, etc.
 - Simplistic interconnection with any other elements of the platform environment through dedicated API
 
 ### Community
@@ -125,7 +125,7 @@ Open source
 - Fast rendering with near realistic level of detail /TBD/
 - Scenario programing through Lua - lightweight, embeddable programming language designed for scripting and extensibility
 - Easy creation and editing of multi-part and multi-seated usable objects
-- Seamless integration with ROD blockchain and Nostr for enabling features like messaging, easy payments, creation and management of NFTs and tokens, etc.
+- Seamless integration with ROD blockchain and Nostr for enabling features like secure logins, messaging, easy payments, creation and management of NFTs and tokens, etc.
 - Simplistic interconnection with any other elements of the platform environment through dedicated API
 
 ### Entertainment  
