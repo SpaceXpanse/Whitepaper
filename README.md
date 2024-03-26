@@ -78,7 +78,10 @@ Open source
 - SegWit support
 - Share your instance with friends /multi-tenant/
 - Invoice management and Payment requests
-- Apps: **Marketplace** for your digital IDs, .rod domains, etc.; **Crowdfunding** for supporting your projects; Buttons for **Donation** receiving
+- Included apps:
+  - **Marketplace** for your digital IDs, .rod domains, etc.;
+  - **Crowdfunding** for supporting your projects;
+  - Buttons for **Donation** receiving
 
 [**SpaceXpanse DappEngine**](https://github.com/SpaceXpanse/DappEngine) - A versatile tool for creating 2D and simple 3D games and other dapps with ease /WIP/    
 Open source  
