@@ -24,7 +24,7 @@ Open source
 - [Atomic trading](https://github.com/SpaceXpanse/democrit-marketplace) to exchange in-game assets (fungible game currencies as well as non-fungible items) in a trustless manner.   
 - [Human mining](https://github.com/SpaceXpanse/rod-core-wallet/blob/0.6.8/doc/spacexpanse/games.md) aka **Play To Earn** model which allows parts of the mined block rewards to be "placed" inside an application, game or other, where users can pick/win them up and bank them to their on-chain address. /WIP/
 
-#### [**ROD Nostr framework**](https://github.com/SpaceXpanse/rod-framework) - a modified version of an open-source, censorship-resistant [**Nostr**](https://github.com/SpaceXpanse/nostr) protocol that aims to provide a more decentralized, privacy-centered and user-empowered alternative to traditional centralized ways to store and retrieve huge amounts of data. /WIP/  
+#### [**ROD-to-Nostr framework**](https://github.com/SpaceXpanse/rod-to-nostr-framework) - a modified version of an open-source, censorship-resistant [**Nostr**](https://github.com/SpaceXpanse/nostr) protocol that aims to provide a more decentralized, privacy-centered and user-empowered alternative to traditional centralized ways to store and retrieve huge amounts of data. /WIP/  
 Open source  
 [*Non-profit - Foundation operated*](https://opencollective.com/spacexpanse)    
 Implementation follows [a set of rules](https://github.com/SpaceXpanse/nips) by using:
