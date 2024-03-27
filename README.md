@@ -41,7 +41,7 @@ Implementation follows [a set of rules](https://github.com/SpaceXpanse/nips) by 
 - [ROD relay:](https://github.com/SpaceXpanse/rod-framework?tab=readme-ov-file#relay) Anyone can run a relay /possibly after locking some amount of ROD in a wallet - TBD/, and they are responsible for storing the data by using one or more PostgreSQL instances, for example, and then forwarding it to other relays eventually. They can set them public or private, collect a fee for using it, etc.
 - [ROD client](https://github.com/SpaceXpanse/rod-framework?tab=readme-ov-file#client): Users run clients on their own computers to connect to these relays to send and receive data.  
 
-Both can use ROD blockchain's storage capabilities to transfer data e.g. relay domain addresses, user presence between them.
+Both will use ROD blockchain's storage capabilities to transfer data e.g. relay domain addresses, user presence between them.
 
 ### Development
 
