@@ -23,16 +23,6 @@ Open source
 <!-- - Decentralized Proof of Stake aka **DPoS** masternodes and peer-to-peer nodes for secure data storage **outside** blockchain by using SQLite /or other/ database engine /TBD/ -->
 - [Atomic trading](https://github.com/SpaceXpanse/democrit-marketplace) to exchange in-game assets (fungible game currencies as well as non-fungible items) in a trustless manner.   
 - [Human mining](https://github.com/SpaceXpanse/rod-core-wallet/blob/0.6.8/doc/spacexpanse/games.md) aka **Play To Earn** model which allows parts of the mined block rewards to be "placed" inside an application, game or other, where users can pick/win them up and bank them to their on-chain address. /WIP/
-
-#### [**ROD-to-Nostr framework**](https://github.com/SpaceXpanse/rod-to-nostr-framework) - a modified version of an open-source, censorship-resistant [**Nostr**](https://github.com/SpaceXpanse/nostr) protocol that aims to provide a more decentralized, privacy-centered and user-empowered alternative to traditional centralized ways to store and retrieve huge amounts of data. /WIP/  
-Open source  
-[*Non-profit - Foundation operated*](https://opencollective.com/spacexpanse)    
-Implementation follows [a set of rules](https://github.com/SpaceXpanse/nips) by using:
-- [ROD relay:](https://github.com/SpaceXpanse/rod-framework?tab=readme-ov-file#relay) Anyone can run a relay /possibly after locking some amount of ROD in a wallet - TBD/, and they are responsible for storing the data by using one or more PostgreSQL instances, for example, and then forwarding it to other relays eventually. They can set them public or private, collect a fee for using it, etc.
-- [ROD client](https://github.com/SpaceXpanse/rod-framework?tab=readme-ov-file#client): Users run clients on their own computers to connect to these relays to send and receive data.  
-
-Both can use ROD blockchain's storage capabilities to transfer data e.g. relay domain addresses, user presence between them.
-
 <!--
 [**SpeXQL**](https://github.com/SpaceXpanse/SpeXQL) -  Decentralized database management system using ROD blockchain as medium for data transfer, interconnection and operations /Deferred/  
 Open source  
@@ -43,6 +33,15 @@ Open source
 Open source   
 [*Non-profit - Foundation operated*](https://opencollective.com/spacexpanse)    
 - Programable trustless interconnection **inside** the blockchain which allows two or more parties to interact through temporarily made [sidechains](https://www.coindesk.com/learn/an-introduction-to-sidechains/) in a very scalable, off-chain and almost real-time fashion.
+
+#### [**ROD-to-Nostr framework**](https://github.com/SpaceXpanse/rod-to-nostr-framework) - a modified version of an open-source, censorship-resistant [**Nostr**](https://github.com/SpaceXpanse/nostr) protocol that aims to provide a more decentralized, privacy-centered and user-empowered alternative to traditional centralized ways to store and retrieve huge amounts of data. /WIP/  
+Open source  
+[*Non-profit - Foundation operated*](https://opencollective.com/spacexpanse)    
+Implementation follows [a set of rules](https://github.com/SpaceXpanse/nips) by using:
+- [ROD relay:](https://github.com/SpaceXpanse/rod-framework?tab=readme-ov-file#relay) Anyone can run a relay /possibly after locking some amount of ROD in a wallet - TBD/, and they are responsible for storing the data by using one or more PostgreSQL instances, for example, and then forwarding it to other relays eventually. They can set them public or private, collect a fee for using it, etc.
+- [ROD client](https://github.com/SpaceXpanse/rod-framework?tab=readme-ov-file#client): Users run clients on their own computers to connect to these relays to send and receive data.  
+
+Both can use ROD blockchain's storage capabilities to transfer data e.g. relay domain addresses, user presence between them.
 
 ### Development
 
