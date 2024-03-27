@@ -134,7 +134,8 @@ Open source
 #### [**D.A.R.M.A.**](https://www.spacexpanse.org) a.k.a Decentralized Artificial Responsive and Multipurpose Automate  
 Open source   
 [*Non-profit - Foundation operated*](https://opencollective.com/spacexpanse)   
-- An OpenAI based artificial intelligence chatbot designed to assist the users becoming familiar with the platform features, programing and troubleshooting, and working across different platforms like the web, Telegram, and Discord.
+- It started as an OpenAI based artificial intelligence chatbot designed to assist the users becoming familiar with the platform features, programing and troubleshooting, and working across different platforms like the web, Telegram, and Discord.
+- But as the platform develops further, it will become more and more integrated into the platform's features to add functionality and make it easier to work with.
 
 #### [**SpaceXpanse: Metaverse**](https://github.com/SpaceXpanse/Metaverse) - An actual, unstoppable, and immutable metaverse, aka autonomous world, dedicated to exploring SpaceXpanse Multiverse features using the SpaceXpanse Metaverse Simulator. /WIP/    
 Open source  
