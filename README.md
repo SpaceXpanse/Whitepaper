@@ -1,5 +1,5 @@
-# SpaceXpanse Multiverse manifesto
-### To set the intentions    
+# The SpaceXpanse Multiverse platform  
+### The metaverse of the future      
 
 >I think that the crypto industry will have to take a more focused approach, shifting from hype cycles toward building real utility.  
  Rahul Advani  - Ripple’s APAC Policy Director
