@@ -1,4 +1,4 @@
-# The SpaceXpanse Multiverse platform  
+# The SpaceXpanse Multiverse /SpeX/ platform  
 ### The metaverse of the future      
 
 >I think that the crypto industry will have to take a more focused approach, shifting from hype cycles toward building real utility.  
@@ -9,7 +9,7 @@ We want to ***turn the [crypto] game around*** /pun intended/ <!-- First we want
   
 By *putting the crypto technology back on track*, we are making a next-generation trustless blockchain platform, designed for rapid creation of metaverses, immersive user experience and easy development of complex decentralized applications, which we called **SpaceXpanse Multiverse**, where people can communicate, create, have fun, and which can be easily accessed by anyone from anywhere.  
 
-## SpaceXpanse Multiverse /SpeX/ platform environment: 
+## The platform environment: 
 
 ### Technologies 
 #### [**ROD blockchain**](https://github.com/SpaceXpanse/rod-core-wallet/tree/0.6.8/doc/spacexpanse)  
