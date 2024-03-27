@@ -197,7 +197,7 @@ Where users can also buy, lend and sell what they want in near-real economy
 Warp drive invention to explore Milky Way galaxy and beyond. 
  -->
 ----
-*Further sophistication of the subject is covered in the [Whitepaper](https://github.com/SpaceXpanse/Whitepaper/wiki)*. 
+*Further sophistication of the subject is covered in the [Whitepaper](https://github.com/SpaceXpanse/Whitepaper/wiki)*.  
 *Even more sophistication of the subject and more thechnical data will covered in the upcoming [Yellowpaper](https://github.com/#)*.  
 *To get a notion of the time table and completeness of these intentions, visit [Roadmap](https://github.com/SpaceXpanse/Roadmap)*.
 
