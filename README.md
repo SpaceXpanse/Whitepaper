@@ -78,7 +78,7 @@ Implementation follows [a set of rules](https://github.com/SpaceXpanse/nips) by 
   - Their addresses can be served by the ROD blockchain's **dDNS** feature and sit behind a **.rod** domain for convenience and better platform integrity. 
   - Also, by applying some custom logic through the [libspex](https://github.com/SpaceXpanse/libspex) library and by **staking** or paying some RODs through the remote wallet of a [**RODPay** server](https://github.com/SpaceXpanse/RODPay) for example, one can benefit from having a trusted account, special access, yield farming, data mining, etc. /TBD/
 - [Data client](https://github.com/SpaceXpanse/rod-to-nostr-framework?tab=readme-ov-file#client)
-  - Users run clients on their own computers, or from the web, to connect to these relays to send and receive data.
+  - Users can run clients on their own computers, or from the web, to connect to these relays to send and receive data.
 - [Data vending machines](https://github.com/SpaceXpanse/data-vending-machines)
   - Nostr protocol can act as a marketplace for data processing, where users request jobs to be processed in certain ways (e.g., “speech-to-text”, “summarization”, etc.), but they don’t necessarily care about “who” processes the data.
 
