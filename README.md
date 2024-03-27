@@ -1,5 +1,6 @@
-# The SpaceXpanse Multiverse /SpeX/ platform  
-### The metaverse of the future      
+# The SpaceXpanse Multiverse /SpeX/ platform    
+### The metaverse of the future  
+***A comprehensive  manifesto of the intentions for the next few years***  
 
 >I think that the crypto industry will have to take a more focused approach, shifting from hype cycles toward building real utility.  
  Rahul Advani  - Ripple’s APAC Policy Director
@@ -34,15 +35,6 @@ Open source
 [*Non-profit - Foundation operated*](https://opencollective.com/spacexpanse)    
 - Programable trustless interconnection **inside** the blockchain which allows two or more parties to interact through temporarily made [sidechains](https://www.coindesk.com/learn/an-introduction-to-sidechains/) in a very scalable, off-chain and almost real-time fashion.
 
-#### [**ROD-to-Nostr framework**](https://github.com/SpaceXpanse/rod-to-nostr-framework) - a modified version of an open-source, censorship-resistant [**Nostr**](https://github.com/SpaceXpanse/nostr) protocol that aims to provide a more decentralized, privacy-centered and user-empowered alternative to traditional centralized ways to store and retrieve huge amounts of data. /WIP/  
-Open source  
-[*Non-profit - Foundation operated*](https://opencollective.com/spacexpanse)    
-Implementation follows [a set of rules](https://github.com/SpaceXpanse/nips) by using:
-- [ROD relay:](https://github.com/SpaceXpanse/rod-framework?tab=readme-ov-file#relay) Anyone can run a relay /possibly after locking some amount of ROD in a wallet - TBD/, and they are responsible for storing the data by using one or more PostgreSQL instances, for example, and then forwarding it to other relays eventually. They can set them public or private, collect a fee for using it, etc.
-- [ROD client](https://github.com/SpaceXpanse/rod-framework?tab=readme-ov-file#client): Users run clients on their own computers to connect to these relays to send and receive data.  
-
-Both will use ROD blockchain's storage capabilities to transfer data e.g. relay domain addresses, user presence between them.
-
 ### Development
 
 #### [**SpeX Library**](https://github.com/SpaceXpanse/libspex)      
@@ -53,17 +45,24 @@ Open source
 #### [**SpeXID**](https://github.com/SpaceXpanse/SpeXID) - Digital Identification application for SpaceXpanse Multiverse platform /WIP/    
 Open source  
 [*Non-profit - Foundation operated*](https://opencollective.com/spacexpanse)   
-- An application built on top of the ROD blockchain, that turns each reserved name into a secure digital identity similar to [NameID](https://nameid.org)  
+- An application built on top of the ROD blockchain, that turns each reserved name into a secure digital identity similar to [NameID](https://nameid.org)
 
 #### [**Democrit**](https://github.com/SpaceXpanse/democrit-marketplace) - Trustless Marketplace Framework employing the features of ROD blockchain /WIP/   
 Open source   
 [*Non-profit - Foundation operated*](https://opencollective.com/spacexpanse)   
 - A protocol and system for executing trustless atomic trades on the **SpaceXpanse Multiverse** platform. This allows developers to integrate trading of their DApp/game assets for the main cryptocurrency /**ROD**/ and/or tokens in a fully trustless manner.
 
-#### **Integration tools for interconnecting to other blockchains** /TBD/  
-Open source   
-[*Non-profit - Foundation operated*](https://opencollective.com/spacexpanse)   
-- It will provide the tools to run an interface layer based on another blockchain, but which exposes a [ROD core wallet](https://github.com/SpaceXpanse/rod-core-wallet/tree/0.6.8/doc/spacexpanse) RPC interface so that logics built with [libspex](https://github.com/SpaceXpanse/libspex) can run out-of-the-box on that other blockchain.
+#### [**ROD-to-Nostr framework**](https://github.com/SpaceXpanse/rod-to-nostr-framework) - a modified version of an open-source, censorship-resistant [**Nostr**](https://github.com/SpaceXpanse/nostr) protocol that aims to provide a more decentralized, privacy-centered and user-empowered alternative to traditional centralized ways to store and retrieve huge amounts of data. /WIP/  
+Open source  
+[*Non-profit - Foundation operated*](https://opencollective.com/spacexpanse)    
+Implementation follows [a set of rules](https://github.com/SpaceXpanse/nips) by using:
+- [ROD relay](https://github.com/SpaceXpanse/rod-framework?tab=readme-ov-file#relay)
+  - Anyone can run a relay, and they are responsible for storing the data by using one or more PostgreSQL instances, for example, and then forwarding it to other relays eventually. They also can set them public or private, collect a fee for using it, etc.
+  - Optional yield farming: lock some RODs through the remote wallet of a RODPay server. /TBD/
+- [ROD client](https://github.com/SpaceXpanse/rod-framework?tab=readme-ov-file#client)
+  - Users run clients on their own computers to connect to these relays to send and receive data.  
+
+Both will use ROD blockchain's storage capabilities thorugh the [libspex](https://github.com/SpaceXpanse/libspex) library to transfer data e.g. relay domain addresses, user presence between them.
 
 #### [**RODPay** server](https://github.com/SpaceXpanse/RODPay) - a free and open-source payment processor which allows you to accept payments without fees or intermediaries. /WIP/   
 Open source    
@@ -109,6 +108,11 @@ Open source
 - Easy creation and editing of new solar systems, planets and satellites, vehicles and other multi-part and multi-seated usable objects
 - Seamless integration with ROD blockchain by using [**libspex**](https://github.com/SpaceXpanse/libspex) library and Nostr for enabling features like secure logins, messaging, easy payments, creation and management of NFTs and tokens, etc.
 - Simplistic interconnection with any other elements of the platform environment through dedicated API
+
+#### **Integration tools for interconnecting to other blockchains** /TBD/  
+Open source   
+[*Non-profit - Foundation operated*](https://opencollective.com/spacexpanse)   
+- It will provide the tools to run an interface layer based on another blockchain, but which exposes a [ROD core wallet](https://github.com/SpaceXpanse/rod-core-wallet/tree/0.6.8/doc/spacexpanse) RPC interface so that logics built with [libspex](https://github.com/SpaceXpanse/libspex) can run out-of-the-box on that other blockchain.
 
 ### Community
 
