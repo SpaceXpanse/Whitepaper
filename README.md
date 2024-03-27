@@ -52,18 +52,6 @@ Open source
 [*Non-profit - Foundation operated*](https://opencollective.com/spacexpanse)   
 - A protocol and system for executing trustless atomic trades on the **SpaceXpanse Multiverse** platform. This allows developers to integrate trading of their DApp/game assets for the main cryptocurrency /**ROD**/ and/or tokens in a fully trustless manner.
 
-#### [**ROD-to-Nostr framework**](https://github.com/SpaceXpanse/rod-to-nostr-framework) - a modified version of an open-source, censorship-resistant [**Nostr**](https://github.com/SpaceXpanse/nostr) protocol that aims to provide a more decentralized, privacy-centered and user-empowered alternative to traditional centralized ways to store and retrieve huge amounts of data. /WIP/  
-Open source  
-[*Non-profit - Foundation operated*](https://opencollective.com/spacexpanse)    
-Implementation follows [a set of rules](https://github.com/SpaceXpanse/nips) by using:
-- [ROD relay](https://github.com/SpaceXpanse/rod-framework?tab=readme-ov-file#relay)
-  - Anyone can run a relay, and they are responsible for storing the data by using one or more PostgreSQL instances, for example, and then forwarding it to other relays eventually. They also can set them public or private, collect a fee for using it, etc.
-  - Optional yield farming: lock some RODs through the remote wallet of a RODPay server. /TBD/
-- [ROD client](https://github.com/SpaceXpanse/rod-framework?tab=readme-ov-file#client)
-  - Users run clients on their own computers to connect to these relays to send and receive data.  
-
-Both will use ROD blockchain's storage capabilities thorugh the [libspex](https://github.com/SpaceXpanse/libspex) library to transfer data e.g. relay domain addresses, user presence between them.
-
 #### [**RODPay** server](https://github.com/SpaceXpanse/RODPay) - a free and open-source payment processor which allows you to accept payments without fees or intermediaries. /WIP/   
 Open source    
 [*Non-profit - Foundation operated*](https://opencollective.com/spacexpanse)   
@@ -80,6 +68,20 @@ Open source
   - **Marketplace** for your digital IDs, .rod domains, etc.;
   - **Crowdfunding** for supporting your projects;
   - Buttons for **Donation** receiving
+
+#### [**ROD-to-Nostr framework**](https://github.com/SpaceXpanse/rod-to-nostr-framework) - a modified version of an open-source, censorship-resistant [**Nostr**](https://github.com/SpaceXpanse/nostr) protocol that aims to provide a more decentralized, privacy-centered and user-empowered alternative to traditional centralized ways to store and retrieve huge amounts of data. /WIP/  
+Open source  
+[*Non-profit - Foundation operated*](https://opencollective.com/spacexpanse)    
+Implementation follows [a set of rules](https://github.com/SpaceXpanse/nips) by using:
+- [Data relay](https://github.com/SpaceXpanse/rod-to-nostr-framework?tab=readme-ov-file#relay)
+  - Anyone can run a relay, and they are responsible for storing the data, and then forwarding it to other relays eventually. They also can set them public or private, collect a fee for using it, run one or more database instances for redundancy, etc.
+  - And by applying some custom logic through the [libspex](https://github.com/SpaceXpanse/libspex) library and by **staking** or paying some RODs through the remote wallet of a [**RODPay** server](https://github.com/SpaceXpanse/RODPay) for example, one can benefit from having a trusted account, special access, yield farming, data mining, etc. /TBD/
+- [Data client](https://github.com/SpaceXpanse/rod-to-nostr-framework?tab=readme-ov-file#client)
+  - Users run clients on their own computers to connect to these relays to send and receive data.
+- [Data vending machines](https://github.com/SpaceXpanse/data-vending-machines)
+  - Nostr protocol can act as a marketplace for data processing, where users request jobs to be processed in certain ways (e.g., “speech-to-text”, “summarization”, etc.), but they don’t necessarily care about “who” processes the data.
+
+All of them can use ROD blockchain'se capabilities to transfer data e.g. relay domain addresses, user presence between them.
 
 #### [**SpaceXpanse DappEngine**](https://github.com/SpaceXpanse/DappEngine) - A versatile tool for creating 2D and simple 3D games and other dapps with ease /WIP/    
 Open source  
@@ -194,7 +196,8 @@ Where users can also buy, lend and sell what they want in near-real economy
 Warp drive invention to explore Milky Way galaxy and beyond. 
  -->
 ----
-*Further sophistication of the subject is covered in the [Whitepaper](https://github.com/SpaceXpanse/Whitepaper/wiki)*.  
+*Further sophistication of the subject is covered in the [Whitepaper](https://github.com/SpaceXpanse/Whitepaper/wiki)*. 
+*Even more sophistication of the subject and more thechnical data will covered in the upcoming [Yellowpaper](https://github.com/#)*.  
 *To get a notion of the time table and completeness of these intentions, visit [Roadmap](https://github.com/SpaceXpanse/Roadmap)*.
 
 ---- 
