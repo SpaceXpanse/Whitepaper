@@ -76,7 +76,7 @@ Implementation follows [a set of rules](https://github.com/SpaceXpanse/nips) by 
 - [Data relay](https://github.com/SpaceXpanse/rod-to-nostr-framework?tab=readme-ov-file#relay)
   - Anyone can run a relay, and they are responsible for storing the data, and then forwarding it to other relays eventually. They also can set them public or private, collect a fee for using it, run one or more database instances for redundancy, etc.
   - Their addresses can be served by the ROD blockchain's **dDNS** feature and sit behind a **.rod** domain for convenience and better platform integrity. 
-  - And by applying some custom logic through the [libspex](https://github.com/SpaceXpanse/libspex) library and by **staking** or paying some RODs through the remote wallet of a [**RODPay** server](https://github.com/SpaceXpanse/RODPay) for example, one can benefit from having a trusted account, special access, yield farming, data mining, etc. /TBD/
+  - Also by applying some custom logic through the [libspex](https://github.com/SpaceXpanse/libspex) library and by **staking** or paying some RODs through the remote wallet of a [**RODPay** server](https://github.com/SpaceXpanse/RODPay) for example, one can benefit from having a trusted account, special access, yield farming, data mining, etc. /TBD/
 - [Data client](https://github.com/SpaceXpanse/rod-to-nostr-framework?tab=readme-ov-file#client)
   - Users run clients on their own computers, or from the web, to connect to these relays to send and receive data.
 - [Data vending machines](https://github.com/SpaceXpanse/data-vending-machines)
