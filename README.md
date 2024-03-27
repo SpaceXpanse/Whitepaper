@@ -12,9 +12,9 @@ By *putting the crypto technology back on track*, we are making a next-generatio
 ## SpaceXpanse Multiverse /SpeX/ platform environment: 
 
 ### Technologies 
-[**ROD blockchain**](https://github.com/SpaceXpanse/rod-core-wallet/tree/0.6.8/doc/spacexpanse)  
+#### [**ROD blockchain**](https://github.com/SpaceXpanse/rod-core-wallet/tree/0.6.8/doc/spacexpanse)  
 Open source  
-*Non-profit - Foundation operated*
+[*Non-profit - Foundation operated*](https://opencollective.com/spacexpanse)  
 - Main cryptocurrency /**ROD**/, [fungible](https://github.com/SpaceXpanse/rod-core-wallet/blob/0.6.8/doc/spacexpanse/currencies.md) and [nonfungible](https://github.com/SpaceXpanse/libspex/tree/dev/nonfungible) tokens /NFTs/ - creation, storage and transaction
 - Decentralized DNS aka **dDNS** /derived from Namecoin/ which can serve **.rod** and/or other domains /WIP*/
 - [Digital IDs](https://github.com/SpaceXpanse/rod-core-wallet/blob/0.6.8/doc/spacexpanse/blockchain.md#names) for platform-wide trustless user identification which can even hold and transfer value in the ROD blockchain
@@ -24,9 +24,9 @@ Open source
 - [Atomic trading](https://github.com/SpaceXpanse/democrit-marketplace) to exchange in-game assets (fungible game currencies as well as non-fungible items) in a trustless manner.   
 - [Human mining](https://github.com/SpaceXpanse/rod-core-wallet/blob/0.6.8/doc/spacexpanse/games.md) aka **Play To Earn** model which allows parts of the mined block rewards to be "placed" inside an application, game or other, where users can pick/win them up and bank them to their on-chain address. /WIP/
 
-[**ROD framework**](https://github.com/SpaceXpanse/rod-framework) - a modified version of an open-source, censorship-resistant [**Nostr**](https://github.com/SpaceXpanse/nostr) protocol that aims to provide a more decentralized, privacy-centered and user-empowered alternative to traditional centralized ways to store and retrieve huge amounts of data. /WIP/  
+#### [**ROD framework**](https://github.com/SpaceXpanse/rod-framework) - a modified version of an open-source, censorship-resistant [**Nostr**](https://github.com/SpaceXpanse/nostr) protocol that aims to provide a more decentralized, privacy-centered and user-empowered alternative to traditional centralized ways to store and retrieve huge amounts of data. /WIP/  
 Open source  
-*Non-profit - Foundation operated*  
+[*Non-profit - Foundation operated*](https://opencollective.com/spacexpanse)    
 Implementation follows [a set of rules](https://github.com/SpaceXpanse/nips) by using:
 - [ROD relay:](https://github.com/SpaceXpanse/rod-framework?tab=readme-ov-file#relay) Anyone can run a relay /possibly after locking some amount of ROD in a wallet - TBD/, and they are responsible for storing the data by using one or more PostgreSQL instances, for example, and then forwarding it to other relays eventually. They can set them public or private, collect a fee for using it, etc.
 - [ROD client](https://github.com/SpaceXpanse/rod-framework?tab=readme-ov-file#client): Users run clients on their own computers to connect to these relays to send and receive data.  
@@ -39,36 +39,36 @@ Open source
 *Non-profit - Foundation operated*  
 - Implemented using both DPoS masternodes as Block Producers and peer-to-peer data storage nodes as Data Miners, which can store platform's data and files /public and private/ -->
   
-[**Side Channels**](https://github.com/SpaceXpanse/libspex/tree/dev/sidechannel) 
+#### [**Side Channels**](https://github.com/SpaceXpanse/libspex/tree/dev/sidechannel) 
 Open source   
-*Non-profit - Foundation operated*  
+[*Non-profit - Foundation operated*](https://opencollective.com/spacexpanse)    
 - Programable trustless interconnection **inside** the blockchain which allows two or more parties to interact through temporarily made [sidechains](https://www.coindesk.com/learn/an-introduction-to-sidechains/) in a very scalable, off-chain and almost real-time fashion.
 
 ### Development
 
-[**SpeX Library**](https://github.com/SpaceXpanse/libspex)      
+#### [**SpeX Library**](https://github.com/SpaceXpanse/libspex)      
 Open source  
-*Non-profit - Foundation operated*  
+[*Non-profit - Foundation operated*](https://opencollective.com/spacexpanse)   
 - Programable trustless interconnection **between** the blockchain and third-party applications to help developers have useful environment for effortless development of DApps in the platform  
 
-[**SpeXID**](https://github.com/SpaceXpanse/SpeXID) - Digital Identification application for SpaceXpanse Multiverse platform /WIP/    
+#### [**SpeXID**](https://github.com/SpaceXpanse/SpeXID) - Digital Identification application for SpaceXpanse Multiverse platform /WIP/    
 Open source  
-*Non-profit - Foundation operated*  
+[*Non-profit - Foundation operated*](https://opencollective.com/spacexpanse)   
 - An application built on top of the ROD blockchain, that turns each reserved name into a secure digital identity similar to [NameID](https://nameid.org)  
 
-[**Democrit**](https://github.com/SpaceXpanse/democrit-marketplace) - Trustless Marketplace Framework employing the features of ROD blockchain /WIP/   
+#### [**Democrit**](https://github.com/SpaceXpanse/democrit-marketplace) - Trustless Marketplace Framework employing the features of ROD blockchain /WIP/   
 Open source   
-*Non-profit - Foundation operated*  
+[*Non-profit - Foundation operated*](https://opencollective.com/spacexpanse)   
 - A protocol and system for executing trustless atomic trades on the **SpaceXpanse Multiverse** platform. This allows developers to integrate trading of their DApp/game assets for the main cryptocurrency /**ROD**/ and/or tokens in a fully trustless manner.
 
-**Integration tools for interconnecting to other blockchains** /TBD/  
+#### **Integration tools for interconnecting to other blockchains** /TBD/  
 Open source   
-*Non-profit - Foundation operated*  
+[*Non-profit - Foundation operated*](https://opencollective.com/spacexpanse)   
 - It will provide the tools to run an interface layer based on another blockchain, but which exposes a [ROD core wallet](https://github.com/SpaceXpanse/rod-core-wallet/tree/0.6.8/doc/spacexpanse) RPC interface so that logics built with [libspex](https://github.com/SpaceXpanse/libspex) can run out-of-the-box on that other blockchain.
 
-[**RODPay** server](https://github.com/SpaceXpanse/RODPay) - a free and open-source payment processor which allows you to accept payments without fees or intermediaries. /WIP/   
+#### [**RODPay** server](https://github.com/SpaceXpanse/RODPay) - a free and open-source payment processor which allows you to accept payments without fees or intermediaries. /WIP/   
 Open source    
-*Non-profit - Foundation operated*
+[*Non-profit - Foundation operated*](https://opencollective.com/spacexpanse)   
 - Direct, peer-to-peer payments
 - No additional transaction fees /other than the network fee/
 - No fees, middleman or KYC
@@ -83,9 +83,9 @@ Open source
   - **Crowdfunding** for supporting your projects;
   - Buttons for **Donation** receiving
 
-[**SpaceXpanse DappEngine**](https://github.com/SpaceXpanse/DappEngine) - A versatile tool for creating 2D and simple 3D games and other dapps with ease /WIP/    
+#### [**SpaceXpanse DappEngine**](https://github.com/SpaceXpanse/DappEngine) - A versatile tool for creating 2D and simple 3D games and other dapps with ease /WIP/    
 Open source  
-*Non-profit - Foundation operated*
+[*Non-profit - Foundation operated*](https://opencollective.com/spacexpanse)   
 
 - In DappEngine, everything on the screen is an object. /WIP/
 - It uses events to define the logic of your game. /WIP/
@@ -96,9 +96,9 @@ Open source
 - It's a cross-platform development software. You will be able to build games and other apps for mobile, desktop, and the web. /WIP/
 - It's an open-source, no-code game development software licensed under the MIT license.  
   
-[**SpaceXpanse Metaverse Simulator**](https://github.com/SpaceXpanse/Metaverse) - A playground for testing different environments, tools and objects in the platform /WIP/    
+#### [**SpaceXpanse Metaverse Simulator**](https://github.com/SpaceXpanse/Metaverse) - A playground for testing different environments, tools and objects in the platform /WIP/    
 Open source  
-*Non-profit - Foundation operated*
+[*Non-profit - Foundation operated*](https://opencollective.com/spacexpanse)   
 
 - Real-time realistic solar system with major celestial bodies, terrains and environment
 - Gravitational and other forces, affecting all objects accordingly /physics/
@@ -113,9 +113,9 @@ Open source
 
 ### Community
 
-[**Metalog**](https://github.com/SpaceXpanse/Metalog) - Decentarized Social Network /WIP/   
+#### [**Metalog**](https://github.com/SpaceXpanse/Metalog) - Decentarized Social Network /WIP/   
 Open source  
-*Non-profit - Foundation operated*
+[*Non-profit - Foundation operated*](https://opencollective.com/spacexpanse)   
 - Full-blown platform-wide social network in the blockchain, accessible within every platform's metaverse and/or DApp, using **Nostr** protocol to store user's private data and **ROD bockchain** for user's public data.
 
 **SpeXDAO** - Decentralized Autonomous Organisation /Deferred/   
@@ -123,22 +123,22 @@ Open source
 *Non-profit - Foundation operated*
 - Full-blown platform-wide application in the blockchain to serve as crowdfunding hub for user's projects within the platform and more
 
-[**Startup Hub**](https://github.com/SpaceXpanse/Startups) -A comprehensive ecosystem around our SpaceXpanse Multiverse platform to support new and upcoming projects /WIP/   
+#### [**Startup Hub**](https://github.com/SpaceXpanse/Startups) -A comprehensive ecosystem around our SpaceXpanse Multiverse platform to support new and upcoming projects /WIP/   
 Open source    
-*Non-profit - Foundation operated*
+[*Non-profit - Foundation operated*](https://opencollective.com/spacexpanse)   
 - It will not only provides news and information, through [a dedicated news website](https://www.cryptospace.today/p/about-this-website.html), but will include a dedicated section for new projects, where you can showcase your project and connect with potential investors and advisors.
 - It will also provide educational resources and tools to help you create and navigate in the complex world of cryptocurrencies.
 - It will provide a forum for discussion, networking, and collaboration. Whether you're a gamer, developer, creator, scientist, investor, visionary, or just a crypto enthusiast, our community will be the perfect place to connect with others who share same interests.
 - And [Hackathons](https://github.com/SpaceXpanse/Hackathons) will play a significant role in the SpaceXpanse Multiverse startup ecosystem by fostering innovation, collaboration, and problem-solving.
 
-[**D.A.R.M.A.**](https://www.spacexpanse.org) a.k.a Decentralized Artificial Responsive and Multipurpose Automate  
+#### [**D.A.R.M.A.**](https://www.spacexpanse.org) a.k.a Decentralized Artificial Responsive and Multipurpose Automate  
 Open source   
-*Non-profit - Foundation operated*  
+[*Non-profit - Foundation operated*](https://opencollective.com/spacexpanse)   
 - An OpenAI based artificial intelligence chatbot designed to assist the users becoming familiar with the platform features, programing and troubleshooting, and working across different platforms like the web, Telegram, and Discord.
 
-[**SpaceXpanse: Metaverse**](https://github.com/SpaceXpanse/Metaverse) - An actual, unstoppable, and immutable metaverse, aka autonomous world, dedicated to exploring SpaceXpanse Multiverse features using the SpaceXpanse Metaverse Simulator. /WIP/    
+#### [**SpaceXpanse: Metaverse**](https://github.com/SpaceXpanse/Metaverse) - An actual, unstoppable, and immutable metaverse, aka autonomous world, dedicated to exploring SpaceXpanse Multiverse features using the SpaceXpanse Metaverse Simulator. /WIP/    
 Open source  
-*Non-profit - Foundation operated*
+[*Non-profit - Foundation operated*](https://opencollective.com/spacexpanse)   
 
 - Real-time realistic solar system with major celestial bodies, terrains and environment
 - Gravitational and other forces, affecting all objects accordingly /physics/
@@ -150,9 +150,9 @@ Open source
 
 ### Entertainment  
 
-[**SpaceXpanse: Battleships**](https://github.com/SpaceXpanse/Battleships) - The classic game of Battleship, but with a twist /WIP/  
+#### [**SpaceXpanse: Battleships**](https://github.com/SpaceXpanse/Battleships) - The classic game of Battleship, but with a twist /WIP/  
 Open-source  
-Non-profit - Foundation operated  
+[*Non-profit - Foundation operated*](https://opencollective.com/spacexpanse)   
 Simple multiplayer online game in the ROD blockchain  
 
 - Developed on top of **libspex**'s headless Ships game with the help from various development tools.
@@ -162,7 +162,7 @@ Simple multiplayer online game in the ROD blockchain
 - Owning NFTs to straighten spaceship's attack and defense capabilities /TBA/
 - In-game communication in real time through **Metalog** /TBD/
 
-**SpaceXpanse: Wanderers** - A space exploration game in its own metaverse /TBD/    
+#### **SpaceXpanse: Wanderers** - A space exploration game in its own metaverse /TBD/    
 Closed-source  
 *For-profit - Legal entity operated*  
 Real-time Massive Multiplayer Open World Sandbox game with realistic look, physics and economics  
