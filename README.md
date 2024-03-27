@@ -143,6 +143,8 @@ Open source
 - It started as an OpenAI based artificial intelligence chatbot designed to assist the users becoming familiar with the platform features, programing and troubleshooting, and working across different platforms like the web, Telegram, and Discord.
 - But as the platform develops further, it will become more and more integrated into the platform's features to add functionality and make it easier to work with.
 
+### Entertainment  
+
 #### [**SpaceXpanse: Metaverse**](https://github.com/SpaceXpanse/Metaverse) - An actual, unstoppable, and immutable metaverse, aka autonomous world, dedicated to exploring SpaceXpanse Multiverse features using the SpaceXpanse Metaverse Simulator. /WIP/    
 Open source  
 [*Non-profit - Foundation operated*](https://opencollective.com/spacexpanse)   
@@ -154,8 +156,6 @@ Open source
 - Easy creation and editing of multi-part and multi-seated usable objects
 - Seamless integration with ROD blockchain by using [**libspex**](https://github.com/SpaceXpanse/libspex) library and Nostr for enabling features like secure logins, messaging, easy payments, creation and management of NFTs and tokens, etc.
 - Simplistic interconnection with any other elements of the platform environment through dedicated API
-
-### Entertainment  
 
 #### [**SpaceXpanse: Battleships**](https://github.com/SpaceXpanse/Battleships) - The classic game of Battleship, but with a twist /WIP/  
 Open-source  
