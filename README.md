@@ -119,7 +119,7 @@ Open source
 
 ### Community
 
-#### [**Metalog**](https://github.com/SpaceXpanse/Metalog) - Decentarized Social Network /WIP/   
+#### [**Metalog**](https://github.com/SpaceXpanse/Metalog) - Decentralized Social Network /WIP/   
 Open source  
 [*Non-profit - Foundation operated*](https://opencollective.com/spacexpanse)   
 - Full-blown platform-wide social network in the blockchain, accessible within every platform's metaverse and/or DApp, using **Nostr** protocol to store user's private data and **ROD bockchain** for user's public data.
