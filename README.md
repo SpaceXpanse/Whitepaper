@@ -17,13 +17,13 @@ By *putting the crypto technology back on track*, we are making a next-generatio
 Open source  
 [*Non-profit - Foundation operated*](https://opencollective.com/spacexpanse)  
 - Main cryptocurrency /**ROD**/, [fungible](https://github.com/SpaceXpanse/rod-core-wallet/blob/0.6.8/doc/spacexpanse/currencies.md) and [nonfungible](https://github.com/SpaceXpanse/libspex/tree/dev/nonfungible) tokens /NFTs/ - creation, storage and transaction
-- Decentralized DNS aka **dDNS** /derived from Namecoin/ which can serve **.rod** and/or other domains /WIP*/
-- [Digital IDs](https://github.com/SpaceXpanse/rod-core-wallet/blob/0.6.8/doc/spacexpanse/blockchain.md#names) for platform-wide trustless user identification which can even hold and transfer value in the ROD blockchain
+- Decentralized DNS aka **dDNS** /derived from Namecoin/, which can serve **.rod** and/or other domains /WIP*/
+- [Digital IDs](https://github.com/SpaceXpanse/rod-core-wallet/blob/0.6.8/doc/spacexpanse/blockchain.md#names) for platform-wide trustless user identification, which can even hold and transfer value in the ROD blockchain
 - Secure [storage of data](https://github.com/SpaceXpanse/rod-core-wallet/blob/0.6.8/doc/spacexpanse/blockchain.md#spacexpanse-is-based-on-namecoin-) in the blockchain **itself**.
 - Local data storage for DApps **outside** blockchain by using [SQLite](https://github.com/SpaceXpanse/Documentation/wiki/Hello-World-with-SQLite) /or LMDB/ database engine 
 <!-- - Decentralized Proof of Stake aka **DPoS** masternodes and peer-to-peer nodes for secure data storage **outside** blockchain by using SQLite /or other/ database engine /TBD/ -->
 - [Atomic trading](https://github.com/SpaceXpanse/democrit-marketplace) to exchange in-game assets (fungible game currencies as well as non-fungible items) in a trustless manner.   
-- [Human mining](https://github.com/SpaceXpanse/rod-core-wallet/blob/0.6.8/doc/spacexpanse/games.md) aka **Play To Earn** model which allows parts of the mined block rewards to be "placed" inside an application, game or other, where users can pick/win them up and bank them to their on-chain address. /WIP/
+- [Human mining](https://github.com/SpaceXpanse/rod-core-wallet/blob/0.6.8/doc/spacexpanse/games.md) aka **Play To Earn** model, which allows parts of the mined block rewards to be "placed" inside an application, game or other, where users can pick/win them up and bank them to their on-chain address. /WIP/
 <!--
 [**SpeXQL**](https://github.com/SpaceXpanse/SpeXQL) -  Decentralized database management system using ROD blockchain as medium for data transfer, interconnection and operations /Deferred/  
 Open source  
@@ -74,7 +74,7 @@ Open source
 [*Non-profit - Foundation operated*](https://opencollective.com/spacexpanse)    
 Implementation follows [a set of rules](https://github.com/SpaceXpanse/nips) by using:
 - [Data relay](https://github.com/SpaceXpanse/rod-to-nostr-framework?tab=readme-ov-file#relay)
-  - Anyone can run a relay, and they are responsible for storing the data, and then forwarding it to other relays eventually. They also can set them public or private, collect a fee for using it, run one or more database instances for redundancy, etc.
+  - Anyone can run a relay, and they are responsible for storing the data and then forwarding it to other relays eventually. They can also set them public or private, collect a fee for using it, run one or more database instances for redundancy, etc.
   - Their addresses can be served by the ROD blockchain's **dDNS** feature and sit behind a **.rod** domain for convenience and better platform integrity. 
   - Also, by applying some custom logic through the [libspex](https://github.com/SpaceXpanse/libspex) library and by **staking** or paying some RODs through the remote wallet of a [**RODPay** server](https://github.com/SpaceXpanse/RODPay) for example, one can benefit from having a trusted account, special access, yield farming, data mining, etc. /TBD/
 - [Data client](https://github.com/SpaceXpanse/rod-to-nostr-framework?tab=readme-ov-file#client)
@@ -82,7 +82,7 @@ Implementation follows [a set of rules](https://github.com/SpaceXpanse/nips) by 
 - [Data vending machines](https://github.com/SpaceXpanse/data-vending-machines)
   - Nostr protocol can act as a marketplace for data processing, where users request jobs to be processed in certain ways (e.g., “speech-to-text”, “summarization”, etc.), but they don’t necessarily care about “who” processes the data.
 
-All of them can use ROD blockchain'se capabilities to transfer data e.g. relay domain addresses, user presence between them.
+All of them can use ROD blockchain's capabilities to transfer data, e.g. relay domain addresses, user presence between them.
 
 #### [**SpaceXpanse DappEngine**](https://github.com/SpaceXpanse/DappEngine) - A versatile tool for creating 2D and simple 3D games and other dapps with ease /WIP/    
 Open source  
@@ -105,7 +105,7 @@ Open source
 - Gravitational and other forces, affecting all objects accordingly /physics/
 - Fast rendering with realistic level of detail /TBD/
 - Node-based programming logic /TBD/
-- Scenario programing through Lua - lightweight, embeddable programming language designed for scripting and extensibility
+- Scenario programming through Lua - lightweight, embeddable programming language designed for scripting and extensibility
 - Python support for modeling of mathematical and other scientific inquiries /TBD/
 - Support for Universal Scene Description /USD/ for collaboratively building 3D sceneries, intended for large-scale production. /TBC/ 
 - Easy creation and editing of new solar systems, planets and satellites, vehicles and other multi-part and multi-seated usable objects
@@ -122,9 +122,9 @@ Open source
 #### [**Metalog**](https://github.com/SpaceXpanse/Metalog) - Decentralized Social Network /WIP/   
 Open source  
 [*Non-profit - Foundation operated*](https://opencollective.com/spacexpanse)   
-- Full-blown platform-wide social network in the blockchain, accessible within every platform's metaverse and/or DApp, using **Nostr** protocol to store user's private data and **ROD bockchain** for user's public data.
+- Full-blown platform-wide social network in the blockchain, accessible within every platform's metaverse and/or DApp, using **Nostr** protocol to store user's private data and **ROD blockchain** for user's public data.
 
-**SpeXDAO** - Decentralized Autonomous Organisation /Deferred/   
+**SpeXDAO** - Decentralized Autonomous Organization /Deferred/   
 Open source    
 *Non-profit - Foundation operated*
 - Full-blown platform-wide application in the blockchain to serve as crowdfunding hub for user's projects within the platform and more
@@ -132,15 +132,15 @@ Open source
 #### [**Startup Hub**](https://github.com/SpaceXpanse/Startups) -A comprehensive ecosystem around our SpaceXpanse Multiverse platform to support new and upcoming projects /WIP/   
 Open source    
 [*Non-profit - Foundation operated*](https://opencollective.com/spacexpanse)   
-- It will not only provides news and information, through [a dedicated news website](https://www.cryptospace.today/p/about-this-website.html), but will include a dedicated section for new projects, where you can showcase your project and connect with potential investors and advisors.
-- It will also provide educational resources and tools to help you create and navigate in the complex world of cryptocurrencies.
-- It will provide a forum for discussion, networking, and collaboration. Whether you're a gamer, developer, creator, scientist, investor, visionary, or just a crypto enthusiast, our community will be the perfect place to connect with others who share same interests.
+- It will not only provide news and information through [a dedicated news website](https://www.cryptospace.today/p/about-this-website.html), but will also include a dedicated section for new projects, where you can showcase your project and connect with potential investors and advisors.
+- It will provide educational resources and tools to help you create and navigate the complex world of cryptocurrencies.
+- It will also provide a forum for discussion, networking, and collaboration. Whether you're a gamer, developer, creator, scientist, investor, visionary, or just a crypto enthusiast, our community will be the perfect place to connect with others who share the same interests.
 - And [Hackathons](https://github.com/SpaceXpanse/Hackathons) will play a significant role in the SpaceXpanse Multiverse startup ecosystem by fostering innovation, collaboration, and problem-solving.
 
 #### [**D.A.R.M.A.**](https://www.spacexpanse.org) a.k.a Decentralized Artificial Responsive and Multipurpose Automate  
 Open source   
 [*Non-profit - Foundation operated*](https://opencollective.com/spacexpanse)   
-- It started as an OpenAI based artificial intelligence chatbot designed to assist the users becoming familiar with the platform features, programing and troubleshooting, and working across different platforms like the web, Telegram, and Discord.
+- It started as an OpenAI based artificial intelligence chatbot designed to assist users becoming familiar with the platform features, programming and troubleshooting, and working across different platforms like the web, Telegram, and Discord.
 - But as the platform develops further, it will become more and more integrated into the platform's features to add functionality and make it easier to work with.
 
 ### Entertainment  
@@ -152,7 +152,7 @@ Open source
 - Real-time realistic solar system with major celestial bodies, terrains and environment
 - Gravitational and other forces, affecting all objects accordingly /physics/
 - Fast rendering with near realistic level of detail /TBD/
-- Scenario programing through Lua - lightweight, embeddable programming language designed for scripting and extensibility
+- Scenario programming through Lua - lightweight, embeddable programming language designed for scripting and extensibility
 - Easy creation and editing of multi-part and multi-seated usable objects
 - Seamless integration with ROD blockchain by using [**libspex**](https://github.com/SpaceXpanse/libspex) library and Nostr for enabling features like secure logins, messaging, easy payments, creation and management of NFTs and tokens, etc.
 - Simplistic interconnection with any other elements of the platform environment through dedicated API
@@ -175,7 +175,7 @@ Closed-source
 Real-time Massive Multiplayer Open World Sandbox game with realistic look, physics and economics  
 - Developed on top of **SpaceXpanse Metaverse Simulator** with the help from various development tools /TBA/. <!-- - Partly closed source /for the game engine and game logic/ -->
 - Made with **Unreal Engine 5** <!-- and Vulcan -->
-- Sophisticated gameplay: Player versus Environment aka PvE /possible addition of PvP/, massive near-real economy, tactical combat and strategic skills development
+- Sophisticated gameplay: Player versus Environment, aka PvE /possible addition of PvP/, massive near-real economy, tactical combat and strategic skills development
 - In-game communication in real time /through **Metalog**/
 - Creation and customization of avatars <!-- - Voice-activated commands -->
 - NFTs for ownership of land, objects and goods
