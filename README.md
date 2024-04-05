@@ -112,7 +112,7 @@ Open source
 - Seamless integration with ROD blockchain by using [**libspex**](https://github.com/SpaceXpanse/libspex) library and Nostr for enabling features like secure logins, messaging, easy payments, creation and management of NFTs and tokens, etc.
 - Simplistic interconnection with any other elements of the platform environment through dedicated API
 
-#### **Integration tools for interconnecting to other blockchains** /TBD/  
+#### **Integration tools for interconnection with other blockchains** /TBD/  
 Open source   
 [*Non-profit - Foundation operated*](https://opencollective.com/spacexpanse)   
 - It will provide the tools to run an interface layer based on another blockchain, but which exposes a [ROD core wallet](https://github.com/SpaceXpanse/rod-core-wallet/tree/0.6.8/doc/spacexpanse) RPC interface so that logics built with [libspex](https://github.com/SpaceXpanse/libspex) can run out-of-the-box on that other blockchain.
