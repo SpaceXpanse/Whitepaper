@@ -110,8 +110,9 @@ Open source
 - Support for Universal Scene Description /USD/ for collaboratively building 3D sceneries, intended for large-scale production. /TBC/ 
 - Easy creation and editing of new solar systems, planets and satellites, vehicles and other multi-part and multi-seated usable objects
 - Seamless integration with ROD blockchain by using [**libspex**](https://github.com/SpaceXpanse/libspex) library and Nostr for enabling features like secure logins, messaging, easy payments, creation and management of NFTs and tokens, etc.
-- Simplistic interconnection with any other elements of the platform environment through dedicated API
+- Simplistic interconnection with any other elements of the platform environment through dedicated API  
 
+**SpaceXpanse Launchpad**: The central interface and integration hub for the entire SpaceXpanse Multiverse platform, serving as both a launcher for the Metaverse Simulator and a unified portal into its decentralized ecosystem. Originally developed to initiate and manage 3D simulation scenarios, the Launchpad has evolved into a robust controller that will integrate essential platform features such as the ROD blockchain wallet (for managing coins, tokens, and NFTs), the SpeXID digital identity system (for secure, persistent user authentication), and Metalog through the Nostr protocol (for decentralized social messaging and payments), that will also act as private data storage and relay). It will soon enable creators to develop and launch DApps with DappEngine, and mint and trade digital assets through native community-driven marketplace. Future updates aim to empower users to present their ideas, run crowdfunding campaigns and the others to vote and invest in them, lease system resources like GPUs and HDDs, all that from one interface, using ROD coins. 
 #### **Integration tools for interconnection with other blockchains** /TBD/  
 Open source   
 [*Non-profit - Foundation operated*](https://opencollective.com/spacexpanse)   
