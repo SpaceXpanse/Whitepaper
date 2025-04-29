@@ -1,4 +1,4 @@
-# The SpaceXpanse Multiverse /SpeX/ platform    
+# The SpaceXpanse Multiverse /SpeX/ platform - Build. Play. Earn.   
 ### The metaverse of the future  
 ***A comprehensive  manifesto of the intentions for the next few years***  
 
